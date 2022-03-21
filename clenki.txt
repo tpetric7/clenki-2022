@@ -1,0 +1,1258 @@
+NEMŠKI NAKLONSKI ČLENKI IN NJIHOVI SLOVENSKI USTREZNIKI
+PRIVATE SPLOŠNO O SREDSTVIH ZA IZRAŽANJE NAKLONSKOSTI
+Uvod
+Nemščina sodi med tiste jezike, ki za izražanje nepropozicijskega pomena, tj. odnosa govorca do izrečenega (prim. Weydta 1969), epistemičnosti (prim. Dohertyjevo 1985, 1987), emotivne naklonskosti (prim. Bublitza 1978), razjasnitev govornih dejanj (prim. Helbiga 1977) uporablja poleg univerzalnega sredstva intonacije tudi členke. Za nemški jezik je to celo zelo običajno. V slovenščini je skupina členkov, ki lahko imajo podobne vloge kot nemški naklonski členki. Naklonska raba teh členkov je v ospredju naše protistavne primerjave nemških in slovenskih členkov.
+(1)Za nekatere je življenje strašno enostavno, za nekatere pa enostavno strašno. Tako je pač življenje. 
+(2)Für einige ist das Leben schrecklich einfach, für einige dagegen einfach schrecklich. So ist halt das Leben.
+PRIVATE O naklonskostiTC  \l 4 "3.3.1Pojem naklonskosti" nemških naklonskih členkov
+O pojmu naklonskosti (modalnosti), s katerim skušam naklonske členke izrazoslovno razlikovati od ostalih funkcijskih vrst členkov, se je v jezikoslovni literaturi veliko razpravljalo, saj so predstave nejasne. Jezikoslovci so si enotni predvsem v tem, da naklonskost ni sestavina propozicije (pomenske podstave stavka), temveč nekaj, kar se ji dodaja (Vater 1975:104). S pojmom naklonskosti (modalitete) torej naklonski členki (Modalpartikeln) niso nič bolje opredeljeni, saj se s tem pove edinole to, da ničesar ne prispevajo k vsebini propozicije in zato tudi ne spremenijo njene resničnosti oz. neresničnosti. 
+Naklonskost izražamo v vseh jezikih sveta, medtem ko so naklonski členki posebnost nekaterih jezikov. Najsplošnejša sredstva za izražanje naklonskosti so stavčne oblike in intonacija. V jezikih sveta najdemo vrsto jezikovnih sredstev, ki imajo podoben naklonski pomen kot nemški naklonski členki. 
+(3)(The bus doesn't run on Sundays.) - Come by train then. - So komm eben mit dem Zug. (veznik then; Schubiger 1965:76)
+(4)Do stop that noise ! - Hör bloß mit diesem Krach auf ! pomožnik do; Hoffmann 1976:96)
+(5)I asked him to come and see me today. - Ich lud ihn ein, mich doch heute zu besuchen.
+(priredno združena nedoločnika; Heinrichs 1981:71)
+(6)But why do you come so late? - Warum kommst du denn so spät?
+(veznik but; Heinrichs 1981:73)
+(7)I can use your soap, can't I ? - Ich kann doch deine Seife benutzen ? 
+(angl. “question tag”; Hoffmann 1976:108)
+(8)... hätte ich nur das nicht getan ! - ... om jag bara inte hade gjort det här !
+(šved. členek bara; Heinrichs 1981:68)
+(9)Was haben Sie nur ? - Hur är det med er egentligen ? (nem. – šved. Heinrichs 1981:68)
+(10)Tulepa tänne ! - Komm mal her ! (Suffix -pa; finsko – nem., Steiner/Assmann 1971:139)
+(11)quisnam ? - wer denn ?; ubinam ? - wo denn ? (lat. pripona -nam; Heinrichs 1981:72)
+(12)Alors, viens ici ! - Komm mal her !
+(parentetičen alors; franc. Heinrichs 1981:72)
+(13)Svari sup ! Ty e umeeš' gotovit'. - Make the soup ! You know, don't you, how to cook.
+(rus. nakl. členek e=schon; Schooneveld 1989:100 v Weydt 1989)
+(14)Wo habe ich nur meine Schlüssel liegengelassen ?
+Gd(j)e li sam samo ostavio kljueve ? (hrv./srb. členek samo, Dahl 1988:206)
+(15)Wo habe ich nur meine Schlüssel liegengelassen ?
+Le kje sem pustil ključe ? (slov. členek le)
+(16)A: Kakšna puritanka si ! - B: (Skomignila je z rameni) Tako so me pa vzgojili. (slov. členek pač)
+A: Wie puritanisch du bist ! - B: (Sie zuckte mit den Achseln) So hat man mich eben erzogen. 
+Možno je razlikovati subjektivno in objektivno naklonskost. Tradicionalna logika se je ukvarjala predvsem z objektivno naklonskostjo. Naklonskost v jeziku, zlasti če je slovnično izražena, pa je v večji meri subjektivna, kar je razvidno iz teorije govornih dejanj ali govorčevih odnosov in stališč do propozicije, ki jo poved izraža (prim. Lyons 1977:452 in Palmer 21988:16). Po Lyonsu (1977:739) je subjektivnost zelo pomembna za razumevanje naklonskosti. Naklonskost bi potemtakem lahko opisali kot gramatikalizacijo govorčevih stališč in odnosov do stavčne vsebine. Subjektivnost pa bi bila osnovno merilo za opredelitev naklonskosti. Pomen naklonskih členkov (gl. 1b oz. ustreznik 1a) moramo iskati v sferi subjektivne naklonskosti.
+Nemški naklonski členki sodijo torej v subjektivno sfero naklonskosti, natančneje pa med sredstva epistemične naklonskosti. Epistemična naklonskost je povezana z védenjem in prepričanjem ('belief') ali mnenjem, deontična naklonskost pa z nujnostjo, s potrebnostjo ali z možnostjo dejanj (Palmer 21988:20). Najbrž so v mnogih jezikih na voljo oblike, ki dovoljujejo tako deontično kot epistemično interpretacijo - npr. naklonski glagoli v angleščini, nemščini in slovenščini ali nepregibne besede kot npr. slovenski lahko. 
+(17)He must be in his office. (deontična raba glagola must: »nujno / potrebno je, da je v pisarni«)
+(njegova epistemična raba: »najbrž / verjetno je v pisarni«)
+(18)He can't be in his office. (zanikovanje epistemičnega glagola must: »najbrž ni v pisarni«)
+(19)He mustn't be in his office. (zanikovanje deontične rabe glagola must: »ni dovoljeno, da je v pisarni«)
+(20)Er kann / mag krank sein. (epistemična raba: verjetno je, domnevno)
+(21)Du kannst / darfst den Ball behalten. (deontična raba: »dovolim, da žogo obdržiš«)
+(22)Žogo lahko obdržiš / Žogo smeš obdržati. (deontična raba: »dovolim, da žogo obdržiš«)
+(23)Balon lahko vidiš že iz velike razdalje. (deontična raba: »balon je možno videti …«)
+(24)Če se ne motim, bi Janez lahko bil v pisarni. (epistemična raba: »obstaja določena verjetnost, da …«)
+V nadaljevanju bom podrobneje opisal pomenske lastnosti nemških naklonskih členkov.
+POMEN in VLOGE  NEMŠKIH NAKLONSKIH ČLENKOV 
+Pomenoslovni in pragmatični pristop pri oPRIVATE pisu pomena naklonskih členkov TC  \l 4 "3.3.2Opis pomena naklonskih ~lenkov "
+Pri opisu pomena naklonskih členkov so glede na teoretično naravnanost in interesno ozadje možne velike razlike. Izsledke je le težko spraviti na skupni imenovalec, saj so ocene o upravičenosti teh ali onih analiznih postopkov različne. Weydt (1981:50d) ugotavlja, da pri preučevanju členkov v bistvu prevladujeta dve raziskovalni smeri: ena predvsem pomenoslovno (semantično) naravnana in druga predvsem pragmatično naravnana smer. 
+Pomenoslovni pristop
+V okviru (pretežno) pomenoslovnega (semantičnega) pristopa jezikoslovci poskušajo opisovati naklonske členke natanko tako kot ostale slovarske enote. V takem pristopu nimajo samostojnega slovarskega (leksikalnega) pomena. Slovarski pomen predstavniki te smeri vidijo le v zvezi s pomenom povedi. Le-tega implicira stavčni naklon ('Satzmodus' ('Satzart')).
+Med najvidnejšimi predstavniki te smeri je Krivnonosov. Krivonosov (1977:211) označuje naklonske členke kot izraz logičnega silogizma, tj. kot znak, ki v besedilu kaže na pomankljivost, nedovršenost sklepa in obvešča sogovornika o njih (prim. tudi Krivonosov 1983 in Abraham 1991č). Stavek, ki vsebuje naklonski členek, naj bi bila sodba oz. sklep glede govorne situacije, pri čemer ena izmed potrebnih premis v jeziku ni izražena temveč implicirana (prim. tudi 3.4.5). Pristop Krivonosova sicer ni povsem semantično zasnovan. Tudi Krivonosov mora svoje strukturno analizno ogrodje 'napolniti' s pragmatično vsebino in uporabljati interpretativne kategorije, saj izpeljuje odsotno premiso iz življenjskega izkustva govorca in poslušalca (prim. tudi Krivonosov 1983:42). 
+Silogizem je vzročno posledični sklep na osnovi prispevkov govorcev, ki ga sestavljata prvotni in drugotni stavek. Prvotni stavek vsebuje splošno, drugotni stavek pa posebno trditev. Argumenti v razpravi imajo svoj smisel le, če sta trditvi (premisi) resnični in udeležencem besedilnega poteka znani. Po Krivonosovu (1983:42) se v jeziku ne izraža potrebna prva (splošnejša) trditev, ker je le-ta rezultat življenjskih izkušenj govorca in poslušalca, izkušenj njunih predhodnih generacij in zato samoumevna. Krivonosov (1977:208) ponazarja svoj pristop v (25) s stavkom Ich bin doch ein ehrlicher Mensch, wozu soll ich Sie denn belügen?. Premisa Ehrliche Menschen lügen nicht je splošno (pri)znana. Zgled (26) vsebuje popolno obliko silogizma.
+(25)1. premisa:-
+2. premisa:Ich bin doch ein ehrlicher Mensch.
+sklep:Wozu soll ich Sie denn belügen?
+(26)1. premisa:Ehrliche Menschen lügen nicht.
+2. premisa:Ich bin ein ehrlicher Mensch.
+sklep:Ich lüge nie.
+Obstaja torej vsem udeležencem znan razlog, zakaj vprašujoči ne laže. Naklonski členek denn nam kaže, da ima govorec sobesedilno utemeljen razlog za vprašanje. 
+ (419)Anna kommt aus den Steiner Alpen. (A: posebni primer)
+Leute aus den Steiner Alpen können wie Bergziegen klettern. (B: splošni primer)
+Anna kann wie eine Bergziege klettern. (C: sklep, posplošitev)
+(420)Anna kann wie eine Bergziege klettern (C), sie kommt (ja) aus den Steiner Alpen (A).
+V jeziku takih nepopolnih (navideznih) silogizmov ne manjka, v nemščini pa dokaj pogosto nastopajo še naklonski členki kot indeksikalni izrazi, ki kažejo, da v utemeljitvi nekaj manjka (prim. tudi Krivonosov 1983 in Abraham 1991č). 
+Pristop Dohertyjeve temelji na (kar se da) doslednem ločevanju med stavčnim in povednim pomenom ('Satzbedeutung' nasproti 'Äußerungsbedeutung'). Dohertyjeva (1985) poskuša prvič v takšnem obsegu in v takšni doslednosti opisovati stavčni pomen brez upoštevanja povednega pomena. Po njej je pomembno ostro ločiti jezikovno in zunajjezikovno določene deleže v interpretaciji naklonskih členkov - izhajati torej želi iz samih lastnosti jezikovnih prvin, da bi lahko ustrezno opisala in razložila njihove posebnosti.
+Dohertyjeva (1985:15) pojmuje naklonske členke (npr. doch, etwa, denn, ja in wohl ) kot pozicionalna izrazna sredstva (oz. atitudinalna - Doherty 1987), s katerimi govorec izraža epistemski odnos (tj. naravnanost), ki se nanaša na obstoj ali neobstoj dogodka v resničnosti ('Sachverhalt'). Povrhu z naravnanostnimi členki ('Einstellungspartikel' -  to je izraz, ki ga Dohertyjeva uporablja namesto uveljavljenih izrazov 'Abtönungspartikel' in 'Modalpartikel') določamo tudi odnos do drugih vrst naravnanosti (odnosov) nasproti temu dejstvu in potemtakem tudi do drugih pozicionalnih sredstev. Najpomembnejša je zato sistemsko pogojena raba, ki jih zunajjezikovne danosti (sotvarja) ne morejo izničiti ali obiti; pri tem ne gre za sistemsko pogojeno rabo samo ene vrste jezikovnih izrazov, temveč celotnega sistema pozicionalnih izraznih sredstev. Da bi pri opisu pomena posameznih naklonskih členkov lahko zajeli čim več njihovih sobesedilnih lastnosti, je glede na povezanost z naklonskimi členki potrebno oblikovati ustrezne sobesedilne razrede ('relevante Kontextklassen'), ki določajo pogoje uporabe naklonskih členkov in potemtakem delujejo omejevalno. Dohertyjeva (1985:35) jih zato prav tako šteje k pozicionalnim izraznim sredstvom. Določeni stavčni prislovi, naklonski glagoli, stavčni nakloni, stavčna nikalnica, po pomenu sorodna povedja in protivni poudarek oblikujejo relevantne sobesedilne razrede, njihov pomen, nastopanje in povezovanje pa opisuje s pomočjo pomenov naklonskih členkov. Glede na svoje osnovne domneve šteje Dohertyjeva je naravnanost del jezikovno določenega stavčnega pomena, to pomeni, da so naravnanostne vrste predmet stavčnega pomenoslovja (semantike) in ne pragmatike. Po njenem prepričanju je le tako mogoče spoznati invariantni osnovni pomen naklonskih členkov.
+Dohertyjeva (1985 in 1987) opisuje naklonske členke kot naravnanostna sredstva, kar je v očitnem nasprotju z mnogimi drugimi jezikoslovci, ki obravnavajo in poudarjajo zlasti ilokutivne značilnosti naklonskih členkov (npr. Helbig 1977, Bublitz 1978, Franck 1980, Weydt/Hentschel 1983, Hentschel 1986). Gre za navidezno nasprotje, saj tudi Dohertyjeva meni, da so naklonski členki pomembni za ilokutivnost povedi (npr. zmanjšujejo ilokutivno nejasnost povedi, saj kažejo, da je potrebno uporabljati določeno védenje), vendar pa zagovarja stališče, da je ilokutivna relevantnost naklonskih členkov osnovana na prepletanju epistemskega pomena različnih izraznih sredstev in potemtakem pomenoslovna (tj. semantična). Sobesedilne omejitve pri uporabi naklonskih členkov kažejo mnoge drobne posebnosti (idiosinkratičnosti), tako da jih najbrž ni mogoče posploševati (Doherty 1987:97). Povzemam njene izsledke o 'naravnanostnih členkih' ja in denn. 
+Naravnanostni členek ja/JA. Nepoudarjeni ja (27) je vezan na trdilni naravnanostni naklon ('assertiver Einstellungsmodus'), njegov pomen pa lahko opišemo s stavčjem 'Možno je, da poslušalec ve propozicijo (p)' (Doherty 1987:101). Poudarjeni JA je lahko protivni (kontrastni) JA (28) ali namerni (intencionalni) JA (29); slednji je po Dohertyjevi (1987:131) le sobesedilna različica prvega. Protivni členek nakazuje (implicira) govorčevo/poslušalčevo védenje o propoziciji, namerni členek pa nakazuje možnost, da poslušalec ve, da je nasprotna propozicija (-p) s čustvenega stališča ocenjena kot slaba. 
+(27)Konrad ist ja verreist. 
+(28)Konrad ist JA verreist.
+(29)Komm JA nach Hause!
+Naravnanostni členek denn/DENN. Nepoudarjeni denn (31) je vezan na netrdilni oz. odprti naravnanostni naklon, nakazuje pa oceno, ki vprašanje omejuje na prvotno epistemsko vlogo (Doherty 1987:104). Vprašanje (30) lahko poslušalec razume (posredno) tudi kot poziv, medtem ko lahko razume vprašanje (31) le kot vprašanje. Dohertyjeva ne upošteva možnosti, da bi vprašanje (31) lahko uporabili tudi kot retorično vprašanje (tj. kot posredno izraženo trditev); to je še posebej jasno v zgledu (32). Vprašljiv je najbrž tudi pomenoslovni opis naklonskega členka, ki ga lahko povzamem s stavčjem 'govorec nakazuje, da poslušalec ve, ali je naravnanostno ocenjena propozicija (p) ali nasprotna propozicija (-p) resnična'. Protivni členek DENN (33) Dohertyjeva razlaga kot izpeljavo iz nepoudarjenega členka denn in protivnega poudarka, njegov pomen pa lahko opišem s stavčjem 'govorec nakazuje, da poslušalec ve, ali je naravnanostno ocenjena propozicija (p) ali nasprotna propozicija (-p) ali alternativni del propozicije (npr. vprašalnica) resnič(e)n(a)'. Ena izmed sobesedilnih omejitev protivnega členka DENN je njegova nezdružljivost z neprozornimi stavčnimi prislovi (npr. wahrscheinlich), kar pa na sploh velja za odprti naravnanostni naklon, in celo s prozornimi (npr. wirklich).
+(30)Kommst du mit?
+(31)Kommst du denn mit?
+(32)Bist du denn wahnsinnig?
+(33)Wo ist Konrad DENN gewesen?
+S pristopom Dohertyjeve (1985 in 1987) ali Wolskega (1986), ki izhaja s sorodnih teoretičnih stališč, ni mogoče zajeti vseh plati uporabe naklonskih členkov. Pri tako zelo sobesedilno odvisnih izraznih sredstvih pa je pomenoslovno in pragmatično ravnino najbrž potrebno ločiti. Gre namreč za jezikoslovno razvojno obdobje, v katerem jezikovne pojave, za katere se je zdelo, da jih je moč opisovati samo z znotrajjezikovnimi pravili oz. načeli, čedalje bolj 'osvajajo' teoretični pristopi, ki so sobesedilno/sotvarno zasnovani, pragmatični in pogovorno analitični. Ločitev stavčnega in povednega pomena je Dohertyjeva izpeljala zelo dosledno, kljub temu pa Bublitz (1988:242-243) meni, da dopolnjevanje njenih pomenoslovno določenih rezultatov z interpretativnimi, sobesedilno vezanami vidiki ni izključeno ali celo odvečno, temveč bi bilo celo zaželeno, saj je trenutno še v zametkih (npr. v raziskavah Bastertove 1985 ali Hentschlove 1986).
+Dohertyjeva (1982:175) želi ločevati jezikovno določeni pomen od zunajjezikovno določenega pomena in se na ta način izogniti napaki, ki jo po njenem mnenju pogosto delajo pragmatiki, namreč da iz množice različnih povednih razredov (sobesedilnih razredov), v katerih nastopa določen členek, izpeljujejo množico različnih pomenov členka (Doherty 1982:174). Tako naj bi na primer funkcija določene različice členka doch, ki ima po mnenju pragmatikov (poenostavljeno) funkcijo »spominjanja na znano«, ne izhajala iz določenega jezikovnega sredstva, temveč samo iz našega splošnega izkustva, po katerem naj bi bile vsebine, o katerih govorimo, sogovorniku ponavadi že znane (Doherty 1982:174). Ta kritika je sicer upravičena in kaže problematičnost nejasnega pragmatičnega pristopa, vendar pa Dohertyjeva sama uporablja pojme, kot so 'pritrditev' ('Bekräftigung') in 'prepričevanje' ('Vergewisserung'), ki izvirajo iz pogovornega jezika in na katere krči pomen členka doch. 
+Pragmatični pristop
+Prvo delo, ki je bilo na pragmatičnem področju nekakšen kažipot, je bila pogosto navajana Weydtova disertacija (1969). Izraz te raziskovalne paradigme je npr. tudi to, da so naklonske členke označevali kot označevalce govornih dejanj, tj. kot ilokutivne indikatorje (npr. Helbig 1977:34 ali Bublitz 1978:13), ali celo kot spreminjevalce govornih dejanj, tj. kot modifikatorje ilokutivnih vlog (npr. Sandig 1979:89d; Franck 1980:108d).
+V novejšem času so vidni napori, da bi strogo ločevanje pomenoslovja (semantike) in pragmatike opustili. To se kaže zlasti v uporabi pojmov. Medtem ko so 'pomen' rabili samo v pomenoslovnem smislu, 'funkcijo' pa le v pragmatičnem smislu, je pojem 'pomen' prodrl tudi v pragmatični tabor. To je posledica položajske (statusne) spremembe raziskovalnih paradigm. Ti jezikoslovci domnevajo, da naklonski členki nimajo pomena v tradicionalnem smislu te besede. Pomen naklonskega členka razumejo predvsem kot vsoto pogojev za uporabo neke besede (Wolski 1984:463) oz. kot tisto, kar se - v zvezi z določenimi sobesedilnimi dejavniki - stalno ponavlja (Gornik-Gerhardt 1981:28). Tistim jezikovnim prvinam, ki sicer tudi služijo sporazumevanju, toda ne izmenjavi 'golih' informacij, potemtakem tudi pripisujejo pomenoslovni položaj (semantični status). Zato v takih delih ne ločujejo jasno med pomenom in funkcijo. Za te novejše pristope je tudi značilno, da pri analizi v večji meri upoštevajo vlogo poslušalca. Pogosto ti jezikoslovci očitajo, da je tradicionalno pomenoslovje (semantika) vselej zanemarjalo pomemben del besedišča, v katerega sodijo naklonski členki (prim. Wolski 1984:458).
+Franckova sodi pravi tako med tiste jezikoslovce, ki skušajo ponatančiti pragmatični pristop, saj ga dopolnjuje s pomenoslovnimi (semantičnimi) in slovničnimi (gramatičnimi) vidiki. Po Franckovi (1980:216) so pomenske sestavine naklonskih členkov tele:
+1.Naklonski členki spremenijo govorno dejanje ('illokutionsmodifizierend').
+2.Naklonski členki opredeljujejo sotvarje ('situationsdefinierend').
+3.Naklonski členki krmilijo potek pogovora ('konversationssteuernd') in povezujejo sestavne dele pogovora med seboj ('konversationskonnektierend').
+4.Naklonski členki so sredstvo za urejanje odnosov med sogovorniki ('Beziehungsmanagement').
+5.Naklonski členki so sredstvo za sprotno usklajevanje interpretacije med pogovorom ('Interpretationsmanagement').
+6.Naklonski členki relativirajo predikacijo (prisojevalni sklad) in so argumentativni (utemeljujoči).
+7.Naklonski členki so sestavni del določenih ritmičnih vzorcev ('rhythmische Muster').
+Pomen naklonskih členkov označuje Franckova (1980:XII,167d,254d) kot navodilo za kontekstualiziranje ('Kontextualisierungsanweisung'), ki ga lahko izpeljemo z več ali manj konvencionaliziranimi implikaturami.
+Njen pristop je s stališča konverzacijske teorije najobsežnejši. Nanaša se na govorno situacijo (2.), na govorca in poslušalca (4. in 5.), na jezikovno dejanje kot celoto (3. in 6.) in na njegove dele (1. in 6.); poleg vidika dejanja ('Handlungsaspekt') obravnava tudi tematsko vsebinski vidik. Povrhu upošteva tudi ritmično zgradbo povedi. 
+Iz doslej navajanega je že jasno, da moramo iskati pomen oz. del pomena naklonskih členkov na nepropozicijskem področju. V naslednjih odstavkih bom opisoval njihov pomen in osvetlil različne pristope v nekaterih doslej opravljenih raziskavah o naklonskih členkih.
+Naklonski členki imajo različne in kompleksne funkcije, ki so jih dognali šele v komunkikativno pragmatičnih naravnanih disciplinah novejšega jezikoslovja (prim. tudi Helbig 1986:148d,234d). Helbig (1988:56-63) navaja šest različnih funkcij naklonskih členkov:
+1.naklonski členki kot izrazi naravnanosti oz. kot izrazi, ki uravnavajo naravnanost ('Einstellungsausdrücke' oz. 'einstellungsregulierende Ausdrücke');
+2.naklonski členki kot izrazi, ki opredeljujejo sotvarje ('situations-definierende Ausdrücke');
+3.naklonski členki kot izrazi, ki označujejo ali spremenijo govorno dejanje ('illokutionsindizierend oder -modifizierend');
+4.naklonski členki kot izrazi, ki krmilijo besedilni potek ('konversationssteuernde Ausdrücke');
+5.naklonski členki kot izrazi z interakcijsko strateškimi funkcijami ('Ausdrücke mit interaktionsstragischen Funktionen') in
+6.naklonski členki kot vezniški izrazi ('konnektierende Ausdrücke').
+1.Weydt (1969:68) vidi pomen oz. funkcijo naklonskih členkov v tem, da izražajo naravnanost ali odnos govorca do izrečenega ('die Stellung des Sprechers zum Gesagten'). Z naklonskimi členki torej izraža govorec določene odnose, predpostavke in pričakovanja, ki jih ima nasproti poslušalcu ob izvršitvi dejanja. V novejši jezikoslovni literaturi se, kot že povedano, v največji meri strinjajo s tem, da naklonski členki ničesar ne prispevajo k vsebini propozicije, temveč da so povezani z naravnanostjo govorca. Sodijo torej predvsem na intencijsko ravnino ali ravnino odnosov ('Intentionsebene') in ne na opisno ravnino ('Darstellungsebene'), če se izrazimo z Weydtom (1969:61). V tem smislu je Dohertyjeva (1985) nekatere naklonske členke razumela kot slovarska izrazna sredstva za različne načine naravnanosti in jih je zato imenovala kar naravnanostni členki ('Einstellungspartikeln'). V njeni jezikoslovni analizi imajo ti slovarski izrazi jezikovni pomen, ki je osnova za to, da se s pomočjo sobesedila lahko oblikuje ustrezen povedni pomen ('Äußerungsbedeutung') in z interakcijsko situacijo ustrezen komunikativni smisel ('kommunikativer Sinn'). Wolski (1986:383d,490) je izhajal iz podobnih teoretičnih izhodišč in je poskušal teoretični pristop Dohertyjeve dopolnjevati. Dokazoval je, da naklonski členki ne izražajo kar sami različne načine naravnanosti (kot npr. ti. stavčni prislovi - 'Satzadverbien' oz. naklonske besede - 'Modalwörter'), temveč da se (statusno) uvrščajo nad načine naravnanosti, ki se izražajo z drugimi sredstvi za različne vrste naravnanosti. Wolski jih torej razume kot izrazna sredstva, ki uravnavajo govorčevo naravnanost ali odnos do pomenske podstave stavka ('einstellungsregulierende Ausdrucksmittel').
+2.Naklonski členki vsebujejo tudi namige na percepcijo in vrednotenje konkretnih in aktualnih govornih situacij, zlasti lastnosti, ki so nastale s predhodno interakcijo (prim. Franck 1980:31d); Kemme 1979:27) - zato so tudi izrazi, ki opredeljujejo sotvarje ('situations-definierend'). Zaradi tesne zveze med naklonskimi členki, sobesedilom in sotvarjem jih nekateri raziskovalci primerjajo tudi z deiktičnimi izrazi, saj v sporočanje prav tako vnašajo prvine govorne situacije (prim. Franck 1980:25; Hentschel 1986:14dd; Thurmair 1989). Po Hentschlovi (1986:122) nevarnost zanemarjanja sobesedila zmanjšujejo naklonski členki kar sami. Kot metakomunikativne deiktične besede kažejo na komunikativno sobesedilo povedi in jamčijo, da sobesedila ne zanemarjamo. Stavki, v katerih nastopajo naklonski členki, zato vselej vsebujejo tudi informacije o sobesedilu, ki ga na ta način zlahka izluščimo. 
+3.Naklonski členki se nanašajo na govorna dejanja ('Sprechhandlungen'), kar se kaže v omejitvah glede nastopanja v različnih stavčnih naklonih. Zato so tudi izrazi, ki nakazujejo ali spremenijo ilokucijo ('illokutionsindizierend oder -modifizierend'; prim. tudi König 1977:117; Weydt 1977:225 ali Franck 1980:21). To funkcijo naklonskih členkov kot ilokutivnih označevalcev (indikatorjev) so razkrili predvsem v okviru teorije govornih dejanj (npr. Wunderlich 1972:18d; Helbig 1977; Helbig/Kötz 1981:15d). Naklonski členki sodijo k ilokutivnim indikatorjem, tj. k tistim jezikovnim sredstvom, ki osmislijo poved razmeroma neodvisno od sobesedila, v katerem se govorno dejanje opravi ('Handlungskontext').
+(405)Du kannst mal das Fenster schließen.
+(406)Du kannst ja das Fenster schließen.
+(407)Du kannst doch das Fenster schließen.
+Govorec v (405) izreka neobvezujoč poziv, v (406) nasvet in v (407) nasvet ali soglasje k želji sogovornika. Pojmovanje o naklonskih členkih kot o ilokutivnih indikatorjih so v kasnejših delih ponatančili in relativizirali. Helbig (1988:59) domneva, da je možno izhajati iz tega, da so nekateri naklonski členki (kot npr. etwa ali denn za vprašanja) že po svoji porazdelitvi specifični za določene tipe govornih dejanj (saj res nakazujejo govorno dejanje); da imajo drugi naklonski členki nespecifično porazdelitev in se zato pojavljajo v različnih tipih govornih dejanj (npr. doch, eben, eigentlich); in da imajo nekateri naklonski členki (npr. bloß, mal, schon) še manj specifično porazdelitev. Tako je pri indikaciji govornega dejanja možno domnevati različne stopnje (prim. tudi Hartmann 1977:104; Hinrichs 1983:275d). 
+4.Če izhajamo iz tega, da delujejo naklonski členki na ravnini odnosov ('Beziehungsebene'; nasprotje: opisna ravnina, tj. 'Darstellungsebene'), torej med sogovornikoma, in da so predvsem interakcijske prvine (prvine součinkovanja), je potrebno vplesti tudi vidik sogovornika in sobesedila, ki se bežno kaže tudi že pri Weydtu (1969:22,62). Jasneje se orientacija k poslušalcu odraža pri (Bublitzu 1978:38), ki govori o navodilih za razumevanje izrečenega ('Verstehensanweisungen'), in pri Gornik-Gerhardtovi (1981:18), ki naklonske členke razume kot inštrukcije poslušalcu, kako naj razume propozicijo. Podobno meni Thurmairjeva (1989:94), da lahko govorec z naklonskimi členki sogovorniku namigne, kako naj izrečeno razume in v kateri 'predal' naj le-to vloži, kako govorec vrednoti poved, kako je razumel predhodno poved ali kako ocenjuje védenje in pričakovanja poslušalca. Te namige naj poslušalec upošteva v svojem odzivu. Po Thurmairjevi je zato tudi možno reči, da je ena izmed funkcij naklonskih členkov, da v določenem pogledu vpliva na sogovornika. Z naklonskimi členki lahko kažemo na različne vidike govorne situacije (prim. tudi König 1977:117; Burkhardt 1982c:153): z njimi lahko kažemo na predhodno informacijo, na zvezo s predhodnimi prispevki govorcev, lahko podamo neopazen 'meta-komentar' o predhodnem govornem prispevku in lahko vplivamo na pripravo novih govornih prispevkov. Glede na konverzacijski vidik indicirajo naklonski členki položaj med pogovorom (kažejo, ali je sogovornik na začetku, v sredini ali na koncu pogovora) in so izrazi, ki krmilijo konverzacijo (pogovor), saj vplivajo na nadaljnji potek pogovora (prim. Franck 1980:31d; Baunebjerg/Wesemann:1983:121d). 
+5.Naklonski členki imajo tudi interakcijsko strateške funkcije, saj uvrščajo posamezno poved v interakcijski okvir, npr. s povezavo s predhodnimi ali sledečimi dejanji (prim. König 1977:129). V danih razmerah interakcije z ustreznimi jezikovnimi sredstvi razjasnjujejo funkcijo govornega dejanja. So izrazi za nepopolne načine dejanj ('Handlungsarten'), s katerimi lahko govorec tudi govorna dejanja, ki jih je moč osamiti, izrecno navezuje na interakcijske razmere (prim. Sandig 1979:89d). Naklonski členki izražajo tudi domneve, vrednotenje, pričakovanje glede na odziv sogovornika, glede na odgovor - npr. je nekaj naklonskih členkov v odločevalnih vprašanjih (npr. etwa, nicht, doch), ki imajo to bistveno funkcijo, da v tovrstnih 'tendencioznih' vprašanjih izražajo preferenco za pozitiven (nicht, doch) ali za negativen odgovor (etwa) (prim. Franck 1979:3d). S to okolnostjo so povezane govorčeve domneve o sogovorniku. Te domneve pojasnjujejo, katere predstave ima govorec glede sogovornikovega védenja, njegove naravnanosti itd.). Ena izmed interakcijskih funkcij je ta, da slabijo ali krepijo propozicijo ali da jo vnesejo v določen interakcijski okvir (prim. Franck 1980:31d,117). Pri poslušalcu povzročajo odzive, ki jih v isti povedi brez naklonskega členka ne bi bilo (prim. tudi Bastert 1985:6). Iz značilnosti, da se naklonski členki nanašajo na interakcijo v dialogu, po Thurmairjevi (1989:97) sledi, da je ustrezen opis njihovega pomena možen le na jezikovni ravnini, ki je višja od stavka. Naklonski členki nosijo v sebi informacije o možnih sobesedilih kot nekakšni 'radikali', ki potrebujejo za svojo zašicenost določene 'spojine'. Moja trditev, da je stavek (poved) z naklonskim členkom pomensko ožji kot stavek (poved) brez naklonskega členka, temelji prav na tem. Število možnih sobesedil, v katerih lahko nastopa stavek (poved) z naklonskim členkom, je potemtakem manjše kot število sobesedil, v katerih lahko nastopa stavek (poved) brez naklonskega členka. 
+6.Mnogi naklonski členki imajo tudi povezovalno funkcijo ('konnektierende Funktion'), saj povezujejo zaporedno nastopajoče povedi tudi tedaj, ko postane govorec poslušalec, povezujejo vsebino stavka, v katerem je naklonski členek, na logičen način z vsebino, ki je bila predhodno izrečena, ali z vsebino, ki sploh ni bila izrečena, ampak je rezultat zaznavanja, predhodnega védenja ali mišljenja (prim. Franck 1980:31d; Kemme 1979:15d,27,67d). Funkcijo povezovanja besedila ('textverknüpfende Funktion') delijo naklonski členki z vezniki. Zato je marsikdaj možna parafraza (prim. Kemme 1979:27d; Schulz 1973):
+(411)Ich gehe nicht schwimmen, weil das Wasser noch viel zu kalt ist.
+(412)Ich gehe nicht schwimmen, das Wasser ist ja noch viel zu kalt.
+(413)Ihr sollt das Obst nicht essen, weil es noch nicht gewaschen ist.
+(414)Ihr sollt das Obst nicht essen, es ist doch noch nicht gewaschen.
+Zaradi podobnosti z vezniki so te naklonske členke imenovali tudi 'povezovalne členke' (Becker 1976:6d). Vendar vezniki vedno povezujejo eksplicitno izražene povedi, medtem ko naklonski členki ne vselej, kajti pogosto povezujejo povedi z odnosi, domnevami idr., ki niso eksplicitno izraženi. Poleg tega pomena naklonskega členka ne smemo zoževati zgolj na povezovanje besedilnih zgradb. Ta funkcija je povezana s konverzacijsko, interakcijsko in ilokutivno funkcijo, saj je treba besedila na sploh vložiti v te temeljujoče kontekste in jih razložiti iz njih. 
+Dialog in monolog. Zaradi tesne zveze med naklonskimi členki, sobesedilom in sotvarjem mnogi slovničarji menijo, da lahko pomen naklonskih členkov opisujemo le v dialoškem okviru. Glede na to, da se naklonski členki pojavljajo tudi v monoloških besedelih, je mnenje teh raziskovalcev o dialogu kot edini relevantni besedilni vrsti pretirano. Utemeljena se zdi domneva o dialogu kot prvotnejši obliki jezikovne rabe, o monologu kot ontološko drugotnejši obliki jezikovne rabe. Res je tudi, da se naklonski členki pogosteje pojavljajo prav v dialoških besedilih. Oboje utegne imeti posledice za delovno domnevo o naklonskih členkih kot krepitvenih stavčnih prvinah. 
+PRIVATE Funkcijske različice ali skupno pomensko jedroTC  \l 4 "3.3.3Funkcijske razli~ice ali skupno pomensko jedro" 
+Helbig (1988:67d) piše, da doslej teoretično ni povsem jasno, ali so posamezni členki le različne funkcijske različice (npr. doch1, doch2, doch3 itd.) ali pa je različnim funkcijskim različicam možno pripisovati skupno pomensko jedro ('Gesamtbedeutung' ali 'Grundbedeutung'), ki bi ga bilo mogoče opredeliti po metodah semantike. 
+Ta težava ima znanstvenozgodovinske korenine. V prvi fazi so slovničarji večinoma menili, da so naklonski členki besede z revnim pomenom ali celo brez njega ('bedeutungsarm' ali 'bedeutungsleer'). V slovnicah in slovarjih so jih nezadostno opisovali, pogosto pa so jih s slogovnega vidika celo označevali kot mašila ali polnila in njihovo rabo odsvetovali. V drugi fazi, ko se je v jezikoslovju uveljavljala komunikativno-pragmatična raziskovalna paradigma, so členkom pripisovali precej večji pomen. Najzanimivejša je bila komunikativna vrednost členkov, pri čemer so prevladovale predvsem pragmatične razlage njihovih funkcij. Šele v zadnjih letih - v nekakšni tretji fazi - se jezikoslovci intenzivneje ukvarjajo z invariantnimi skupnimi pomenskimi obeležji, ki naj bi bila osnova za različne rabe in funkcije v različnih sobesedilih in sotvarjih.
+Soodvisnost naklonskih členkov in sobesedila je jezikoslovce pogosto pripeljala do vprašanja, koliko pomenov naj bi imel naklonski členek. Krivonosov (1963/77:44) ugotavlja, da se pomen naklonskega členka spreminja od stavka do stavka, izhajal pa je iz tega, da naklonski členek svoj pomen dobi le skupaj s stavkom. Krivonosov (1977:193) piše, da ima isti naklonski členek v različnih stavčnih tipih manj skupnega kot različni naklonski členki v istem stavčnem tipu. To pojmovanje je v nasprotju z možnostmi ali omejitvami kopičenja naklonskih členkov. Še jasneje se to prepričanje kaže pri Helbigu (1977:400), ki pravi, da bi moral podroben opis naklonskih členkov specificirati posamezne slovarske enote po svojih pomenih (npr. auch1, auch2, auch3, auch4, auch5). Dejansko se najde v didaktičnem delu Helbig/Kötz (1981) pet slovarskih enot auch in sedem slovarskih enot doch. Zveze med posameznimi funkcijami pogosto ni moč videti (prim. podobno tudi Heinrichs 1981:120,196). Tako stališče je v jezikoslovju znano kot pomensko maksimalistično stališče ('bedeutungsmaximalistische Position'). 
+Maksimalistično stališče ima več slabosti (Thurmair 1989:98):
+-Dokaj neverjetno je, da bi vsak govorec shranjeval več (deloma do šest) različic posameznega naklonskega členka, poleg teh pa še ostale funkcije členka (prim. tudi Hentschel 1986:121).
+-Maksimalistično stališče je še problematičnejše za poslušalca, saj le-ta ne bi imel na voljo znamenj o tem, katero različico naklonskega členka je imel govorec v mislih, če se te različice ne bi ločevale ne po naglasu, ne po poudarku in ne po porazdelitvi v različnih stavčnih naklonih.
+-Tudi v praksi, npr. med poukom nemščine kot tujega jezika, so rezultati na osnovi maksimalističnega stališča dokaj neuporabni.
+Glede na poplavo posamičnih raziskav o naklonskih členkih je Weydt že pred leti svaril pred tem, da lahko raziskovalci izgubijo nekakšno 'zdravo' mero pri razlikovanju pomenskih različic naklonskih členkov in razlikujejo čedalje drobnejše pomenske razlike, pri tem pa ne bi upoštevali, da členki v samem jeziku tvorijo celoto (Weydt 1977:222d). Weydt/Hentschel (1983:4) sta govorila o tako imenovanem členkovnem paradoksu ('Partikelparadoxon'): obstaja nevarnost, da oblikujemo vseobsegajoč pomen ('übergreifende Bedeutung') naklonskih členkov presplošno, opis pomenskih različic pa pretirano podrobno (prespecifično).
+V raziskavah o naklonskih členkih so pri opredeljevanju pomena naklonskih členkov izhajali iz različnih gledišč (Bastert 1985:45):
+-Eni so domnevali, da obstaja nekakšen osnovni pomen ('Grundbedeutung'), na osnovi katerega je možno opisovati vse pomenske različice. Kemme (1979:13d) npr. domneva, da je za pomen naklonskih členkov treba predpostaviti pomen njihovih istoglasnic (homografov).
+-Drugi so poskušali opredeliti pomen naklonskih členkov kot povzetek posamičnih pomenskih analiz ('Zusammenfassung aus Einzelanalysen').
+Po Helbigu (1988:68d) so se jezikoslovci lotevali vprašanja skupnega pomena ('Gesamtbedeutung') na različne načine: npr. Lüttnova (1977) v glavnem tako, da ni upoštevala posameznih situacijsko specifičnih členkovnih rab, Weydt (1977:220) predvsem na osnovi členkovnih rab, ki kot istoglasnice izzivajo vprašanje enotnosti členka. Tako so npr. opazili (prim. npr. Kemme 1979:13d), da imajo različne rabe členka ja skupno obeležje pritrditve, različne rabe členka doch skupno obeležje nasprotja, različne rabe členka denn skupno obeležje pojasnitve, različne rabe členka auch in nur skupno obeležje pridružitve k neki množici oz. omejitve na neko množico itd. Ti poskusi so bili še nezadovoljivi, saj se je zdelo, da osnovni ali skupni pomeni členkov manj razjasnjujejo kot sobesedila in sotvarja. Zato so se nekateri slovničarji usmerili bolj na govorne situacije (govorne položaje), ker so menili, da naklonski členek v posamezno interakcijo prispeva le pomenski potencial, ki se razvije šele v govorni situaciji (prim. Kirstein 1983:213d,222d). Na ta način so ti avtorji naklonskim členkom pogosto pripisovali obeležja sobesedila, ker niso zadostno razlikovali med pomenskim deležem, ki ga prispeva sam naklonski členek, in pomenskim deležem, ki ga prispeva sobesedilo. Nasprotno je Dohertyjeva (1985:7,12d) poskušala dokazovati, da členki (vsaj nekateri naklonski oz. naravnanostni členki) razpolagajo s po enim invariantnim (nespremenljivim) pomenom, ki je osnova sobesedilno pogojenim različicam in ki ga potemtakem tudi situativno sobesedilo ne more izničiti (nevtralizirati).
+Pristop Dohertyjeve (1985), ki je značilen in nekakšen kažipot v tretji fazi raziskav o nemških členkih, je zaznamovan z jasnim dvomom nasproti teoretičnim pristopom, ki razlagajo členke izključno na komunikativni osnovi in na osnovi govornih dejanj. Zanjo je značilno, da poskuša vse komunikativne in ilokutivne možnosti členkov dojeti kot posledico slovarskega (znotrajjezikovnega) pomena. Dohertyjeva (1985) je posegla po Bierwischovem (1979 in 1983) razlikovanju med stavčnim pomenom ('Satzbedeutung'), povednim pomenom ('Äußerungsbedeutung') v sobesedilu in komunikativnim smislom ('kommunikativer Sinn') v interakciji; s tem je povezana tudi njena predpostavka, da povednega pomena in komunikativnega smisla ni mogoče razumeti kot nekaj, kar je neodvisno od jezikovnega pomena, pač pa kot nekaj, kar je načelno vezano nanj. To predpostavko je Wolski (1986:354d,357d,360d,445d,481) prenesel na naklonske členke in poskušal njihove pragmatične funkcije razložiti iz dobesednega (slovarskega) pomena in ne iz sobesedila in sotvarja. Pogoste prvine dosedanjega jezikoslovnega besedišča v okviru komunikativno pragmatične znanosti zato opušča, ker ne kažejo na pomen temveč na komunikativni smisel. Na ta način preprečuje tudi atomizacijo členkovnega pomena na številne funkcijske različice. Namesto tega ustvarja model, v katerem se te različne analizne ravnine nanašajo ena na drugo in v katerem je v ospredju vprašanje generičnega pomena posameznega členka in pomensko minimalistično stališče. Rekonstrukcijo splošnega pomena sicer zahtevo analizo tipov členkovne rabe (v posameznih stavčnih tipih z nastopajočimi omejitvami vred), toda ta pomen po drugi strani utemeljuje posamezne tipe členkovne rabe in se zato razvije glede na posamezne stavčne tipe (kritika takega znotrajjezikovnega abstraktnega pomena npr. v delu Bastertove 1985:6).
+Slabosti minimalističnega stališča se kažeta v tem, da je 1. težko izluščiti tako abstraktno skupno pomensko jedro in da v marsikaterem primeru še ni uspelo ter da je 2. ta invariantni pomen tako splošen in abstrakten, da za leksikografske namene ni zadosten. Prej dognane sobesedilne različice s svojimi funkcijami torej niso odvečne. 'Členkovni paradoks' (Weydt/Hentschel 1983:3d) se kaže v zahtevi po semantičnem opisu medsebojne zveze med funkcijskimi različicami (tj. po vseobsegajočem pomenu) in hkratni zahtevi po preprostosti in razumljivosti. Pomenska jedra, ki so skupna posameznim različicam, so tako abstraktna, da povprečnemu uporabniku ne pomagajo veliko, opis posameznih funkcijskih različic pa onemogoča, da bi uporabnik razumel povezave med posameznimi različicami.
+Po Abrahamu/Wuitu (1984:156; po Helbigu 1988:70) je neizbežno, da opisujemo tako posamezne funkcijske različice kot tudi skupni pomen členkov, ne da bi pri tem pozabili, da so skupni pomeni nujna, toda hkrati tudi še nerešena raziskovalna naloga (prim. Weydt/Harden/Hentschel/Rösler 1983:159), da so neobhodno splošni, da je z njihovo pomočjo težko na razumljiv način razložiti posamezne različice, da je konec koncev potrebno prenesti jezikoslovno dognan pomen te vrste v leksikografska besedila (ki so pač mišljena za jezikoslovno neizobražene bralce) in da zato tudi ne morejo biti zgolj redukcija jezikoslovnih analiz (prim. Wolski 1986:449dd). Te težave glede skupnega pomena se nanašajo tako na generični pomen (po zamisli Wolskega), ki je omejen na členke, kot tudi na vseobsegajoči pomen ('übergreifende Bedeutung' - po Weydtovem pojmovanju), ki zaobsega tudi istoglasne besede kot npr. veznike ali prislove in lahko vodi do izgube ali omalovaževanja razlik med besednimi vrstami (prim. Wolski 1986:388dd).
+Kljub problemom, ki se v tej zvezi pojavljajo, se v novejšem jezikoslovju večina jezikoslovcev zavzema za pomensko minimalistično stališče ('bedeutungsminimalistische Position'), tj. da domnevamo samo en skupni pomen posameznega naklonskega členka (prim. npr. König 1977, Bublitz 1978, Weydt/Hentschel 1983, Doherty 1985 in 1987, Wolski 1986, Hentschel 1986, Thurmair 1989). Srednjo pot med obema stališčema je ubrala Franckova (1980:175), ki sicer razlikuje funkcijske različice naklonskih členkov (npr. šest različic naklonskega členka doch), vendar jih večinoma opisuje kot različice 'standardnega primera' (npr. pet izmed šestih različic naklonskega členka doch) in tako pokaže, da pomenske različice naklonskih členkov lahko opisujemo kot konvencionalizirane implikature in da jih lahko izpeljemo iz ustreznih ilokutivnih in sobesedilnih lastnosti. 
+V svoji raziskavi sem se odločil izhajati iz domneve, da ima posamezen naklonski členek samo en pomen. Sicer je možno, da se pomen naklonskega členka, ki lahko nastopa v različnih stavčnih naklonih, 'premakne'. Po Thurmairjevi (1989:98d) pa bi tak pomenski premik lahko spoznal tudi poslušalec, saj le-ta razlikuje stavčne naklone med seboj (npr. vprašanje od poziva), zato lahko razlikuje morebitne spremembe v pomenu naklonskega členka glede na stavčni naklon. Načelno bom torej domneval samo en skupni pomen sobesedilnih različic naklonskega členka, ki je lahko glede na stavčni naklon bolj ali manj izoblikovan (prim. tudi Dittmann 1982:199: MP als 'Familie von Fällen' - po Bastertovi 1985:45). Značilna soodvisnost med naklonskimi členki in sobesedilom ni zagotovilo za pravilnost domneve, da se z vsako spremembo sobesedila spremeni tudi pomen naklonskega členka. Obstajati mora možnost, da z analizo vseh različnih sobesedil, v katerih lahko nastopa posamezni naklonski členek, določamo sobesedilno neodvisen pomen naklonskega členka (Thurmair 1989:99; prim. tudi Franck 1980:167).
+Pomen lahko razumemo kot semantični pojem. Poglejmo členek doch v povedih (403) in (404). Členku doch pripisujemo tale osnovni pomen: a) anaforičnost, b) nasprotnost. To je skupni pomen obeh členkovnih rab v (403) in (404), ki je v tem primeru enak osnovnemu. Sobesedilni pomen naklonskega členka v povedi (404) pa vsebuje obeležja, ki jih veznik v povedi (403) nima: gre za obeležje trdilnosti, tj. vezanosti na trdilno govorno dejanje. Poleg tega je lahko obeležje nasprotnosti v sobesedilu neizraženo, kar pomeni, da z naklonskim členkom nanj le namigujemo (impliciramo). 
+(403)Das dort ist Marias Mutter, doch diese Frau hier ist Peters Mutter.
+(404)Vorsicht ist doch die Mutter der Porzellankiste. 
+Komunikativna funkcija je pragmatični pojem in jo lahko opredelimo kot vlogo jezikovnega izraza v sobesedilu in/ali sotvarju. Za razliko od pomena jezikovnega izraza je funkcija jezikovnega izraza relacionalen pojem. Pojem funkcije uporabljamo sicer tudi v skladnji. Skladenjska vloga izraza Mutter je v obeh povedih ista, tj. jedro povedkovega določila. Komunikativna funkcija ali pragmatična vloga izraza Mutter v gornjih povedih je različna: v (403) je morebitna ali dejanska udeleženka v besedilnem svetu, v (404) pa to ni. Skladenjska funkcija izraza doch v (403) je veznik, v (404) pa naklonski členek. Ena izmed pragmatičnih, tj. komunikativnih vlog naklonskega členka je spominjanje na znano vsebino, ki je v nasprotju z nakazano (implicirano). Te pragmatične funkcije veznik nima. Pragmatično vlogo lahko pogosto izpeljemo iz osnovnega oz. sobesedilnega pomena členka (prim. tudi možno izpeljavo pragmatičnega pomena pomanjševalnic iz osnovnega pomena pomanjševalnic). 
+Pojem implikature se uporablja skladno z Griceovim pojmovanjem (1979). Vključene (implicirane), vendar neizrečene stavke lahko poslušalec razume le takrat, če se njegovi miselni procesi usmerjajo skladno z določenimi pogovornimi pravili in dogovori v jezikovni skupnosti. Gre za splošno načelo sodelovanja (kooperativno načelo) in njemu podrejene štiri posebne pogovorne maksime (maksime količine, kakovosti, bistvenosti in načina). Pogovorna pravila morajo udeleženci besedilnega poteka uporabiti s svojim splošnim védenjem (enciklopedičnim védenjem), ki je dostopno s pomočjo sklepanja. Poleg konvencialnega, dobesednega pomena razlikuje Grice (1979) tri vrste implikatur, tj. konvencionalno, splošno pogovorno in posebno pogovorno implikaturo. Implikature, če gre za konvencionalne ali situacijsko specifične implikature, je možno razbrati iz védenja pogovornih maksim. Povrhu mora biti zagotovljeno, da sogovornika pričakujeta drug od drugega razumno (racionalno) dejanje (prim. Franck 1980:11). Grice (1979) domneva, da so pogovorna pravila drugačna kot slovnična, češ da jih lahko prekršimo; poved ostane kljub temu smiselna, sprejemljiva in slovnično pravilna. Po njegovem mnenju je nadrejeno načelo sodelovanja ponavadi tako močno, da tudi potem, ko je govorec prekršil pogovorno maksimo, poslušalec poskuša najti možno interpretacijo, kot da prekršek ne bi bil opazen, in ki bi izhajala iz dodatnega, neizraženega pomena (prim. tudi Hörmann 1976 in Leiss 1992: 'Prinzip der Sinnkonstanz' - načelo konstantnosti smisla). Neoptimalna uporaba povedi povzroča implikaturo, tj. reinterpretacijo pomena po načelu sodelovanja oz. po načelu konstantnosti komunikativnega smisla. 
+PRIVATE PROTISTAVNA PRIMERJAVA NEMŠKIH IN SLOVENSKIH ČLENKOVTC  \l 2 "3.PROTISTAVNA PRIMERJAVA NEM[KIH IN SLOVENSKIH ^LENKOV"
+PRIVATE Obravnava členkov v slovenskem jezikoslovjuTC  \l 3 "3.1Obravnava ~lenkov v slovenskem jezikoslovju"
+Prve slovenske slovnice
+Podobno kot v nemškem jezikoslovju so členke v slovenskem jezikoslovju obravnavali zelo različno. O obravnavi členkov v slovenskem jezikoslovju je napisala Černeličeva 1991 članek. Po Černeličevi 1991:73 so členki v Bohoričevi slovnici (1584) navedeni pri prislovih: npr. členka le (dt. nur) und nikar (dt. nur nicht). Po Pohlinovi slovnici (1784) prinaša Kopitarjeva (1808) napredek na področju preučevanja členkov: Kot prvi slovenski jezikoslovec deli prislove na osnovi vprašalnice. K prislovom prišteva tudi nepregibne besede kot npr. pač (nem. wohl, ja) in nikar. Njegova metoda je rabila mnogim slovenskim jezikoslovcem vse do Slovenske slovnice avtorjev Bajec/Rupel/Kolarič/Šolar (1947, 1956) kot vzor za sestavljanje klasifikacije besednih vrst. Metelko (1825) je z besedotvornega stališča obravnaval korenske prislove kot npr. uže (nem. schon, wohl), že (nem. schon) in le. Murko (1850) je razlikoval tri besedne vrste: imenske besede (nem. Nennwörter), glagole (nem. Zeitwörter) in nepregibne besede (nem. Partikeln). Pod izrazom Partikel je razumel vse besede, ki se ne sklanjajo in ne spregajo, torej prislove, predloge, veznike in medmete. Kot skupno ime za vse nepregibne besede vpelje Janežič (1854) slovenski izraz členek (skoval ga je predtem Svetec). 
+Starejša slovnična dela
+Vendar pa so izraz kasneje uporabljali zelo različno. Breznik (1934) je sicer ohranil izraz členek kot skupno ime za nepregibne besedne vrste, toda razlikoval je med členki v ožjem in širšem pomenu besede. Jesenovec (1944) opredeljuje členke kot besede, ki modificirajo indikativ, imperativ ali nomina in krepijo pomen besed, pri katerih nastopajo: npr. pač, neki (nem. wohl) in nikar. Pripisuje jim zlasti naklonsko vlogo. Bajec/Rupel/Kolarič/Šolar 1947, 1956 oz. Bajec/Rupel/Kolarič 1964 obravnavajo členke zopet pri prislovih. Prislov kot besedno vrsta je zelo široko opredeljena. Po pomenu razlikujejo polge drugih miselne in poudarne prislove. Nepregibne besede z naklonskim pomen je moč najti predvsem v skupini poudarnih prislovov: npr. le, vendar (nem. doch), pač, že, saj (nem. weil, ja, doch). Avtorji slovnice v izdaji iz leta 1964 (s. 286) poudarjajo, da je poznavanje teh besed zelo pomembno za razumevanje jezika, njegovih miselnih in čustvenih odtenkov, da jih je v živem govoru ponavadi veliko in da mu dajejo ustrezno gibčnost. Izraz členki uporabljajo v tej izdaji tako v oblikoslovno skladenjskem (s. 280) kot tudi v pomenoslovnem smislu (s. 281). 
+Toporišič 
+Toporišič 1974 je vpeljal členke kot samostojno besedno vrsto. V svoji Slovenski slovnici (21991:384) določa členke kot besdno vrsto nepregibnih besed, s katerimi "vzpostavljamo zveze s sobesedilom, izražamo pomenske odtenke posameznih besed, delov stavka, celih stavkov in povedi ali pa tvorimo skladenjske naklone." V njegovi slovnici pogrešamo jasnejšo opredelitev in preglednejšo primerjavo nepregibnih besednih vrst, kot je to v navadi npr. v angleških in nemških slovnicah. Po eni strani razlikuje členke od prislovov, po drugi strani pa od (nepregibnih) veznikov, predlogov in medmetov. Kljub temu je besedna vrsta, ki jo Toporišič označuje kot členke, skladenjsko in pomensko dokaj heterogena (raznorodna). Njegovo delitev nepregibnih besednih vrst bi lahko prikazali takole:
+()                       BESEDNE VRSTE
+                    ┌──────────┴────────────┐
+                    │                       │
+                NEPREGIBNE               PREGIBNE 
+   ┌──────┬───────┬─┴────┬──────┐       ┌───┴──────┬────────┐ 
+   │      │       │      │      │       │          │        │
+prislov veznik predlog medmet členek  samostal.  glagol    ...
+                           ┌────┼─────┐
+                           │    │     │
+                      navezov. potrj. ... 
+Toporišič 1974, 1991:6-7, 21991:384-385 vidi členke kot slovnično kategorijo poleg drugih nepregibnih besednih vrst. Podobno razvrstitev členkov kot samostojno slovnično kategorijo zagovarjata za nemško slovnico npr. Helbig/Buscha 1988:???, čeprav se medsebojna delitev nemških členkov razlikuje od medsebojne delitve slovenskih členkov, ki jo zagovarja Toporišič v svojih delih. V novejšem času je Helbig 1988 notranjo delitev nemških členkov nekoliko prilagodil novim spoznanjem v nemškem jezikoslovju. Delitev besednih vrst na ta način predpostavlja, da imajo členki skupne slovnične lastnosti, po katerih se razlikujejo od drugih nepregibnih vrst. Za slovenske členke navaja Toporišič 1991:6, da v razliko s prislovi po členkih ni mogoče vprašati. To je značilno tudi za nemške besede, ki jih npr. Helbig/Buscha 1988 uvrščata med členke. 
+Raba izraza členek v predavanju
+Izraz členek (nem. Partikel) uporabljam v razliko s Toporišičem 21991 kot skupno ime za vse nepregibne besede. Posamezne podvrste (predloge, veznike, prislove, stavčne prislove, stopnjevalne členke, poudarne členke, naklonsko rabljene členke, nikalnice, nekatere medmete ...) ne razumemo kot samostojne besedne vrste, pač pa kot funkcijske vrste. Delitev nepregibnih besednih vrst bi lahko prikazali takole:
+()                       BESEDNE VRSTE
+                    ┌──────────┴─────────────────────────────┐
+                    │                                        │
+         ČLENKI (=NEPREGIBNI)                            PREGIBNE
+   ┌──────┬───────┬─┴────┬──────┬──────┬────────┬──────┐     │
+   │      │       │      │      │      │        │      │     │
+prislov stavčni vezniški veznik poud. stopnj. členitv. ...  ...
+        prislov prislov         člen. členek  členek   
+S tako delitvijo je po našem mnenju možno prepričljiveje odgovoriti na vprašanje, zakaj so mnogi slovenski (ali pa tudi nemški) členki polifunkcionalni (o polifunkcionalnosti nemških oz. slovenskih členkov prim. tudi Thurmairjevo 1989:9 oz. Toporišiča 1991:7,11). Hentschel 1986 je za nekatere nemške členke dokazala, da so posamezne pomenske različice členka etimološko povezane in da je pomenske različice možno izpeljati iz drugih, osnovnejših. Poleg tega poteka razvoj v določenem časovnem zaporedju (prim. tudi Abrahama 1990:128). Ustrezen dokaz za razvoj slovenskih členkov nam po mojem vedenju (=znanju) doslej manjka. Vendar pa  v starejših slovenskih slovnicah, npr. v slovnici Bajec/Rupel/Kolarič 21964:281, poudarjajo, da so prislovi (s tem tudi členki) nastali iz drugih besed. Označujejo jih kot 'oblikovno odmrle in pomensko raztegljive izraze'. O slovenskih predlogih pravijo, da so prej bili prislovi in da imajo mnogi predlogi tudi še dandanes hkrati vlogo prislova in vlogo predloga. Na drugem mestu (21964:245) navajajo, da mnogo izrazov, ki jih štejejo k poudarnim prislovom, "srečujemo tudi v vlogah drugih prislovov, zlasti med miselnimi jih je veliko, pa tudi v vlogi veznikov." Ne preseneča nas, če Černeličeva 1991:83 pri razmejevanju členkov, kot jih pojmuje Toporišič 21991, in veznikov (npr. saj) vidi težave. Razlikovanje posameznih skladenjskih vlog členkov in uvrščanje členkov v določene funkcijske vrste je možno predvsem s presojo skladenjskega vedenja ustreznega členka v besedilu (prim. Thurmairjevo 1989:9). 
+Drugo pojmovanje členkov 
+Obe rešitvi uvajata slovnične kategorije, ki vsebujejo izraze, ki lahko pripadajo tudi kaki drugi kategoriji (prim. Lieb 1977:163). V tem pogledu se kategorije členkov razlikujejo od pregibnih besednih vrst (samostalniška beseda, glagol, pridevnik, zaimek), saj vsaki kategoriji (besedni vrsti) pripadajo le določeni izrazi. Različno ravnanje v primeru pregibnih in nepregibnih besednih vrst bi pravzaprav zahtevalo posebno utemeljitev. Eisenberg 21989:208 predlaga za nemško slovnico tole kompromisno rešitev: kategorije členkov naj pripadajo kategorijam prislov, veznik in prislov kot njihove delne množice. 
+()                                 BESEDNE VRSTE
+                              ┌──────────┴────────────┐
+                              │                       │
+                          NEPREGIBNE                 ...
+              ┌─────────────┬─┴──────────────────┐        
+              │             │                    │       
+           prislov       veznik                 ...  
+┌───────┬────┼─────┐   ┌────┼─────┬───────┐
+│       │    │     │   │    │     │       │
+pravi pou-  na-   ... pravi vezn. naklon. ...
+pr.   darni klon.     vez.  prisl. čl.
+      čl.   čl.
+Tako lahko vsebuje kategorija prislov poleg 'pravih' prislovov skupino členkov, ki jih imenujemo naklonski členki (npr. doch, wohl, eben), ali skupino poudarnih členkov (nem. Gradpartikeln kot npr. schon, noch, auch) itd. Prav tako lahko vsebuje kategorija veznikov poleg 'pravih' veznikov tudi naklonske členke (npr. aber, denn) ali druge vrste členkov, npr. vezniške prislove (npr. doch, schließlich, immerhin). Na ta način bi preprečevali, da bi členki nastopali poleg drugih nepregibnih besednih vrst kot nove osnovne kategorije. Po drugi strani pa bi taka delitev imela posledico, da bi bile določene rabe členkov (npr. naklonski členki) razdeljeni na več besednih vrst (na prislove, na veznike itd.). Na ta način bi razbili po lastnostih dokaj enotno skupino naklonskih členkov ali stopnjevalnih členkov na več besednih vrst. Ali bi tak model besednih vrst bolj ustrezal slovničnim razmeram v nemščini ali bi ustrezal slovničnim razmeram v slovenščini, bodo morale pokazati bodoče raziskave na področju členkov. Za namen disertacije je ta slovnični problem drugotnega pomena. 
+PRIVATE Delitev besedne vrste 'členek' na funkcijske vrsteTC  \l 3 "3.2Delitev besedne vrste '~lenek' na funkcijske vrste"
+V sledeči preglednici želimo prikazati posamezne funkcijske vrste slovenskih členkov in nekatere njihove lastnosti. Da preglednica ne bi postala povsem nepregledna, smo poskušali prikazati predvsem prototipična glasoslovna, skladenjska in pomenska obeležja. Posebnosti smo ponekod zanemarjali. Izhajali smo vselej iz členkov, ki smo jih v posameznih odstavkih navajali. Vsekakor moramo dodati, da je potrebnih še veliko raziskav, ki bi osvetljevali značilnosti slovenskih členkov z različnih zornih kotov. Kot je razvidno iz nemške jezikoslovne literature, tudi po več kot petindvajsetih letih intenzivnega raziskovalnega dela, ki je imelo za temo nemške členke, veliko spornega in še ne razjasnjenega - tudi glede vprašanja, katere vrste členkov je smiselno razlikovati in po čem se pravzaprav razlikujejo.
+Preglednica 4:Delitev slovenskih členkov na funkcijske vrste
+                      priredni vezniški prislov stavčni stopnjev. poudarni členitveni naklonsko  
+                      veznik   prislov          prislov členek    členek   členek     rabljen čl.
+─────────────────────────────────────────────────────────────────────────────────────────────────
+- možnost poudarjanja +        +        +       +       +         +        +          +/-
+- možnost izoliranja  +        +/-      +       +       +         +/-      +          -/+   
+- nevgrajen v         +        +/-      +       +       +         -/+      +          -
+  stavčno predčelje
+- vgrajen v           +        -        -       -       -         -        -          -/+
+  stavčno predčelje
+- sam na              -        +        +       +       -         -        -          +/-
+  stavčnem čelu
+- z odnosnico         -        -        -       -       +         +        -          -/+
+  na stavčnem čelu
+- položaj pred        -        -        +/-     -       +         +/-      -          -/+
+  odnosnico
+- položaj v           -        -        -       -       -         -        -          -/+
+  naslonskem nizu
+- sam v               -        -/+      +       +       -         -        -          +/-
+  stavčni sredini
+- sam v st.sred. pred -        -/+      -/+     +       -         -        -          +
+  stavčno nikalnico
+- sam na              -        -        +       -       -         -        -          -
+  stavčnem repu
+- sam v stavčni sledi -        -        -       +       -         -        +          -
+- odgovor na          -        -        -/+     +       +         -/+      +/-        -/+
+  odločevalno
+  vprašanje
+- odgovor na          -        -        +       -       -         -        -          -
+  dopolnjevalno 
+  vprašanje
+- priredno združljiv  -        -        +       -       -         -/+      -/+        -
+- kopičenje možno     -        -        -       -       -         -/+      -          +/-
+- odvis. od           -        +        -       +       -         -        -          +
+  stavčnega naklona
+- spremeni            -        -        +       +       -         -        +          -
+  resničn. stavka
+- odnosnica           stavka,  stavka,  GZ      stavek  PrdZ,     SZ,PZ,   predhod.   poved
+                      SZ,PZ... SZ,PZ...                 PriZ      GZ ...   stavek     (stavek)
+─────────────────────────────────────────────────────────────────────────────────────────────────
+Okrajšave: gl. preglednico 1
+Slovenski ustrezniki nemških naklonskih členkov
+Pregled slovenskih ustreznikov
+Večina nemških naklonskih členkov ima slovenske ustreznike. Sledeči seznam je urejen po stavčnih naklonih (Satzmodus-Modell, Altmann 1987) in vsebuje poleg slovenskih členkov ustreznikov tudi nekatere besedne zveze z naklonskim pomenom. V tem seznamu smo se omejili na prototipične nemške naklonske členke (prim. Thurmair 1989:49) in njihove slovenske ustreznike, medtem ko nemških členkov kot allerdings, immerhin, jedenfalls, überhaupt ('abtönungsfähige Partikeln') in njihovih slovenskih ustreznikov nismo upoštevali. Vključili pa smo naklonsko različico nikalnice nicht in čustveni dajalnik (prim. Thurmair 1989:38-41) s slovenskimi ustrezniki.
+Pripovedni stavek
+auch - tudi; doch - vendar, saj, JA; eben - pač; halt - pač;
+ja -saj; einfach - enostavno, preprosto, (kar); mal - (malo);
+mir - (?mi = Dativ); ruhig - (brez skrbi, mirne duše);
+schon - že; eh - itak; ohnehin - itak, (tako in tako);
+sowieso - itak, (tako in tako); wohl - pač, najbrž 
+Odločevalni vprašalni stavek
+auch - ...; denn - pa, kaj; eigentlich - pravzaprav, 
+(einfach) - enostavno, preprosto; etwa - mar, (menda + Negation), kaj; mal - (malo), nicht - ne, (pregibna nikalne oblike); (vielleicht) - ...; wohl - (menda + nikalnica) 
+Dopolnjevalni vprašalni stavek
+auch - ; bloß - le, (samo), neki, (vendar); nur - le, (samo), neki; denn - pa, (kaj); (doch) - že; eigentlich - pravzaprav; schon - že; wohl - pač, neki, (mar)
+Velelni stavek
+auch - ; bloß - le, (samo); nur - le, kar, nikar, (samo);
+doch - vendar, no; eben - pač; halt - pač; einfach - enostavno, preprosto; JA - JA (samo v odvisnikom z uvodnico daß); mal - (malo);
+mir - (?mi = Dativ); ruhig - le, ruhig, (brez skrbi, mirne duše);
+schon - že (enkrat) 
+Želelni stavek
+bloß - le, (samo); nur - le, (samo); doch - le, vendar, (samo)
+Vzklični stavek brez zaimka
+aber - pa (res); mir - (?mi = Dativ); vielleicht - pa (res)
+Vzklični stavek z zaimkom
+(auch) - ...; bloß - ...; nur - ...; nicht - ne; doch - (vendar)
+Če so členki v oklepajih, želimo povedati, da se le občasno rabijo v naklonski vlogi. Besedne zveze in pregibne oblike so vedno v oklepajih, saj po definiciji niso členki. Nekateri členki (npr. enkrat) se pogosto pojavljajo ob členku z naklonskim pomenom in so prav tako v oklepajih.
+Bežnejši pogled na seznam nam pove, 1. da nimajo vsi nemški naklonski členki slovenskega členka ustreznika (npr. auch v določenih stavčnih naklonih), 2. da imajo v nekaterih primerih slovenski členki več nemških ustreznikov (npr. slov. že - nem. doch, gleich, noch, schon), und 3. da v nekaterih primerih nemškemu naklonskemu členku lahko ustreza več slovenskih členkov in-ali besedne zveze (npr. ruhig s slov. le, kar, brez skrbi, mirne duše).
+Slovenski ustrezniki v gornjem seznamu so seveda le prevodne možnosti. Pogosto nemškega naklonskega členka sploh ne prevedemo s posebno besedo. Slovenski členki so sicer pogoste besede, vendar pa doslej ni znano, kako pogosto se pojavljajo v naklonski pomenski različici. Vsekakor se nam zdi, da so slovenski členki v naklonskem pomenu redkeje v rabi kot ustrezni nemški naklonski členki. Toda zelo pogosto nastopajo slovenski členki saj und pač v naklonski vlogi, dokaj pogosto pa členki pa, le, kar, že und vendar v naklonskem pomenu. 
+Različne rabe slovenskih naklonsko rabljenih členkov. (nastaja)
+PRIVATE Oblikovna in pomenska obeležja prototipičnih nemških naklonskih členkov v primerjavi s slovenskimi ustrezniki TC  \l 3 "3.4Glasoslovna, oblikoslovna, skladenjska in pomenska obele`ja prototipi~nih nem{kih naklonskih ~lenkov v primerjavi s slovenskimi ustrezniki "
+V tem odstavku se bomo ukvarjali z vprašanjem, ali v slovenščini obstaja skladenjsko homogeno skupina členkov, ki bi jih lahko označili kot naklonske členke. Za to je potrebno preverjati njihova oblikovna in pomenska obeležja. Izbor meril se opira na izbor kriterijev Thurmairjeve 1989:20,37. Mnogi izmed njih vsaj za prototipične naklonske členke niso sporni (prim. tudi Helbiga 1988:34-37). V sledeči preglednici navajamo prototipične glasoslovna, oblikoslovna, skladenjska in pomenska obeležja slovenskih členkov z naklonskim pomenom. Nadaljnje raziskave bodo pokazale, ali bodo potrebne večje spremembe. 
+Preglednica 3: Oblikovna in pomenska obeležja slovenskih členkov v naklonski rabi
+───────────────────────────────────────────────────────────────────────────────────────
+ČLENEKpre-   eno-/dvo-  pou-   sklad.  st.čelo stavčna    pred stavčno pred  odgovor   priredno možne   odvisen od spremeni    stavek kot
+ giben  zložen     darjen vgrajen topik   sredina    nikalnico    remo  na vpraš. združlj. kombin. st.naklona resničn.st. vplivno območje
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+enostavno-      -          +/-    +       +       +          +            +     -         -        +       +          -           +            
+itak-      +          +      +       -       +          +            +     -         -        +       +          -           +     
+ja-      +          +      +       -       +          +            +     -         -        +       +          -           +     
+kaj-      +          -      +       Klit/+  -          0            +/0   -         -        +       +          -           +     
+kar-      +          +/-    +       -       +          +            +     -         -        +       +          -           +     
+le-      +          -      +       +W/Klit -          +            +/0   +         -        +       +          -           +/-   
+mar-      +          -      +       Comp    +          +            +     -         -        -       +          -           +     
+menda-      +          -      +       +       +          +            +     -         -        +       +          -           +     
+najbrž-      +          +/-    +/-     +       +          +            +     +         -        +       +          +           +     
+ne-      +          -      +       -       +          X            +     -         -        +       +          -           +     
+neki-      +          -      +       Klit    -          0            0     -         -        +       +          -           +/-   
+nikar-/+    +          +      +/-     +       +          +            +     +         +        -       +          -           +     
+no-      +          -      +       Klit    -          +/-          0     -         -        +       +          -           +     
+pa-      +          -      +       Klit    -          +            0     -         -        +       +          -           +/-   
+pač-      +          +/-    +       -       +          +            +     -         -        +       +          -/+         +     
+pravzaprav-      -          -      +       +W      +          +            +     -         -        +       +          -           +     
+preprosto-      -          +/-    +       +       +          +            +     -         -        +       +          -           +     
+saj-      +          -      +       Comp    -          0            0     -         -        +       +          -           +     
+tudi-      +          -      +       -       +          +            +     -         -        +       +          -           +     
+vendar-      +          -      +       -       +          +            +     -         -        +       +          -           +     
+že-      +          +/-    +/-     +       +          +            +     +         -        +       +          -           +     
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+Znaki: +  velja    -  ne velja    +/-  glede na sobesedilo velja ali ne velja   
+Comp  členek v položaju VEZL    Klit  členek v naslonskem nizu   +W  položaj na čelu stavka le z vprašalnim zaimkom
+0  členek se v tem pogledu ne odziva   X  se ne pojavlja s stavčno nikalnico
+Iz preglednice je razvidno, da se slovenski členki v naklonski rabi deloma vedejo dokaj različno in da jih bomo zato najbrž morali uvrstiti v različne funkijske vrste. V sledečih odstavkih bomo komentirali pregledico.
+PRIVATE Nepregibnost členkovTC  \l 4 "3.4.1Nepregibnost ~lenkov"
+Slovenski členek nikar je samo pogojno členek, saj ga lahko v slogovni zaznamovani rabi tudi spregamo. 
+()Nikarta ! - Tut (ihr beide) das nur/bloß nicht ! / Bloß nicht !
+()Nikarte ! - Tut das nur/bloß nicht ! / Bloß nicht !
+Tudi etični dajalnik v nemščini lahko le pogojno uvrščamo med naklonske členke. Ima sicer mnogo takih lastnosti, ki jih kažejo pravi naklonski členki, vendar pa ga je moč sklanjati. Morda bi lako tudi slovenski čustveni dajalnik uvrstili v zunanji krog členkov z naklonskim pomenom.
+()Da se nam več ne potepaš ! - Komm mir bloß rechtzeitig heim ! 
+()*Da se mu več ne potepaš ! - *Komm ihm bloß rechtzeitig heim !
+()Pazi, da nam ne zboliš ! - Paß auf, daß du uns nicht krank wirst !
+()*Pazi, da svoji mami ne zboliš ! - *Paß auf, daß du deiner Mama nicht krank wirst !
+()Und mach mir dem Vater die Schuhe ordentlich sauber !
+In da mi boš očetu pošteno očistil čevlje !
+Vendar tako kot slovenska beseda nikar ima tudi čustveni dajalnik v nemščini okrnjen pregibni vzorec (prim. Thurmairjevo 1989:39). Okrnjenost pregibnega vzorca je za nas lahko eno izmed znamenj, da se slovarska enota v določeni rabi osamosvoji in prelevi v besedo druge besedne vrste. Thurmairjeva 1989:39 navaja za nemški čustveni dajalnik še druga obeležja, po katerih se razlikuje od drugih rab dajalnika. 
+Polega nikalnega členka ne obstaja v slovenščini tudi nikalnica ni, ki nastopa kot zanikana osebna glagolska oblika za tretjo osebo ednine (npr. ni - nem. er/sie/es ist nicht) ali je del osebne glagolske oblike (npr. nisem - nem. ich bin nicht, nisva - nem. wir beide sind nicht, nismo nem. wir sind nicht), in bi ga le težko uvrstili med členke, pa čeprav lahko osebne glagolske oblike dobijo v odločevalnih vprašanjih ali v vzkličnih stavkih naklonski pomen, tako kot je to značilno za nemško stavčno nikalnico nicht. 
+()Ali Vas nisem že prejšnji teden opozoril na pomanjkljivosti ?
+(= Saj sem Vas vendar že prejšnji teden opozoril na pomanjkljivosti.)
+Habe ich Sie nicht schon letzte Woche auf die Mängel hingewiesen ?
+(Ich habe Sie doch schon letzte Woche auf die Mängel hingewiesen.)
+()Was hat er nicht alles schon behauptet ! (= Er hat doch schon vieles behauptet.)
+Česar vsega že ni trdil ! (= Saj je že vse mogoče trdil.)
+Vendar v razliko z nemškim naklonskim členkom nicht slovenske nikalnice z naklonskim pomenom niso tako preprosto izpustljive, saj je potrebno spremenit besedni vrstni red, če želimo oblikovati trdilno različico stavka.
+()Was hat er alles schon behauptet !
+()Kaj vse je že trdil !
+PRIVATE Poudarjenost ali nepoudarjenost členkovTC  \l 4 "3.4.2Poudarjenost ali nepoudarjenost ~lenkov"
+Značilna lastnost naklonskih členkov v nemščini je, da so v stavku nepoudarjeni. Če ima izraz, ki bi lahko bil naklonski členek, poudarek, potem nastopa v drugi stavčni vlogi. V takih primerih razlikuje stavčni poudarek (fokusni akcent) različne sobesedilne rabe členka. Nekateri nemški naklonski členki lahko imajo kontrastni poudarek (prim. Thurmairjevo 1989:22-23). Gre zlasti za naklonske členke, ki se pojavljajo v velelnih stavkih (JA, BLOSS, NUR). Tudi naklonski členki sowieso, eh und ohnehin lahko kontrastno poudarimo, vendar jim poudarek prav tako ne spremeni pomena. Obravnavani slovenksimi členki v naklonski rabi se v tem oziru vedejo dokaj različno. V gornji preglednici izhajamo iz akcentnih razmer v glagolskih stavkih. 
+Členki itak, ja in nikar so vselej poudarjeni. Po našem mnenju gre za kontrastni poudarek. Poleg členke je namreč moč najti še eno poudarjeno stavčno prvino, ki ji lahko pripisujemo stavčni poudarek (fokusni akcent). V sledečih zgledih so besede s stavčnim poudarkom napisane z velikimi črkami, členki s kontrastnim poudarkom pa so podčrtane in prav tako napisane z velikimi črkami. 
+(1)Ostani še, vlak si ITAK ZAMUDIL.
+Bleib doch noch, den Zug hast du SOWIESO VERPASST.
+(2)Svoj klobuk bom pa JA POZNAL.
+Meinen Hut werde ich doch wohl KENNEN.
+(3)Reci mu, naj NIKAR ne ZVIŽGA.
+Sage ihm, er soll NUR nicht PFEIFEN.
+Drugi slovenski členki z naklonskim pomenom so lahko poudarjeni ali nepoudarjeni. Zlasti pri daljših besedah se uveljavlja (besedni) naglas. Možno jih je tudi kontrastno poudariti. Tretja možnost je, da so v stavku nepoudarjeni. To so členki enostavno, kar, najbrž, pač, preprosto und že. Pri slednjem členku je (ne)poudarjenost močno odvisna od tega, v kateri naklonski rabi nastopa. V mnogih primerih nam pomaga prav poudarjenost členka že razlikovati naklonsko rabo od nenaklonske (npr. časovne). Kot členek v naklonski rabi je že celo pogosteje poudarjen kot nepoudarjen. Pri nemškem ustrezniku schon je obratno: Če je naklonski členek schon poudarjen, je to znamenje, da ne gre za prototipičen naklonski členek. 
+(4)Nekateri o teh stvareh enostavno ne GOVORIJO.
+Einige sprechen über diese Dinge einfach nicht. 
+(5)Smeti so metali kar skozi OKNO.
+Den Abfall warfen sie einfach zum Fenster hinaus.
+(6)PODOBNIH primerov je najbrž še VELIKO.
+Ähnliche Fälle gibt es wohl noch viele.
+(7)Tega pač SAM ne verjameš.
+Das glaubst du doch wohl selber nicht.
+(8)Nič ne de, bom že POČAKAL.
+Das macht nichts, ich werde es schon noch abwarten können.
+Tretja skupina slovenskih členkov v naklonski rabi je v stavku pogosteje poudarjena, nekateri izmed njih pa so celo vselej nepoudarjeni. V to skupino smo uvrstili členke kaj, le, mar, menda, ne, neki, no, pa, pravzaprav, saj, tudi und vendar. Pri daljši besedi pravzaprav je možno, da se uveljavi (besedni) naglas. Če se členek pravzaprav pojavlja v pripovednem stavku, po našem mnenju ne gre za naklonsko rabo te besede. V pripovdnem stavku lahko členek namreč nadomestimo s soznačnico v bistvu. To je značilno tudi za nemški členek eigentlich. V pripovdnem stavku ga lahko vselej nadomestimo s soznačnico im Grunde genommen, v vprašalni stavkih pa to ni možno, če členek nastopa v naklonski rabi (prim. Thurmairjevo 1989:175). Slovenski členek kaj, ki nastopa v dopolnjevalnih vprašanjih v naslonskem nizu, je nepoudarjen. Vendar pa je naklonsko rabljeni zaimek kaj, ki ga tu prav tako kot nikar ali čustveni dajalnik pogojno prištevamo k členkom in ki nastopa na čelu dopolnjevalnega vprašanja, kontrastno poudarjen. 
+(9)Kako je kaj doma ?
+Wie geht es euch zu Hause denn so ?
+(10)Kaj že GRESTE ?
+Was(,) ihr geht schon ?
+Geht ihr etwa schon ?
+(11)Le kaj si bo mislil o nas ?
+Was wird er nur von uns denken ?
+(12)Ali sem mar jaz kriv ?
+Bin etwa ich schuld ? 
+(13)Saj menda ne boš huda, če prisedem ?
+Du wirst doch wohl nicht böse sein, wenn ich mich zu dir setze ?
+(14)Kje neki tiči ta otrok ?
+Wo steckt denn bloß dieses Kind ?
+Wo wohl dieses Kind stecken mag ?
+(15)Daj mi no mir !
+Laß mich doch in Ruhe !
+(16)Kam pa greš ?
+Wo gehtst du denn hin ? 
+(17)Koliko je pravzaprav ura ?
+Wie spät ist es eigentlich ?
+(18)O, saj je že osem !
+Oh, es ist ja schon acht !
+(19)Ta človek pa tudi vse najde !
+Dieser Mensch findet aber auch alles !
+(20)To je pa vendar že preveč !
+Das ist doch schon zuviel des Guten !
+Če slovenske členke le, tudi in vendar kontrastno poudarimo, jim spremenimo pomen. To spremembo pomena lahko primerjamo s spremembo pomena nemških ustreznikov nur, auch in doch. Kontrastno poudarjeni so tako nemški členki kot njihovi slovenski ustrezniki soznačni z drugimi besedami: npr. le s kljub temu (nem. doch - trotzdem, dennoch), tudi s prav tako (nem. auch - ebenfalls, außerdem) in vendar s kljub temu, vendarle (nem. trotzdem, dennoch). V sledečih zgledih so kontrastno poudarjeni členki napisani z velikimi črkami.
+(21)Vsega imajo, pa LE niso srečni.
+Sie haben alles, aber DENNOCH sind sie nicht glücklich.
+(22)A: Moje oče je politik. Kaj pa tvoj ?
+B: (On) je TUDI politik.
+A: Mein Vater ist Politiker. Und deiner ?
+B: Der ist AUCH Politiker.
+(23)Kaj pa, če VENDAR pride ? 
+Und was ist, wenn er DOCH kommt ?
+Vprašanje, ali nekateri členki tretje skupine sodijo v drugo skupino, bomo prepustili nadaljnjim raziskavam: npr. tudi neki ali celo pa. V zgradbah brez glagola lahko členek pa namreč kontrastno poudarimo.
+()A: To nas bo stalo veliko.  B: Koliko PA ? 
+A: Das wird uns viel kosten.  B: Wieviel denn ?
+V zgradbah brez glagola so namreč lahko sicer nepoudarjeni slovenski členki z naklonskim pomenom tudi poudarjeni. To so členki pa, le in kar. Tudi nemški naklonski členki nur in bloß so v zgradbah brez glagola poudarjeni.
+()A: Ali se naj vpišem na fakulteto ?  B: Le ! / Kar ! -  B: Nur zu ! 
+()A: Soll ich Deutsch studieren ?  B: BLOSS nicht !
+Slovenske ustrezniki za nemške naklonske členke glede obeležja nepoudarjenosti niso homogena skupina. Pri nemških naklonskih členkih je težnja k nepoudarjenosti močnejša.
+PRIVATE Vgrajenost členkov v stavekTC  \l 4 "3.4.3Vgrajenost ~lenkov v stavek"
+Prototipični nemški naklonski členki so vgrajeni v stavek (vkljueni v stavek), se torej ne pojavljajo osamljeno. Nekatere druge rabe kakega členka lahko vsekakor nastopajo izolirano (prim. Thurmairjevo 1989:20,35). Slovenski ustrezniki nemških naklonskih členkov se večidel pojavljajo prav tako vgrajeni v stavek. Če nastopajo osamelo, se jim spremeni pomen.
+(24)A: Kommst du nicht mit zur Schulfeier ?  B: Doch. 
+A: Ali ne boš šel na šolsko zabavo ? B: Pač.
+(25)A: Ali se boš udeležil simpozija ?  B: Ja. / Da.
+A: Nimmst du am Symposion teil ?  B: Ja.
+(26)A: Ali ti je bila igra všeč ?  B: Kar. / Še kar.
+A: Hat dir das Theaterstück gefallen ?  B: So ziemlich.
+(27)A: Ne bi ga smeli pustiti.  
+B: Saj, a takrat se nam je mudilo.
+A: Ihr hättet ihn nicht dort lassen dürfen.
+B: Schon/Eben, aber zu der Zeit hatten wir es eilig. 
+(28)A: Ali imaš potrdilo ? B: Da. A: In osebno ? B: Tudi.
+A: Hast du die Bescheinigung ? B: Ja. 
+A: Und den Personalausweis ? B: Auch.
+(29)No, sedaj smo pa mi na vrsti.
+Nun, jetzt sind wir aber an der Reihe.
+(predčelni položaj nevgrajenega členka)
+Problematični so slovenski členki le (le le), najbrž, nikar in že (že že). Če rabimo prve tri členke naklonsko, lahko nastopajo nevgrajeni v stavek, medtem ko nastopa slednji večinoma v nevgrajenem predčelnem položaju (o položajskem merilu prim. Thurmairjevo 1989:11). Členek že v naklonski rabi namreč zahteva tako kot nemški ustreznik schon sledeči stavek, ki ga večinoma uvaja protivni veznik (slov. toda, nem. aber). Sporno je, ali sodi nemški členek v tej rabi k naklonskim členkom. Njegovega pomena namreč ne moremo tako zlahko razlikovati od pomenskih različic členka v drugih rabah. Precej več je pomenskih sorodnosti med tipično naklonskimi različicami členka schon in njegovo nevgrajeno različico. Zato bi bilo primernejše, če bi nevgrajeno rabo členka uvrstili v zunanji krog naklonskih členkov. 
+(30)A: Šel bom sam domov. B: Kar pojdi !
+A: Res bom šel sam domov. B: Le, le !
+A: Ich gehe allein nach Haus. B: Geh nur !
+A: Ich gehe wirklich allein nach Haus.
+B: Mach das doch / nur / ruhig !
+(31)A: Soll ich dir mal meine Urlaubsbilder zeigen ?
+B: JA nicht / BLOSS nicht !
+A: Ali naj ti malo pokažem slike z dopusta ?
+B: NIKAR ! / Samo TO ne !
+(32)A: Organizirali bodo svetovno prvenstvo.
+B: Že že, toda kdo bo vse plačal ?
+A: Sie werden die Weltmeisterschaft organisieren.
+B: Schon, aber wer zahlt das alles ?
+(33)Wieviel denn ?Koliko PA ?
+(34)Warum bloß ?Le zakaj ? / Zakaj le ?
+(35)Na, wer wohl ?No, kdo le / neki / najbrž ? 
+(36)Ne bom plačal, le zakaj neki ?
+Ich werde nicht zahlen. Warum sollte ich ?
+Ti zgledi nam tudi kažejo, da se kontrastno poudarjeni nemški naklonski členki ja in bloß skupaj z nikalnico vsekakor lahko pojavljajo v zgradbah brez glagola. Zgradbe imajo značaj poziva. V pogovorih nastopajo prototipični nemški naklonski členki kot denn, bloß, eigentlich ali periferni naklonski členek wohl tudi v dopolnjevalnih vprašanjih, ki jim manjka glagolska oblika (prim. Thurmairjevo 1989:35-36). Položaj nemškega naklonskega členka za vprašalnim zaimkom (prim. (33)-(35)) je - z različno sprejemljivostjo glede na posamezni členek - možen tudi v dopolnjevalnih vprašanjih, ki vsebujejo glagolsko obliko (Thurmair 1989:26,36).
+Redkeje najdemo zglede z nevgrajenim naklonsko rabljenim slovenskim členkom pač, saj je zanj značilnejše, da se pojavlja v sredini stavka. Osamela raba je v pisni obliki razpoznavna iz stave vejic. V govoru se pojavlja izoliran členek pač med dvema kratkima premoroma in je zato razmeroma samostojna poudarna enota. Členek v takih primerih ima kontrastni poudarek (o izolirani rabi nemškega naklonskega členka halt prim. Thurmairjevo 1989:35-36).
+(37)To pomeni: domneval sem, pač, da obstaja mehanizem, da so te stvari urejene, ... (Delo, Vikend magazin, 6.11.1992)
+Das bedeutet: ich habe angenommen, doch/wohl/halt, daß ein Mechanismus existiert, daß diese Dinge in Ordnung gebracht worden sind, ...
+(38)Aktivnost sto mili Curijev pa naj bi bila tista, ki naj bi bila skrajna meja, še dopustna, da, pač, lahko nekdo to pravzaprav tudi vsadi oziroma dela s temi viri sevanja. (TV Slovenija, 5.10.1993)
+Eine Aktivität von 100 mC hingegen wird als jene angesehen, die die äußerste Grenze sein soll, noch zulässiger Grenzwert, daß halt jemand dies eigentlich auch einsetzen bzw. mit diesen Strahlungsquellen arbeiten kann.
+Položaj členkov v stavkuPRIVATE 
+Bistveno merilo za razlikovanje nemških naklonskih členkov od ostalih členkovnih vlog je položajsko vedenje členkov. Prototipični nemški naklonski členki nastopajo v topološki sredini pripovednega stavka. Na čelu stavka ali na stavčnem repu se ne morejo pojavljati. Kot slovenski zgled smo izbrali prikaz položaja slovenskega naklonsko rabljenega členka pač, ki pogosto ustreza nemškim naklonskim členkom eben, halt in nun mal. Naklonsko rabljeni členek pač se pojavlja v stavčni sredini, možen (čeprav netipičen) pa je tudi položaj na stavčnem čelu.
+(40)Položaj slovenskega naklonsko rabljenega členka pač v pripovednih in odvisnih stavkih
+______________________________________________________________________________________________________________________________
+vezn.st.čelost. sredina--------------------------st. rep
+TopikCOMP(En)klitikaVb/NP/ADV/PPNegationVbNP/PP/...
+______________________________________________________________________________________________________________________________
+Pačspi.
+Spipač.
+Erschläfthalt
+Se mupačnisohoteli zameriti.
+Siewollten halt nicht, daß er es ihnen übelnimmt.
+Učiljo je jepač.
+Erhatsie halt darin unterrichtet.
+namrečavtormora pačzajematiiz raznih virov.
+kajtiavtorpačmora zajematiiz raznih virov.
+dennder Autor mußeben aus verschieden Quellenschöpfen.
+Tatseskušnjavi pačnimogel upreti.
+Der Dieb konnteder Versuchung ebennichtwiderstehen.
+Ljudjenaj bi se mu pačne smejali.
+Die Leutesolltensicheben über ihnnichtlustigmachen.
+Dijakisepač žalnisomogli učiti.
+Die Schüler konntensicheben leidernichtvorbereiten.
+alikernaj bi seo tem sodnik pačprepričalže pred sejo.
+oderweilsichder Richter davon eben 
+schon vor der Sitzungüberzeugen sollte.
+indanaj bi se muljudje pačnesmejali.
+unddaßdie Leute sich ebennicht 
+über ihn lustigmachen sollten.
+kosenekateri pačizživljajo.
+alseinige eben über die Strengeschlagen.
+sajsi jihzatisniti pačnesme.
+weiler sie ebennichtverschließen darf.
+sajsi jihpred resničnostjo pačnesme zatisniti.
+weiler sie vor der Wirklichkeit 
+ebennichtverschließen darf.
+vendarga jeavtor pačprisiljen uporabljati.
+dochder Autoristgezwungen,ihn zu verwenden.
+______________________________________________________________________________________________________________________________
+Nekateri slovenski ustrezniki nemških naklonskih členkov se vedejo položajsko podobno kot slovenski naklonsko rabljeni členek pač, tj. nastopajo v stavčni sredini pred stavčno nikalnico in pred rematičnimi stavčnimi členi (polnopomenskim glagolom, samostalniškimi zvezami itd.). 
+To so členki itak, ja, kar, tudi, vendar und že. K tej skupini prištevamo tudi 
+naklonsko rabljeni nikalni členek ne.
+V drugo skupino glede položaja v stavku uvrščamo naklonsko rabljene slovenske členke enostavno, menda, najbrž, nikar in preprosto. Ti členki se pojavljajo pogosteje na stavčnem čelu in so tudi poudarjeni (razen členka menda). 
+V tretjo skupino bi lahko strnili tiste naklonsko rabljene slovenske členke, ki kažejo različno položajsko vedenje. Skupno pa jim je, da se lahko pojavljajo v vozlu CP (CP-Phrase): ali v samem vozlu VEZL (COMP) (mar, saj) ali v naslonskem nizu (kaj, no, pa) ali pa skupaj z vprašalnim zaimkom v SpecCP (le, neki, pa, pravzaprav) ali celo sami v SpecCP (kaj, pa).
+Naklonsko rabljeni členek le nastopa pred vprašalnim zaimkom ali za njim na stavčnem čelu, lahko pa se tudi pojavlja v naslonskem nizu. Naklonsko rabljena členka neki in pravzaprav sledita vselej vprašalnemu zaimku. Nekateri členke tretje skupine lahko nastopajo tudi stavčni sredini. To so členki mar in pravzaprav, redkeje tudi kaj in pa.
+(41)Le zakaj nas ni poslušal ?
+Warum hat er bloß nicht auf uns gehört ?
+(42)Kako sem le lahko pomislil na kaj takega ?
+(Moj Mikro, September 1993)
+Wie konnte ich nur auf diesen Gedanken kommen ?
+(43)Warum bloß liebt sie diesen Schwachkopf ?
+Le zakaj ljubi tega bedaka ?
+(44)Kaj pa delaš ?
+Was machst du denn ?
+(44)A: Janez je včeraj odpotoval. B: Pa si vedel za to ?
+A: Janez ist gestern verreist. B: Aber bist-du gewußt für dieses ?  B': Hast du denn davon gewußt ?
+(45)A: Prt si popacal. B: Pa kaj ! V pralni stroj ga daj !
+A: Du hast das Tischtuch bekleckert. 
+B: Na und wenn schon ! Wirf es doch in die Waschmaschine !
+(46)Zwei Bekannte treffen sich nach längerer unerwartet auf dem Bahnhof in Hannover.
+A: Das gibt's doch gar nicht !
+A: Saj to ni mogoče !
+Glede na položajske lastnosti slovenski naklonsko rabljeni členki niso enotna skupina. Vsaj večina teh členkov lahko nastopa v stavčni sredini (prim. preglednico 3). 
+Presenetljiva je morda trditev, da sta veznika vendar in saj podredna veznika. To je v nasprotju s trditvami, ki jih najdemo npr. v Toporišičevi slovnici. Poglejmo argumente za in proti ! 
+1. Stavek z veznikom saj opravlja prav tako kot stavek z veznikom ker vlogo stavčnega člena. Torej bi lahko šlo v obeh primerih za podredje. 
+2. Stavek z veznikom saj se lahko pojavlja samostojno. To bi bil argument za to, da je saj priredni veznik. Toda potemtakem bi lahko tudi trdili, da je veznik da priredni veznik, saj obstajajo samostojni stavki z veznikom da:
+()Da mi takoj zgineš ! 
+So pa samostojni stavki z veznikom saj pogostejši. (Sicer pa so glavni stavki kot npr. Obljubil je tudi le v določenem sobesedilu samostojne povedi.)
+3. Nadredni stavek in njegov odvisnik sta lahko povezana tudi intonacijsko. Običajnejše je to za odvisnik z veznikom da. Stavek z veznikom ker ali stavek z veznikom saj sta - tako se mi zdi - lahko posebni intonacijski enoti (premor med prvim stavkom in stavkom z veznikom ker oz. saj je možen, glas se pred premorom spusti in po njem ponovno dvigne). 
+4. V članku omenjam kriterij, da prirednemu vezniku lahko sledi topikaliziran stavčni člen (npr. osebek, predmet), podrednemu vezniku (npr. da) pa ne. Podrednemu vezniku najprej sledi naslonski niz, šele nato kak tematični stavčni člen. V članku trdim, da to velja tudi za saj (in vendar). Menil sem namreč, da moramo stavke kot npr. 
+()To ni res, saj ljudje so ga spoštovali 
+razumeti kot 
+()To ni res, saj: ljudje so ga spoštovali. 
+Podoben primer najdemo tudi v nemščini. To so stavki z veznikom weil: 
+()Das stimmt nicht, weil: die Leute haben ihn respektiert. 
+Gre za odvisnik, ki je blizu priredju. Odvisnik z veznikom weil in osebno glagolsko obliko na koncu pa je primer za drugačno vrsto vzročnosti ! - Ali se tudi v slovenščini razlikuje besedni vrstni red v stavkih z veznikom saj ali ker glede na vrsto vzročnosti ? - Poglejmo še zgleda z veznikom ker: 
+()A: Miha je imel zelo uspešen govor. 
+B: To ni res, ker: ljudje so se mu smejali.
+B': To ni res, ker so se mu ljudje smejali. 
+Četrti argument (skupaj s prvim) je bil zame najmočnejši argument, da je tudi saj (lahko) podredni veznik kot ker. Vsekakor pa nista prototipična veznika, kot je to najbrž veznika da. Tako stavki z veznikom saj kot stavki z veznikom ker imata samostojno ilukotivno moč, kar se kaže po tem, da je v njih možno vstaviti naklonsko rabljen členek kot npr. pač. Vezniku da ne more slediti topikaliziran stavčni člen: 
+()To je res, *da ljudje so se mu smejali. 
+Odvisnik na da običajno ni poseben intonacijski segment. Stavek z veznikom da se redkeje pojavlja kot samostojna poved. 
+Primer veznika vendar se nekoliko razlikuje od veznika saj. 
+1. Stavka z veznikom vendar ne moremo vselej spremeniti v predložno besedno zvezo kljub temu. Torej ne moremo trditi, da so vsi stavki z veznikom vendar stavčni členi. 
+2. Stavek z veznikom vendar se lahko pojavlja samostojno.
+3. Stavek z veznikom vendar je pogosto samostojna intonacijska enota.
+4. V članku sem trdil, da vezniku vendar ne more slediti topikaliziran stavčni člen. To je bil zame glavni argument, da sem veznik vendar izenačil z drugimi podrednimi vezniki. Toda gornja trditev ne drži. Primerjajte: 
+()Vendar se v tej pesmi kažejo pri ženici nemške interference.
+()Vendar v tej pesmi se kažejo pri ženici nemške interference. 
+Vezniku vendar lahko sledi topikaliziran stavčni člen (v tej pesmi). Če pa je stavčni člen obsežnejši, ga najbrž teže topikaliziramo: 
+()?Vendar v tej pesmi, ob izgovorjavi ozkih samoglasnikov, se kažejo pri ženici nemške interference. 
+Še primerjava z veznikom toda: 
+()Toda v tej pesmi se kažejo pri ženici nemške interference.
+()*Toda se v tej pesmi kažejo pri ženici nemške interference. 
+Ko zdaj te argumente zopet tehtam, se mi zdi bolj upravičeno trditi, da je vendar priredni veznik (kljub četrtemu kriteriju). In vendar se razlikuje veznik vendar od istovrstnega (protivnega) veznika toda (gl. četrto točko). Nemara ne bi bilo narobe razlikovati "prave" priredne veznike (toda) od "nepravih" (vendar). "Pravi" vezniki naj bi imeli skladenjski položaj pred topikaliziranim stavčnim členom: 
+()Vendar v tej pesmi se kažejo pri ženici nemške interference. 
+()Toda v tej pesmi se kažejo pri ženici nemške interference. 
+"Nepravi" vezniki pa bi lahko bili sami na mestu topika (pred COMP in naslonskim nizom): 
+()Vendar se v tej pesmi kažejo pri ženici nemške interference. 
+Vezniška beseda vendar bi potemtakem imela dvojno vlogo: enkrat bi nastopala kot "pravi" priredni veznik, drugič pa kot "nepravi" priredni veznik. Če drži, da lahko vendar kot vezniška beseda samostojno nastopa na mestu topika, potem se v tej rabi približuje prislovu vendar, ki ga lahko prav tako topikaliziramo (gl. gornji stavek: In VENDAR se razlikuje veznik ...). Morda bi lahko govorili o nekakšnem vezniškem prislovu (namesto o "nepravem" vezniku). V nemščini ima tudi vezniška beseda doch tako dvojno vlogo: vlogo veznika in vlogo vezniškega prislova. Mogoče se tudi za veznik saj ponuja taka rešitev. 
+PRIVATE Položaj naklonskih členkov pred stavčno nikalnicoTC  \l 4 "3.4.5Polo`aj naklonski ~lenkov pred stav~no nikalnico"
+Nemški naklonski členki nastopajo pred stavčno nikalnico. Položaj pred stavčno nikalnico je značilen tudi za slovenske naklonsko rabljene členke. Zanimivo je položajsko vedenje slovenskega členka kar. Ta členek lahko ustreza nemškemu naklonskemu členku einfach. V pripovednih stavkih lahko členek kar nastopa pred stavčno nikalnico ali za njo. To je značilno tudi za nemški členek einfach. Thurmairjeva 1989:128-131 je pokazala, da sodijo samo tiste pojavitve členka einfach k naklonskim členkom, ki se pojavljajo pred stavčno nikalnico. Pojavitve členka einfach, ki stavčni nikalnici sledijo, pa uvršča med naklonske prislove ('Modaladverbien'). Z naklonskim členkom einfach ne izražamo, da je dejanje enostavno temveč da je preprosta ilokucija. Naklonski členek einfach se ne nanaša na dejanje, ki je izraženo v pomenski podstavi stavka (propozicijo), temveč na govorno dejanje. Poved, ki vsebuje naklonski členek, je potemtakem preprosta razlaga oz. utemeljitev nečesa. Zato povedi z naklonskim členkom einfach pogosto sledijo kot odziv na vprašanja po vzroku. Pravkar navedeni opis (Thurmair 1989:129) velja tudi za slovenski naklonsko rabljeni členek kar.
+(47)A: Zakaj si pa tako slabe volje ?  
+B: Ah, denarnico sem izgubil.
+A: Ali je bilo veliko denarja v njej ?
+B: Niti ne, ampak kljub temu. Tega KAR ne morem pozabiti.
+A: Warum bist du denn so schlecht gelaunt ?
+B: Ach, ich habe meine Brieftasche verloren.
+A: War denn viel Geld darin ?
+B: Eigentlich nicht, aber trotzdem. Ich kann das einfach nicht vergessen.
+(48)A: Zakaj se pa ves dan tako držiš ? Saj nisem tako mislil.
+B: Tega ne morem kar (tako) pozabiti.
+A: Warum bist du denn die ganze Zeit so sauer ? Ich hab das doch nicht so gemeint.
+B: Ich kann das nicht einfach (so) vergessen.
+V zgledu (48) lahko členka kar oz. einfach nadomestimo s soznačnimi izrazi kot npr. slov. na enostaven način in na hitro oz. nem. kurzerhand. V zgledu (47) takšne zamenjave s soznačnimi izrazi niso sprejemljive. 
+Nekateri slovenski naklonsko rabljeni členki, ki so značilni v dopolnjevalnih vprašalnih stavkih, nastopajo v vozlu CP (SpecCP, COMP, naslonski niz) in zato prav tako pred stavčno nikalnico. Toda ti členki se ne premikajo s stavčno nikalnico vred, so torej neobčutljivi na stavčno nikalnico. V preglednici 3 smo to posebej zaznamovali. 
+PRIVATE Občutljivost členkov glede členitve po aktualnostiTC  \l 4 "3.4.6Ob~utljivost ~lenkov glede ~lenitve po aktualnosti"
+Pomembno merilo je tudi občutljivost nemških naklonskih členkov glede člentive povedi po aktualnosti (prim. Krivonosova 1977, Hentschlovo 1986, Abrahama 1991). Abraham 1990 domneva, da je obstoj in skladenjsko mesto naklonskih členkov vezan na konfiguracijsko neurejeno (delno) topologijo stavka. Poleg jezikov, ki kot nemščina imajo stavčno sredino ('Mittelfeld'), s to domnevo vključuje tudi tiste jezike, ki v stavku nimajo stalnega mesta za glagol in potemtakem ne oblikujejo sklenjeno glagolsko zvezo (tj. niso konfiguracijski). V nemščini je položaj naklonskih členkov v stavčni sredini odvisen od členitve po aktualnosti. Razporeditev stavka po temi in remi je za besedni vrstni red v slovenskem stavki še pomembnejši kot v nemškem. Tako so npr. tožilniški in predložni predmeti precej gibčnejši in se pogosteje pojavljajo kot izhodišče stavka na stavčnem čelu ('Vorfeld'). Glede členitve po aktualnosti se vede večina slovenskih naklonsko rabljenih členkov dokaj enotno, razen tistih, ki nastopajo v naslonskem nizu v dopolnjevalnih vprašanjih, saj se tako kot nemški naklonski členki običajno pojavljajo pred rematičnimi stavčnimi členi (stavčno nikalnico, polnopomenskim glagolom, samostalniškimi in predložnimi zvezami, odvisnimi stavki in polstavki).
+PRIVATE Členek kot odgovor na vprašanjeTC  \l 4 "3.4.7^lenek kot odgovor na vpra{anje"
+Nekateri slovenski ustrezniki nemških naklonskih členkov nam lahko rabijo kot odgovor na odločevalno vprašanje. To so členki le, najbrž, nikar in že (prim. gornji odstavke o osameli rabi teh členkov).
+PRIVATE Priredno združevanje členkovTC  \l 4 "3.4.8Priredno zdru`evanje ~lenkov"
+Slovenska členka kar in nikar je možno priredno združiti s samim seboj. To pomeni, da je med njima možno vstaviti priredni veznik kot npr. in (torej: kar in kar oz. nikar in nikar !). Vendar z drugimi naklonsko rabljenimi členki ju ni mogoče priredno združevati. Priredno združen členek kar ni naklonsko rabljen temveč časovno. Nemški prevod bi se lahko glasil immerzu. Priredno združevanje členka nikar s samim seboj prinaša intenziviranje govornega dejanja (odsvetovanje, svarilo).
+PRIVATE Kopičenje členkov (kombinacije)TC  \l 4 "3.4.9Kopi~enje ~lenkov (kombinacije)"
+Kombinacije med slovenskimi naklonsko rabljenimi členki so možne, čeprav so te možnosti precej bolj omejene kot pri nemških naklonskih členkih. S členkom saj so takorekoč vsi členki združljivi, ki se lahko pojavljajo v pripovednih stavkih ali v asertivnih vprašalnih stavkih: npr. saj ... vendar, saj ... itak, saj ... menda ja (nikalnica), saj ... tudi. Te kombinacije naklonsko rabljenih členkov bi lahko označevali kot odprte kombinacije (Thurmair 1989:290). Morda tudi v tem primeru: le vpraš.zaimek neki. Pojem odprte kombinacije bi pa na ta način raztegnili, saj bi zajel tudi kombinacije takih členkov, ki ne nastopajo v stavčni sredini. Druge pogosteje zabeležene kombinacije slovenskih naklonsko rabljenih členkov: npr. vendar enostavno, vendar preprosto, vendar itak, vendar že, vendar no.
+PRIVATE Porazdelitev členkov po stavčnih naklonihTC  \l 4 "3.4.10Porazdelitev ~lenkov po stav~nih naklonih"
+Slovenski naklonsko rabljeni členki so tako kot ustrezni nemški naklonski členki odvisni od skladenjskega naklona, tj. pojavljajo se samo v določenih stavčnih naklonih. Ta lastnost je povezana s součinkovanjem med pomenom členka in pomenom stavčnega naklona. Porazdelitev slovenskih naklonsko rabljenih členkov je razviden iz preglednice v odstavku 2. V mnogih primerih nastopajo slovenski naklonsko rabljeni členki samo v tistih stavčnih naklonih, v katerih nastopajo tudi njihovi nemški ustrezniki. Porazdelitev slovenskih naklonsko rabljenih členkov pač in vendar se razlikuje od ustreznih nemških naklonskih členkov. Oba členka beležimo namreč tudi v dopolnjevalnih vprašalnih stavkih. Taka porazdelitev je odsev njunega manj specifičnega pomena v primerjavi z nemškimi naklonskimi členki eben, halt, nun mal oz. doch. V govornih dejanjih, v katerih govorec izraža domnevo, lahko pomen členka pač s pomočjo implikatur razširimo, tako da se približuje pomenu členka najbrž (nem. vermutlich). V govornih dejanjih, v katerih govorec naslovniku nekaj očita, se pomen členka vendar lahko s pomočjo implikatur približuje pomenu členka le (nem. nur, bloß, doch). Členek kar, ki se lahko pojavlja v odločevalnih in dopolnjevalnih vprašalnih stavkih, pa ne uvrščamo med ustreznike nemških naklonskih členkov temveč ga imamo za naklonski prislov (gl. zgoraj).
+(49)What on earth ist the matter, Teddy ? 
+(Britanska razvedrilna oddaja 'You rang, Mylord ?')
+Kaj je vendar narobe, Teddy ? 
+Was ist denn bloß los mit dir, Teddy ?
+PRIVATE Porazdelitev členkov po odvisnih stavkihTC  \l 4 "3.4.11Porazdelitev ~lenkov po odvisnih stavkih" 
+Opazna lastnost prototipičnih nemških naklonskih členkov je, da nastopajo predvsem v glavnih stavkih, ne ali v omejen obsegu pa v odvisnih stavkih. Naklonski členki lahko okrepijo ali spremenijo ilokucijo stavka. Stavki, v katerih se lahko pojavljajo naklonski členki, imajo samostojen ilokutivni potencial. Prototipična lastnost glavnih stavkov je, da razpolagajo s takim ilokutivnim potencialom. medtem ko je za odvisnike značilno, da jim ta ilokutivna moč manjka. Glavni in odvisni stavki imajo različne prototipične skladenjske vloge (prim. Orešnika 1992, Petrič 1993a). Pojavljanje nemških naklonskih členkov v odvisnih stavkih je zato dokaj omejeno (Thurmair 1989:73dd). Toda Thurmairjeva 1989:73dd navaja tudi zglede, ki nam kažejo, da se nekateri nemški naklonski členki lahko pojavljajo v nekaterih tipih odvisnih stavkov.
+Slovenski naklonsko rabljeni členki se v besedilih pogosteje pojavljajo v glavnih stavkih. To je postalo očitno po pregledu časnikov in revij, video posnetkov televizijskih diskusij, intervjujev in razvedrilnih oddaj. Vendar pa bi ta opazovanja morali podkrepiti s statistično podprto analizo različnih besedilnih zvrsti. 
+Pojavljanje slovenskih naklonsko rabljenih členkov v odvisnih stavkih, ki niso odvisni od glagola rekanja ali mišljenja v nadrejenem stavku, je najbrž omejeno. Nekatere omejitve bomo skicirali. Videti je nekaj vzporednic z omejitvami nemških naklonskih členkov v odvisnikih. Thurmairjeva 1989:74,75 navaja zglede z različnimi tipi odvisnikov. V nekaterih so nemški naklonski členki možni, v drugih zopet ne. Nekatere zglede, ki jih Thurmairjeva navaja, smo prevedli v slovenščino in v posamezne odvisnike vstavili členek pač. Pet preskusnih oseb je nato imelo nalogo, da presodijo predložene povedi po tem, ali se jim zdijo jezikovno sprejemljive ali ne. Glede večine povedi so bila mnenja o njihovi jezikovni sprejemljivosti deljena. Samo v treh primerih so vprašanci sodili enako: V osebkovem, časovnem in krajevnem odvisniku je členek pač neobičajen, čuden, nesprejemljiv. Če je členek pač v teh povedih nastopal v glavnem stavku, so se preskusnim osebam zdele povedi sprejemljive.
+(50)Daß er *ja/*doch solche üblen Geschichten über mich erzählt, ärgert mich. (Subjektsatz)
+Da *pač/*vendar tako grdo opravlja, me jezi. (osebkov odvisnik)
+(51)Während ich *eben in Berlin studierte, verging die Zeit sehr schnell. (Temporalsatz)
+Medtem ko sem *pač študiral v Berlinu, je čas zelo hitro mineval. (časovni odvisnik)
+(52)Wo ich *eben/*doch/*ja aufgewachsen bin, gibt es solche Bräuche nicht. (Lokalsatz)
+Kjer sem jaz *pač/*vendar odrastel, takih običajev ni. (krajevni odvisnik)
+V slovenskih besedilih, ki so nam bili na voljo, pa smo našli tudi zglede, v katerih se pojavljajo naklonsko rabljeni členki v odvisnih stavkih. Razen v odvisnikih, ki so odvisni od glagola rekanja ali mišljenja v nadrejenem stavku, se pogosto pojavljajo v vzročnih odvisnikih, v nadaljevalnih in neomejevalnih oziralnih odvisnikih. Zasledili pa smo jih tudi v posledičnih, primerjalnih in pogojnih odvisnikih. Tudi Thurmairjeva 1989 je v teh tipih odvisnikov (in še v nekaterih drugih) našla nemške naklonske členke. To, da se v njih pojavljajo naklonski členki, najbrž pomeni, da imajo ti tipi odvisnikov samostojno ilokutivno moč in da so potemtakem dokaj samostojni izjave (Thurmair 1989:79). To bi lahko trdili tudi za ustrezne slovenske odvisnike. V omejevalnih oziralnih odvisnikih se naklonsko rabljen členek kot npr. pač redko pojavlja. Pogosto je težko presoditi, ali je oziralni odvisnik z naklonsko rabljenim členkom omejevalen ali neomejevalen. Pri razlikovanju pomaga stavčna intonacija. Če je med nadrejenim stavkom in oziralnim odvisnikom kratek premor in-ali če se glas na koncu nadrejenega stavka spusti do izhodiščne lege, bomo po vsej verjetnosti imeli opravka z neomejevalnim oziralnim odvisnikom. Ustrezne dvoumne zglede najdemo tudi pri Thurmairjevi 1989:80 (gl. tudi opombo pod črto 104).
+(53)Prav gotovo se namreč že tudi belgijskim carinikom zdi ignorantsko z naše strani, če morajo tako "zapirati" ljudi, ker pomanjkljivo opremljeni prihajajo v državo, ki na našo smolo pač priznava klasični rdeči jugoslovanski potni list. (Delo, 15.6.1992)
+Sicher empfinden auch die belgischen Zollbeamten dies als Ignoranz von unserer Seite, wenn sie Leute "arretieren" müssen, weil sie ungenügend ausgestattet in einen (den ?) Staat kommen, der zu unserem Pech den klassischen roten jugoslawischen Reisepaß halt anerkennt.
+Medtem ko Thurmairjeva 1989 očitno ni našla zgleda z nemškim naklonskim členkom v časovnem odvisniku, smo našli slovenski časovni odvisnik z naklonsko rabljenim členkom pač, kar izid zgoraj naveden ankete seveda relativira. Zgled je zopet iz časopisnega komentarja.
+(54)Zgodovina se je odpeljala naprej - mimo Nostradamusa v leto 1992, ko je Srbe obiskal njihov kralj, ko sredi Beograda nekateri na vidovdanski način pač do zariplosti vztrajajo pri zahtevi, da se umakne Mefisto v Miloševićevi podobi. (Delo 29.6.1992)
+Die Geschichte ist weitergezogen - vorbei an Nostradamus in das Jahr 1992, als die Serben von ihrem König besucht wurden, als einige nationalistisch überdreht inmitten von Belgrad halt bis zur Erschöpfung auf der Forderung beharren, daß sich Mephisto, in der Gestalt von Milošević, zurückziehen solle.
+Omembe vredno je, da se slovenski odvisnik od glavnega stavka na površini navidezno razlikuje le po posameznih veznikih in ne dodatno po položaju osebne glagolske oblike na koncu stavka kot v nemških odvisnikih. Položaj osebne glagolske oblike v slovenskem odvisniku se ne razlikuje od položaja v glavnem stavku. Raziskovati bi bilo treba, ali različni vezniki vplivajo na pojavljanje slovenskih naklonsko rabljenih členkov v odvisnikih oz. nemških naklonskih členkov v odvisnikih. Kot je razvidno iz preglednicie 3, se razlikujejo priredni vezniki (npr. in - nem. und) od podrednih veznikov (npr. da - nem. daß) v slovenščini po tem, da prvim lahko neposredno sledi topikalizirana prvina (npr. osebek ali predmet), medtem ko slednjim ne. Priredni veznik ima svoje mesto v predčelju ('Vorvorfeld'), podredni veznik pa v vozlu VEZL (COMP). Topikalizirane stavčne člene od stavčnih členov stavčni sredini loči položaj VEZL (COMP) in naslonski niz.
+PRIVATE Polifunkcionalnost členkovTC  \l 4 "3.4.12Polifunkcionalnost ~lenkov"
+Značilna lastnost nemških členkov je njihova polifunkcionalnost. Poleg vloge naklonskega členka imajo večinoma še druge. Slovenski naklonsko rabljeni členki so prav tako polifunkcionalni, tj. v besedilih se torej pojavljajo v različnih rabah (razen členka najbrž in nikar). V sledečem seznamu so te različne vloge nakazane z izrazi, ki sicer v slovenskem jezikoslovju niso običajne. Izkazati se še mora, ali so taka imena za funkcijske skupine slovenskih členkov sploh upravičena. Okrajšava NRČ pomeni 'naklonsko rabljen členek'.
+(55)enostavno - pridevnik, naklonski prislov, NRČ
+itak - veznik (zastarel), NRČ
+ja - členitveni členek, NRČ
+kaj - nedoločni zaimek, vprašalni zaimek, naklonski prislov, NRČ; 
+kar - krajevni/časovni/naklonski prislov, členitveni členek, stopnjevalni členek, fokusni členek, NRČ; homonimi: oziralni zaimek, veznik
+le - členitveni členek, pritrdilni prislov, fokusni členek, NRČ, 
+(poleg tega tudi kot besedotvorno obrazilo: vendarle, tale, le-ta itd.)
+mar - naklonski prislov, vprašalni členek/NRČ
+menda - stavčni prislov, NRČ
+najbrž - stavčni prislov
+ne - členitveni členek, del veznika, nikalni členek, NRČ 
+neki - stavčni prislov, NRČ
+nikar - stopnjevalni členek, veznik (zastarel), členitveni členek, NRČ
+no - veznik (narečje ali zastarel), členitveni členek (medmet), NRČ
+pa - veznik, NRČ
+pač - členitveni členek, del veznika, stavčni prislov, NRČ
+pravzaprav - stavčni prislov (pripovedni stavek), NRČ (vprašalni stavek)
+preprosto - pridevnik, naklonski prislov, NRČ
+saj - veznik, členitveni členek, NRČ
+tudi - fokusni členek, del veznika, NRČ
+vendar - veznik, pritrdilni prislov, NRČ
+že - časovni prislov, fokusni členek, pritrdilni prislov, NRČ
+Spričo polifunkcionalnosti slovenskih členkov se sprašujemo, ali je zanje značilna etimološka sorodnost in značilen razvojni potek modalizacije, kakršno je opisala Hentschlova 1986 oz. kakršnega je opisal Abraham 1990. Kako pomemben dejavnik pri nastajanju naklonsko rabljenih členkov je dolgoletni stik slovenščine z nemščino ? Kako pomemben dejavnik pri nastajanju naklonsko rabljenih členkov je stavčna topologija ? Bolj smo naklonjeni mnenju, da je bila stavčna topologija merodajen dejavnik za nastanek naklonsko rabljenih različic slovenskih členkov. V jezikih, ki so razvili popolno stavčno sredino ('Mittelfeld'), naklonsko rabljeni členki že kažejo težnjo h gramatikalizaciji in oblikujejo dokaj enotno (četudi odprto) množico. 
+PRIVATE Povzetek glasoslovnih in skladenjskih lastnosti členkovTC  \l 4 "3.4.13Povzetek glasoslovnih in skladenjskih lastnosti ~lenkov"
+Slovenski naklonsko rabljeni členki, ki smo jih v tem poglavju obravnavali, imajo vrsto primerljivih lastnosti kot ustrezni nemški naklonski členki (prim. preglednice ...).  Najbolj podobne so si pomenske lastnosti, kar je seveda povezano z našim pristopom: Nemški naklonski členki oz. slovenski naklonsko rabljeni členki 
+ne spremenijo resničnosti stavka (izjema je členek najbrž in členek pač, ko se pomensko približuje členku najbrž),
+nanašajo se na ves stavek in ne le na kak stavčni člen,
+ne morejo biti odgovor na vprašanje.
+Preglednica 3:Primerjava nemških naklonskih členkov (NČ) in 
+slovenskih naklonsko rabljenih členkov (NRČ) 
+pre-   pou-   vgrajen stavčno stavčna    pred ni- pred  odgovor   priredno možne   odv. od    spremenijo  stav. nastopa v
+giben  darjen v stav. čelo    sredina    kalnico  remo  na vpraš. združlj. kombi. st.naklona resničnost  obseg odvisnikih
+Nem. NČ-      -      +       -       +          +        +     -         -        +       +          -           +     -
+Sl. NRČ-      +/-    +       +/-     +/-        +/0      +/0   -         -        +       +          -           +     +/-
+Okrajšave: gl. preglednico 1 
+Slovenski naklonsko rabljeni členki po glasoslovnih, oblikoslovnih in skladenjskih lastnostih niso enotna skupina, vsekakor v manjši meri kot nemški naklonski členki. So sicer odvisni od stavčnega naklona, niso priredno združljivi z drugimi členki, možno jih je med seboj kombinirati (kopičiti), v nekaterih tipih odvisnikov nastopajo redkeje ali sploh ne, vendar pa razpadejo glede na položj v stavku (merila: nastopanje v stavčni sredini, na stavčnem čelu, pred stavčno nikalnico in jedrom ter vgrajenost v stavek) na več skupin:
+1.itak, ja, kar, pač, tudi, vendar, (ne), (mar);
+2.menda, preprosto, enostavno, že, nikar, (pravzaprav);
+3.le, pa, no, neki, kaj;
+4.saj.
+Glede na položajske lastnosti pojema podobnost slovenskih naklonsko rabljenih členkov z nemškimi naklonskimi členki od prve skupine do četrte. Slovenski členki prve skupine so prototipičnim nemškim naklonskim členkom najbolj podobni, slovenski členki četrte skupine pa najmanj podobni.
+Slovenski naklonsko rabljeni členki se od prototipičnih nemških naklonskih členkov opazno razlikujejo po poudarjenosti. Mnoge slovenske naklonsko rabljene členke lahko poudarimo. Težnja k nepoudarjenosti je pri nemških naklonskih členkih močnejša.
+Obravnavani slovenski členki so ustrezni nemški členki polifunkcionalni. Med različicami členkov (npr. med fokusnim členkom le (nem. nur, bloß) in naklonsko rabljenim členkom le ali med veznikom vendar (nem. doch) in naklonsko rabljenim členkom vendar) je opazna pomenska povezanost. Potrebno pa bi bilo to pomensko povezanost med različicami tudi etimološko dokazati. 
+Slovenščina je jezik z razmeroma svobodnim besednim redom. Razvrščanje stavčnih členov po stavku uravnava predvsem načelo aktualnosti. Izhodišče stavka (tema) se pojavlja pred jedrom stavka (remo). Tudi v nemščini ima členitev povedi po temi in remi pomembno vlogo. Nemški naklonski členki so meja med obema - temo in remo (prim. Krivonosova 1977, Hentschlovo 1986, Abrahama 1991). Tudi pri mnogih slovenskih naklonsko rabljenih členkih je opazno, da je njihov položaj v stavku odvisen od tega, kateri stavčni členi so tematični in kateri so rematični. So tudi nekakšna meja med temo in remo. 
+Domnevamo, da je stavčna topologija odločilni dejavnik v razvoju naklonskih različic slovenskih členkov. Ali se bo v slovenščini izoblikovala razmeroma enotni razred naklonskih členkov kakor v nemščini, je morda odvisno od tega, ali se bo v slovenščini razvila topološka stavčna sredina do te mere kot v nemščini. 
+PRIVATE Osnovni pomen in pomenske različice izbranih slovenskih členkovTC  \l 4 "3.4.14Osnovni pomen in pomenske razli~ice izbranih slovenskih ~lenkov"
+Če je res, da so pomenske različice slovenskih členkov povezane, bi pričakovali, da je možno ugotoviti osnovni pomen členka, iz katerega bi lahko izpeljale posamezne pomenske različice. To, da naj bi imel posamezen členek osnovni pomen, se nam zdi verjetnejše kot to, da naj bi obstajale mnoge istoglasne slovarske enote, saj predvidevamo, da je jezikovni sistem gospodarno sestavljen. Druga domneva pa ni v skladu z načelom gospodarnosti jezikovnega sestava. Zato bomo poskusili ugotoviti osnovni pomen izbranih slovenskih členkov in posamezne pomenske različice prikazati kot pomenske izpeljanke iz osnovnega pomena. Svoje rezultate bomo kontrastirali z ustreznimi domnevami za nemške členke. Pri izpeljavi pomenskih različic členkov se še ne bomo opirali na določen semantični model, čeprav bomo svoje rezultate primerjali s tistimi, ki jih je npr. najti v delih Dohertyjeve (1985, 1987). Natančnejše analize bomo prepustili bodočim raziskavam.
+Za ponazoritev naših domnev smo izbrali slovenske členke kar, le, pač, saj, vendar in že. Pomenske razsežnosti teh členkov želimo opisati in rezultate povezati z domnevami o nemških členkih, zlasti o naklonskih členkih (prim. Hentschlovo 1986 in Abrahama 1990).
+KAR
+Slovar slovenskega knjižnega jezika (odslej SSKJ 1991-93) razlikuje tri istoglasne slovarske enote kar: 1. oziralni zaimek, 2. veznik in 3. prislov. Med oziralnim zaimkom kar in veznikom kar vidimo pomensko povezavo. To nista resnični istoglasnici (homonima), pač pa gre za različni rabi iste slovarske enote. Oziralni zaimek kar in veznik kar sta pomensko in oblikoslovna sorodna z vprašalnim zaimkom kaj. Po Slovenski slovnici Bajec/Kolarič/Rupel 1964:181 je -r v besedi kar besedotvorni morfem. Med oziralnim zaimkom in veznikom kar na eni strani in prislovom kar na drugi strani ne vidimo pomenske povezanosti. Naš pomenoslovni opis se omejuje na prislov, ki ga bomo odslej imenovali členek (gl. gornjo opredelitev pojma členek). 
+Po SSKJ 1991-93 ima členek kar šest pomenskih različic, izmed katerih se večina spet deli na različice. Med posameznimi pomenskimi različicami vidimo pomensko zvezo. Na osnovi različnih zgledov, ki pokrivajo različne pomenske različice tega členka, domnevamo, da ima osnovni pomen členka kar tele pomenske sestavine: a) kataforičnost, b) kvantizacijo odnosnice in c) izbira iz množice možnosti. Iz tega abstraktnega osnovnega pomena so s pomočjo implikatur izpeljane posamezne pomenske različice členka v različnih sobesedilih. Izpeljane pomenske različice smo razdelili na pet skupin:
+1.Krajevna pomenska različica členka kar lahko nastane, ko je prislovno določilo kraja v (pomenskem) vplivnem območju členka. Vsi stavčni členi, ki členku sledijo, so v njegovem vplivnem območju. Prislovno določilo je odnosnica členka (njegov atraktor). V slovenščini odnosnica poudarnemu členku (fokusnemu členku) ponavadi sledi. Stavek s členkom kar mora poleg prislovnega določila kraja vsebovati še glagol premikanja. Slovenske soznačnice členka kar v tej rabi so lahko: npr. naravnost, brez ovinkov, le malo oddaljen. Nemški ustrezniki izpeljane pomenske različice so lahko: geradewegs, schnurstracks, ohne Umwege ipd.
+()Ponavadi je šel kar domov.
+Gewöhnlich ging er geradewegs nach Hause.
+Krajevno konotacijo lahko ima členek kar tudi v nekaterih drugih zvezah, npr. z glagolom stati in prislovnim določilom kraja: 
+()Stal je kar pred menoj.
+Er stand gleich vor mir.
+2.Časovna pomenska različica členka kar lahko nastane, ko je prislovno določilo kraja v vplivnem območju členka. Časovni pomen je izpeljan iz krajevnega. Odnosnica ponavadi sledi členku. Stavek s členkom kar mora poleg prislovnega določila kraja vsebovati še glagol premikanja. Slovenske soznačnice členka kar v tej rabi so lahko: npr. takoj, brez odlašanja ipd. Nemški ustrezniki izpeljane pomenske različice so lahko: sofort, gleich, in kürzester Zeit, ohne Zeitverlust, auf der Stelle ipd. 
+()Da boš potem šla kar domov ! Slišiš ?
+Daß du mir später sofort nach Hause gehst ! Hörst du ?
+Časovno konotacijo lahko ima členek kar tudi v nekaterih drugih zvezah, npr. z glagolom pozabiti. Najbrž bi se izplačalo raziskovati vlogo glagolskega vida pri nastajanju časovnih pomenskih različic. 
+()To lahko kar pozabiš.
+Das kannst du gleich vergessen.
+Krajevno in časovno rabo členka kar bi lahko razložili kot ustaljeno eliptično rabo, tj. izpust ustreznih krajevnih oz. časovnih odnosnic. Primerjaj:
+()Stal je kar tik pred menoj.
+()To lahko kar takoj pozabiš.
+3.Besedilno kazalna pomenska različica členka kar lahko nastane v zelo različnih sobesedilih, npr. ko je osebek, povedkovo določilo, tožilniški predmet ali kak drug predmet v vplivnem območju členka. Odnosnica členku ponavadi sledi. Slovenske soznačnice ali slovenski izrazi, ki bolj ali manj ustrezajo členku kar v tej rabi, so lahko: npr. celo, dokaj, resnično, le, (nenadoma) ipd. Nemški ustrezniki izpeljane pomenske različice so lahko: gleich, gar, möglichst, recht, ziemlich, wirklich, echt, ganz(e), nur, bloß.
+()Pojedel je kar deset kuhanih jajc naenkrat.
+Er hat gleich zehn gekochte Eier auf einmal gegessen.
+()Zakaj si kar (naenkrat) obmolknil ?
+Warum bist du gar so still geworden ?
+()V rokopisu naj bo kar najmanj napak.
+Im Manuskript sollen möglichst wenige Fehler vorhanden sein.
+()Dekle je kar prikupno.
+Das Mädchen ist recht attraktiv.
+()Kar pogosto sem moral v najhujšem mrazu čakati na šolski avtobus.
+Ziemlich oft mußte ich in der ärgsten Kälte auf den Schulbus warten.
+()Kar vsega mu pa tudi ne smeš verjeti.
+Wirklich alles darfst du ihm aber auch nicht glauben.
+()To je kar problem.
+Das ist echt ein Problem. 
+()Čakati je moral kar pet ur.
+Er mußte gleich/ganze fünf Stunden warten.
+()Kar naenkrat je stal pred menoj.
+Ganz auf einmal stand er vor mir.
+()Kako pa kaj oče ? - Kar (dobro).
+Wie geht's denn deinem Vater (so) ? - So einigermaßen. 
+()Najraje je bila kar doma.
+Am liebsten war sie (nur) zu Hause.
+()Kar čakajo, da planejo nanj.
+Sie warten nur darauf, sich auf ihn zu stürzen.
+4.Naklonska pomenska različica členka kar lahko nastane, ko je glagol in-ali prislovno določilo načina v vplivnem območju členka. Odnosnica členku ponavadi sledi. Slovenski izrazi, ki so bolj ali manj soznačni s pomenom členka kar v tej rabi, so lahko: npr. enostavno, preprosto, po kratkem postopku, na enostaven način ipd. Nemški ustrezniki te pomenske različicie so lahko: kurzerhand, schlichtweg, einfach (so), auf einfache Weise ipd.
+()Kar tako so ga vrgli iz službe.
+Seine Arbeitsgeber haben ihm einfach so den Laufpaß gegeben.
+()Rekel si, da sem lažnivec. Tega ne morem kar tako pozabiti.
+Du hast mich einen Lügner genannt. Das kann ich nicht einfach so vergessen.
+5.Naklonska (ilokutivna) pomenska različica členka kar lahko nastane, ko je glagol in-ali prislovno določilo načina v vplivnem območju členka. Odnosnica členku ponavadi sledi. V velelnih stavkih ima naklonsko rabljen členek le (ali enostavno in preprosto) podoben pomen kot naklonsko rabljen členek kar. V pripovednih stavkih njegovemu pomenu bolj ustreza enostavno in preprosto ali celo že. Nemški ustrezniki te pomenske različice so lahko: nur, bloß, einfach, schon.
+()Kar vstopite !
+Treten Sie nur ein !
+()Kar domov pojdi ! (glagol + prislovno določilo v vplivnem območju členka)
+Geh nur nach Hause !
+()Kar na dan z besedo ! (= Kar povej !)
+Nur heraus mit der Sprache !
+()Kar po njem ! (= Kar naredi z njim, kar si nameraval !)
+Nur zu ! 
+()Pravi, da bo tožil. - Kar (naj) !
+Er sagt, er wird vor Gericht klagen. - (Das) soll er nur machen.
+()Kar misli si, da tem bom zastonj redil !
+Denk bloß nicht, daß ich dich umsonst füttere !
+()Novinar: Ste strog oče ? 
+Spielberg: Kar ne morem se zvečer ločiti od otrok. Žena Kate si jih prizadeva spraviti v posteljo, ker morajo zjutraj v šolo. Z najstarejšim sinom noriva, da je veselje. Vem, da otroci potrebujejo trdo roko, in če se ti posreči, da te ubogajo, te imajo še rajši. 
+(Jana, 12.10.1993, s. 27)
+Journalist: Sind Sie ein strenger Vater ?
+Spielberg: Ich kann mich abends einfach nicht von den Kindern trennen. Meine Frau Kate versucht sie ins Bett zu bringen, weil sie am Morgen in die Schule müssen. Mein ältester Sohn und ich toben herum, daß es nur so eine Freude ist. Ich weiß: Kinder brauchen Disziplin, und wenn es dir gelingt, daß sie auf dich hören, dann lieben sie dich noch mehr.
+()Kar pozabi, da sem to rekel !
+Vergiß einfach, daß ich das gesagt habe !
+()To bo kar držalo.
+Das wird schon stimmen.
+Členku kar lahko v opisanih rabah pripisujemo različne vloge. V gornjih zgledih sicer lahko ima podoben pomen kot krajevni ali časovni prislov, vendar v razliko s prislovi ne more nastopati brez odnosnice na stavčnem čelu. 
+()Takoj je šel ponavadi domov.
+()*Kar je šel ponavadi domov.
+()Kar domov je šel ponavadi.
+S prislovom, kot je npr. takoj, lahko odgovorimo na dopolnjevalno vprašanje, ne pa na odločevalno vprašanje. Na odločevalno vprašanje lahko odgovorimo s prislovom, če ga spremlja znamenje pritrjevanja (npr. členek da ali prikimavanje). Členek kar se v tem oziru vede kot prislov.
+()Kdaj si šel domov ? - Takoj.
+()Ali si šel domov ? - *Takoj. 
+()Kdaj si šel domov ? - Kar.
+()Ali si šel domov ? - *Kar.
+Prislov kot npr. takoj se vede kot stavčni člen. Poleg tega da ga lahko topikaliziramo, ga lahko postavimo tudi na stavčni rep kot jedro stavka. Členek kar svoji odnosnici ponavadi ne more slediti in ne more biti sam jedro stavka. 
+()Domov je šel ponavadi takoj.
+()Domov je šel ponavadi *kar.
+Prislov kot npr. takoj lahko priredno združujemo z drugimi prislovi. S členkom kar to ni mogoče.
+()Šel je takoj in tiho domov.
+()*Šel je kar in tiho domov.
+Glede na skladenjske lastnosti členka kar potemtakem ne moremo prištevati k pravim prislovom. To nam pove tudi že osnovni pomen, ki smo ga izluščili iz različnih sobesedilnih rab tega členka. Iz osnovnega pomena členka kar izvira, da je z njim modificirati lastnosti, ki jih izražajo pridevniki in prislovi (ali tudi glagoli). Členek kar pripisuje lastnosti, ki jih izražajo pridevniki in prislovi, implicirani lestvici stopenj in vrednosti. Take členke imenujemo stopnjevalne členke (prim. Helbiga 1988:47 in Thurmairjevo 1989:16 o nemških stopnjevalnih členkih). Med njimi so taki, ki povečujejo stopnjo lastnosti, ki jo izraža odnosnica: npr. zelo, povsem, skrajno, strašno, absolutno. Drugi členki relativirajo ali celo zmanjšujejo stopnjo lastnosti, ki jo izraža odnosnica: npr. dokaj, razmeroma, skorajda, nekoliko. V drugo skupino lahko uvrstimo členek kar. V nemščini je opazno, da je prva skupina obsežnejša in da členki te skupine označujejo celo take pridevnike in prislove, ki že sami na sebi izražajo mejno stopnjo lastnosti (prim. Helbiga 1988:48). 
+V četrti in peti rabi si členek kar v ustreznih sobesedilih pridobiva naklonsko konotacijo. Naklonski pomen se ali nanaša na pomensko podstavo stavka ali celo na govorno dejanje, ki ga izražamo v povedi s členkom kar. Z naklonsko konotacijo in ustreznik nemškim naklonskim členkom se členek kar pojavlja zlasti v povedih, ki izražajo poziv nekomu, ali v povedih, ki utemeljujejo ravnanje nekoga. V naklonskih rabah je njegova neposredna odnosnica glagol. Pri peti rabi se členek kar preko glagola nanaša na ves stavek oz. poved. Od stopnjevalnega členka kar (v krajevni, časovni in besedilno kazalni rabi) se naklonsko rabljen členek (ilokutivno rabljen členek) kar razlikuje po nekaterih skladenjskih lastnostih. Stopnjevalni členek kar se lahko pojavlja v vseh stavčnih naklonih, medtem ko je naklonsko rabljen členek kar omejen na velelni stavek in na pripovedni stavek, možen pa je tudi v vprašalnih stavkih. V želelnih in vzkličnih stavkih na naklonsko rabljen členek kar nismo naleteli. 
+()Kar vstopite !
+Treten Sie nur herein !
+()Zakaj si kar vstopil v sobo ? 
+Warum bist du einfach (=ohne zu fragen) ins Zimmer getreten ?
+()Zakaj se zvečer kar ne moreš ločiti od otrok ?
+Warum kannst du dich abends einfach nicht von den Kindern trennen ?
+()Ali se zvečer kar ne moreš ločiti od otrok ?
+Kannst du dich abends einfach nicht von den Kindern trennen ?
+()Če bi kar vedel, kaj me čaka, ... (stopnjevalni členek)
+Wenn ich von vorneherein/gleich gewußt hätte, was mich erwartet, ...
+()O, čaj je pa res kar vroč !
+Oh, der Tee ist aber recht heiß ! (stopnjevalni členek)
+Poreklo naklonsko rabljenega členka iz stopnjevalnega členka je še vidna v povedih, ki so brez glagolske oblike in ustrezajo velelnim stavkom, po tem, da je členek kar v naklonski rabi lahko odgovor na odločevalno vprašanje. Naklonsko rabljen členek kar pa ne more biti odgovor na dopoljnevalno vprašanje. Členek kar ima v takih odgovorih predvsem časovni pomen (gl. tudi zgoraj).
+()Ali naj začnemo z delom ? - Kar, Kar, Kar !
+Sollen wir mit der Arbeit beginnen ? - Nur zu !
+()Kdaj naj začnemo z delom ? - Kar ! (Kar takoj !)
+Wann sollen wir mit der Arbeit beginnen ? - Gleich/Sofort !
+Stopnjevalni členek kar lahko nastopa z odnosnico na stavčnem čelu (kot topik). Tudi naklonsko rabljen členek kar še dopušča to možnost v velelnih stavkih, v pripovednih stavkih pa to ni tipično. Jasne razlike med stopnjevalnim in naklonsko rabljenim členkom najbrž ni.
+()Kar pojdi se igrat !
+()To bo kar držalo.
+()Kar ne morem se zvečer ločiti od otrok.
+Členek kar so potemtakem pojavlja v vlogah stopnjevalnega členka (s krajevno, časovno in besedilno kazalnostjo) in naklonsko rabljenega členka. Naklonska raba (ilokutivna raba) členka se od stopnjevalnega členka razlikuje zlasti po odvisnosti od stavčnega naklona in nezmožnosti, da bi bil odgovor na dopolnjevalno vprašanje.
+LE
+SSKJ 1991-93 navaja štiri istoglasne slovarske enote le: prislov, členek (ki se piše z vezajem), členek (ki je pripona zaimkom in prislovom) in veznik. Po našem mnenju gre za različne rabe enega in istega členka le, saj pomenske sorodnosti med njimi ni mogoče spregledati, pa čeprav ima različen slovniški položaj. Členek le lahko nastopa kot vezan morfem, in sicer s kazalnim zaimkom ali prislovi, pri čemer ga pišemo med členkom in zaimkom vezaj oz. ga pišemo z zaimkom ali prislovom kot eno besedo. Členek le v tej rabi je že besedotvorni morfem, torej vezan morfem in zato po naši opredelitvi ni več členek. Kljub pomenski sorodnosti bomo torej besedotvorni morfem le pustili vnemar in se ukvarjali s prostim morfemom le, tj. s različicama, ki ju SSKJ označuje kot prislov in veznik. Osnovna pomenska obeležja členka le so tale: <kvantifikacija odnosnice>, <nasprotje implicitnega pričakovanja> in <anaforičnost> (glede na alternativno odnosnico) oz. <kataforičnost> (glede na aktualno odnosnico>. Govorec s členkom le izraža, da ima odnosnica na implicitni vrednostni lestvici manjšo vrednost, kot je govorec ali sogovornik pričakavol, ali da je na implicitni lestvici v nasprotju s pričakovanjem govorca ali sogovornika odnosnica edina relevantna možnost med alternativnimi možnostmi. 
+Kot prislov ima členek le v SSKJ 1991-93 osem glavnih pomenskih različic. Po glasoslovnih in skladenjskih lastnostih bi lahko razlikovali: poudarni členek (fokusni členek), kontrastni prislov in naklonsko rabljen členek. 
+1.Poudarni členek le se največkrat nanaša na samostalniške in predložne besedne zveze, lahko pa se tudi na glagole, pridevnike in prislove in cele stavke. Sicer ne spremeni resničnosti stavka, vendar vzpostavlja med odnosnico in tipsko enako sestavino odnos kvantifikacije. Nakazuje, da zavzema odnosnica na implicitni vrednostni lestvici določen položaj v primerjavi s tipsko enako sestavino, ki je lahko izrečena v ožjem ali širšem sobesedilu ali tudi neizrečena in le zamišljena.
+Porazdelitev poudarnega členka po govornih dejanjih oz. stavčnih naklonih ni omejena. Raba poudarnega členka le v vzkličnih stavkih se nam zdi neobičajna, morda pa ne povsem nemogoča. Poudarni členek le nastopa najpogosteje pred odnosnico, čeprav smo zabeležili tudi položaj poudarnega členka za odnosnico in celo v distančnem položaju. Poudarjenost poudarnega členka je verjetno odvisna od namena govorca in verjetno ne od položaja v stavku ali od nastopanja v določenem stavčnem naklonu. Ponavadi pa je poudarjena členkova odnosnica, saj sodi k jedru stavka (remi). S poudarnim členkom sicer lahko odgovorimo na odločevalno vprašanje, je pa redko. 
+Možno je tudi njegovo osamelo nastopanje kot odgovor odločevalnemu vprašanje. Kopičenje poudarnega členka le z drugimi poudarnimi členki je načelno možno (npr. le še deset otrok, približno le sto gostov, le prav mladi ljudje), čeprav precej omejeno. 
+2.Kontrastni prislov le
+3.Naklonsko rabljen členek le 
+PAČ
+SSKJ 1991-93 označuje ta členek kot prislov, razlikuje pa šest glavnih pomenskih različic. Opis pomenskih različic, ki jih navaja SSKJ 1991-93, ni v vseh primerih opis členkovnega pomena temveč opis govornega dejanja, v katerem lahko členek pač nastopa, saj lahko povedi brez členka pač prav tako izražajo navedena govorna dejanja. Glavne pomenske različice se zopet delijo na nadaljnje pomenske različice. Med navedenimi pomenskimi različicami vidimo pomenske povezanosti. Glede na gornjo opredelitev pojma členek bomo pač označevali kot členek. Na osnovi različnih zgledov, ki pokrivajo različne pomenske različice tega členka, domnevam, da ima osnovni pomen členka pač tele pomenske sestavine: a) anaforičnost, b) nasprotnost. Iz tega abstraktnega osnovnega pomena so s pomočjo implikatur izpeljane posamezne pomenske različice členka v različnih sobesedilih. Izpeljane pomenske različice sem glede na govorna dejanja razdelil na pet skupin:
+1.Členek pač se lahko pojavlja v govornem dejanju zavrnitev. Govorec zavrača trditev sogovornika. V tem govornem dejanju sta pomenski sestavini osnovnega pomena izraziti. Nemški ustrezniki te pomenske različice so lahko členitveni členki (odzivni členki), pritrjevalni prislovi in drugi izrazi: npr. DOCH, WOHL, SCHON, HALT, JA SICHER ipd.
+()Ni priden delavec. - PAČ, priden je, samo neroden.
+Dieser Arbeiter ist nicht fleißig. - DOCH, fleißig ist er schon, nur ist er ziemlich ungeschickt.
+()To bi bilo vse. PAČ, še nekaj: Pridite jutri uro prej !
+Das wäre alles. HALT/STOP/DOCH, noch etwas: Kommen Sie morgen eine Stunde früher !
+()Nas nisi pričakoval, kajne ? - PAČ, PAČ, zato sem še pokonci.
+Du hast uns wohl nicht erwartet, was ? - DOCH, DOCH, darum bin ich ja noch auf.
+()Kaj pa on ? - PAČ, njega ne smemo pozabiti.
+Und was ist mit ihm ? - NATÜRLICH/KLAR/STIMMT JA/JA SICHER, ihn dürfen wir nicht vergessen.
+()Kar sem storil, ti ni bilo v škodo. Ali PAČ ?
+Was ich getan habe, hat dir nicht geschadet. Oder DOCH ?
+2.Členek pač se lahko pojavlja v govornem dejanju omejevanje. Govorec omejuje veljavnost lastne ali sogovornikove trditve. V primerjavi z govornim dejanjem zavrnitve je v tem govornem dejanju pomenska sestavina <nasprotnost> nekoliko ošibljena. Običajno spremlja členek pač v tej rabi naslonka pa, ki ji lahko kot osnovno pomensko sestavino pripisujemo <anaforičnost>. Slovenske soznačnice členka pač v navezavi s členkom pa so lahko členki (vezniki) temveč, marveč in ampak, čeprav prvi zgled kaže, da ni vselej nadomestljiv. Nemški ustrezniki te pomenske različice so lahko vezniki in vezniški prislovi: npr. doch, aber, jedoch, sondern in zveza členkov wohl aber. 
+()Ni znanstvenik, pač pa dober učitelj.
+Er ist (zwar) kein Wissenschaftler, jedoch / wohl aber ein guter Lehrer.
+()Tega ne trdi naravnost, pač pa po ovinkih.
+Das behauptet er nicht direkt, aber/sondern indirekt.
+()Dekle (sicer) ni bogato, pač pa pridno.
+Das Mädchen ist (zwar) nicht reich, aber/jedoch fleißig.
+()Podočniki so majhni, pač pa so kočniki izdatno večji.
+Die Eckzähne sind klein, jedoch/aber die Backenzähne sind dafür viel größer. 
+3.Členek pač se lahko pojavlja v govornem dejanju dopuščanje (priznavanje, delno pritrjevanje). Govorec v tem govornem dejanju dopušča veljavnost trditve in ji pripisuje veliko verjetnost, vendar pa v sledečem delu povedi izpostavlja trditev, ki je v nasprotju s prvo in ki prvi trditvi po prepričanju govorca zmanjša pomembnost. To govorno dejanje je torej podobno govornemu dejanju omejevanje. Razlika je v tem, da je členek pač tokrat v prvem stavku in ne v drugem. Slovenske soznačniče členka pač v tej rabi so lahko npr. sicer in že. Nemški ustrezniki členka pač v tej rabi so lahko npr. zwar, schon ali wohl. 
+()Videl sem ga pač, a ogovoril ga nisem.
+Gesehen habe ich ihn schon / wohl, aber angesprochen habe ich ihn nicht.
+()Rad ga srkne, to pač, vendar ne čez mero.
+Er trinkt gerne, das schon, aber in Maßen.
+()Vino bo pač kislo, bo pa le.
+Sauer wird der Wein zwar/schon/wohl werden, aber dennoch ...
+4.Členek pač se lahko pojavlja v govornem dejanju utemeljevanje. Govorec utemeljuje ravnanje, ki ga izraža pomenska podstava stavka. Jasno izražena je pomenska sestavina <anaforičnost>, medtem ko je pomenska sestavina <nasprotnost> še šibkejša kot pri prej obravnavanih pomenskih različicah. Pogosta implikatura, povezana z rabo členka pač v govornih dejanjih utemeljevanja, je nespremenljivost v stavku izraženega stanja ali ravnanja. V tej rabi členek pač nima ustreznih soznačnic. Nemški ustrezniki naklonsko rabljenega členka pač so lahko naklonski členki eben, halt in nun mal.
+()Dela, kakor je pač vajen.
+Er arbeitet so, wie er es halt gewohnt ist.
+()Takšno je pač življenje.
+So ist nun mal das Leben.
+()Kaj se hoče, smo pač reveži.
+Was soll man machen, wir sind eben / nun mal arme Schlucker. 
+Ta pomenska različica členka pač prehaja v različico, pri kateri je izražena verjetnost, da je stavek resničen, manjša kot sto odstotkov. 
+()Otrok je bil kaznovan, je pač nagajal.
+Das Kind ist bestraft worden. Es war halt / wohl / schon nicht brav.
+5.Členek pač se lahko pojavlja v govornem dejanju, v katerem izraža govorec domnevo. Pomenska sestavina <nasprotnost> je podobno oslabljena kot v prej opisani pomenski različici. Poved s členkom pač se tudi v tej rabi pojavlja kot reakcija (odziv) na kakšno predhodno govorno dejanje. Členek pač je v skladu s tem <anaforičen>. Dejavnik verjetnosti, ki je pomemben v povedih, kjer se pogosto uveljavlja členek pač, ni posebna sestavina osnovnega pomena členka pač. Menimo, da dejavnik verjetnosti izhaja iz pomenskega  obeležja <nasprotnost>, namreč: ...
+Slovenske soznačnice členka pač v tej rabi so lahko npr. najbrž, že, neki. Nemški ustrezniki za členek pač v tej rabi sta lahko zlasti naklonska členka wohl und schon in stavčna prislova kot npr. wohl in vermutlich.
+()Kozarček bi se zdajle pač prilegel.
+Ein Gläschen würde jetzt schon gut tun.
+()Najbolj pametno bi pač bilo vrniti se.
+Am vernünftigsten wäre es wohl zurückzukehren.
+()Njegov prvi in pač tudi zadnji poskus je spodletel.
+Sein erster und wohl auch letzter Versuch ist fehlgeschlagen.
+()Potrt je, pač zato, ker nima službe.
+Er ist niedergeschlagen, wohl / eben deshalb, weil er keine Arbeit hat.
+()Tega pač sam ne verjameš.
+Das glaubst du doch wohl selber nicht.
+()Kriv je, to se pač ne da tajiti.
+Er ist schuldig, das kann man wohl / halt nicht leugnen.
+()Ljudstvo je pač vredno boljše usode.
+Das Volk hat schon / nun mal ein besseres Schicksal verdient.
+()Pač bi bil nespameten, če bi ga poslušal.
+Ich wäre ja wohl / halt dumm, wenn ich auf ihn hören würde.
+()Sovražen nam ni, to pač ne.
+Feindlich ist er uns nicht gesinnt, das wohl / schon nicht.
+()Kaj bo pač ta to odgovoril ?
+Was wird er wohl darauf antworten ?
+()Kdo je pač ta tujec ?
+Wer wohl dieser Fremde sein mag ?
+()Koliko let je pač, kar se nisva videla ?
+Wie lange ist es wohl (schon) her, seitdem wir uns gesehen haben ?
+Členku pač lahko v opisanih rabah pripisujemo različne vloge. Če rabimo členek pač osamelega (tj. na stavčnem predčelju) kot odgovor na vprašanje, ga lahko uvrstimo med stavčne ekvivalente kot členke da in ne. Členke v tej rabi imenujemo členitvene členke. Členitveni členki so tisti členki, ki osamelo nastopajo kot odziv govorca. Najpomembnejša skupna značilnost členitvenih členkov je njihova vloga, da krmilijo potek pogovora (prim. Thurmairjevo 1989:18, Willkopovo 1988). 
+()A: Ali ne boš šel z nami ?
+B: Pač ! Vsekakor !
+A: Potem se pa takoj pripravi ! V desetih minutah bomo odrinili.
+A: Gehst du nicht mit uns ?
+B: Doch ! Klar ! (Wohl ! – južnonemško še običajno)
+A: Dann mach dich fertig. In zehn Minuten legen wir ab. 
+Skladenjsko se od drugih členkovnih rab razlikujejo po položaju, saj jih ni mogoče vgraditi v stavčno zgradbo. To jih razlikuje od stavčnih prislovov (npr. najbrž, zagotovo), ki lahko prav tako nastopajo nevgrajeni (izolirani kot odziv in neintegrirani na stavčnem predčelju) v stavčno zgradbo. 
+()A: Učitelji so z ocenjevalno konferenco najbrž že začeli. 
+B: Najbrž, saj je že skrajni čas. Nihče ne bo hotel zamuditi prenosa smučarskih tekov.
+A: Najbrž že delijo cveke na levo in na desno. Zagotovo uživajo pri tem delu.
+B: Da, česa drugega od njih itak ne moreš pričakovati.
+B': *Da česa drugega od njih itak ne moreš pričakovati.
+A: Pač, da zahtevajo za svoje užitke tudi še višjo plačo. 
+A': *Pač da zahtevajo za svoje užitke tudi še višjo plačo.
+A: Die Lehrer haben mit der Notenkonferenz wohl schon begonnen.
+B: Wahrscheinlich, es ist ja schon höchste Zeit. Niemand will die Übertragung der Abfahrtläufe versäumen.
+A: Wahrscheinlich fliegen die Einsen nach allen Seiten. Sicher macht das denen einen unheimlichen Spaß.
+B: Ja, was anderes kann man von denen auch nicht erwarten.
+B': *Ja was anderes kann man von denen auch nicht erwarten.
+A: Doch, daß sie für ihr Vergnügen auch noch ein höheres Gehalt verlangen.
+A: +Doch daß sie für ihr Vergnügen auch noch ein höheres Gehalt verlangen. 
+Stavčni prislovi kot npr. najbrž se lahko pojavljajo vgrajeni v stavčno zgradbo in lahko zavzemajo stavčne položaje kot prislovi, tj. na stavčnem čelu, v stavčni sredini in na stavčnem repu. Če ima členek pač pomen, ki ustreza stavčnemu prislovu najbrž, ne more nastopati nevgrajen v stavčno zgradbo, tj. izolirano ali na stavčnem predčelju. To ga razlikuje od drugih stavčnih prislovov. Kot stavčni prislov se členek pač pojavlja na stavčnem čelu, v stavčni sredini in na stavčnem repu. 
+()Takoj je šel s kolegom po plačo.
+Sofort ist er mit einem Kollegen zur Lohnauszahlung gegangen.
+()Najbrž je šel s kolegom po plačo.
+Wahrscheinlich ist er mit einem Kollegen zur Lohnauszahlung gegangen.
+()Pač je šel s kolegom po plačo. 
+Wahrscheinlich ist er mit einem Kollegen zur Lohnauszahlung gegangen.
+()S kolegom je šel takoj po plačo.
+Mit einem Kollegen ist er sofort zur Lohnauszahlung gegangen.
+()S kolegom je šel najbrž po plačo.
+Mit einem Kollegen ist er wahrscheinlich zur Lohnauszahlung gegangen.
+()S kolegom je šel pač po plačo.
+Mit einem Kollegen ist er wohl zur Lohnauszahlung gegangen.
+()S kolegom je takoj šel po plačo.
+()S kolegom je najbrž šel po plačo.
+()S kolegom je pač šel po plačo.
+Stavčna prislova najbrž in pač se ne moreta pojavljati kot jedro stavka. Prislovi kot npr. takoj pa so lahko jedro stavka. Kontrastivna raba členkov pač in najbrž pa je videti možna. 
+()S kolegom je šel po plačo takoj.
+()?S kolegom je šel po plačo najbrž.
+()*S kolegom je šel po plačo pač.
+Stavčni prislov vselej nastopa pred stavčno nikalnico, prislov pa lako nastopa tudi za njo.
+()S kolegom ni šel takoj po plačo.
+Er ist mit seinem Kollegen nicht sofort zur Lohnauszahlung gegangen.
+()*S kolegom ni šel najbrž po plačo.
+*Er ist mit seinem Kollegen nicht wahrscheinlich zur Lohnauszahlung gegangen.
+()*S kolegom ni šel pač po plačo.
+*Er ist mit seinem Kollegen nicht wohl zur Lohnauszahlung gegangen.
+S prislovom, kot je npr. takoj, lahko odgovorimo na dopolnjevalno vprašanje, ne pa na odločevalno vprašanje. Na odločevalno vprašanje lahko odgovorimo s prislovom, če ga spremlja znamenje pritrjevanja (npr. členek da ali prikimavanje). Stavčna prislova najbrž je lahko odgovor na odločevalno vprašanje, ne pa na dopolnjevalno vprašanje. Členek pač, ki pomensko ustreza stavčnemu prislovu najbrž, ne more biti odgovor odločevalno vprašanje, ne da bi spremenil pomena (gl. zgoraj).
+()Kdaj si šel domov ? - Takoj.
+Wann bist du nach Hause gegangen ? - Sofort.
+()Ali si šel domov ? - *Takoj. 
+Bist du nach Hause gegangen ? - *Sofort.
+()Kdaj si šel domov ? - *Najbrž.
+Wann bist du nach Hause gegangen ? - *Wahrscheinlich.
+()Ali te je videl ? - Najbrž.
+Hat er dich gesehen ? - Wahrscheinlich.
+()Zakaj nisi šel domov ? - *Pač. 
+Warum bist du nicht nach Hause gegangen ? - *Wohl./*Doch.
+()Ali nisi šel domov ? - Pač. (pomensko ne ustreza členku najbrž)
+Bist du nicht nach Hause gegangen ? - Wohl./Doch./Schon.
+Prislov kot npr. takoj lahko priredno združujemo z drugimi prislovi. S členkoma najbrž in pač v vlogi stavčnih prislovov to ni mogoče.
+()Šel je takoj in tiho domov.
+Er ist sofort und leise nach Hause gegangen.
+()*Šel je najbrž in tiho domov.
+*Er ist wahrscheinlich und leider nach Hause gegangen.
+()*Šel je pač in tiho domov.
+*Er ist wohl und leider nach Hause gegangen.
+Prislov kot npr. takoj ni odvisen od stavčnega naklona, saj lahko nastopa v različnih stavčnih tipih. Členka najbrž in pač pa se pojavljata le v določenih stavčnih naklonih.
+()Pisma je takoj/najbrž/pač odposlala. 
+Sie hat die Briefe sofort/wahrscheinlich/wohl geschickt.
+()Ali je pisma takoj/*najbrž/*pač odposlala ? 
+Hat sie die Briefe sofort/*wahrscheinlich/wohl geschickt. 
+(wohl ni stavčni prislov, je naklonski členek)
+()Zakaj je pisma takoj/*najbrž/pač odposlala ? 
+(pomen členka pač ne ustreza pomenu členka najbrž)
+Warum hat sie die Briefe sofort/*wahrscheinlich/wohl geschickt ? 
+(wohl ni stavčni prilsov, pač pa je naklonski členek)
+()Takoj/*Najbrž/*Pač pošlji pisma ! 
+()Sende sofort/*wahrscheinlich/*wohl die Briefe !
+()Če bi pisma le takoj/*najbrž/*pač odposlala !
+Wenn sie die Briefe doch nur sofort/*wahrscheinlich/*wohl geschickt hätte !
+()Pa je res takoj/*najbrž/*pač odposlala pisma !
+Hat sie doch sofort/*wahrscheinlich/*wohl die Briefe geschickt !
+()Kako je takoj/*najbrž/*pač odposlala pisma !
+Wie schnell sie doch die Briefe gesendet hat !
+Wie hat sie doch *wahrscheinlich/*wohl die Briefe gesendet !
+Členek pač lahko pomensko ustreza členku najbrž. Glede na skladenjske lastnosti ga tedaj prištevamo k stavčnim prislovom tako kot npr. najbrž, verjetno, zagotovo, žal itd, čeprav nima vseh njihovih lastnosti, saj ga ne moremo rabiti osamelega (npr. kot odgovor na odločevačno vprašanje). 
+Od stavčnega prislova pač se naklonsko rabljeni členek pač le malo razlikuje. Najočitnejša je v pripovednih stavkih, saj naklonsko rabljeni členek pač ne spremeni resničnosti stavka, medtem ko je to za stavčni prislov pač značilno. Naklonsko rabljeni členek pač se je najbrž razvil iz stavčnega prislova pač, in sicer v govornih dejanjih utemeljevanja. Po drugi strani pa se tudi stavčni prislov pač nekoliko razlikuje od značilnih stavčnih prislovov.
+4.Zusammenfassung
+Die Verwendungsweisen der slowenischen Partikel pa~ lassen sich vor allem mit Hilfe formaler Kriterien drei Funktionsklassen (Gliederungspartikel, Konjunktionaladverb und Satzadverb bzw. abtönungsfähige Partikel) zuordnen. 
+===============================================================
+Tabelle 1: Uvrstitev členka pač v funkcijske vrste
+---------------------------------------------------------------
+merilo              členitveni vezniški stavčni prislov/
+                    členek     prislov   naklonsko rabljen čl.
+poudarjen              +            -              -
+poudarljiv             +            +              +
+osamel                 +                          
+stavčno predčelje
+nevgrajen              +                         ()
+stavčno predčelje
+vgrajen                                          
+sam na 
+stavčnem čelu                      +             (+)
+z odnosnico na
+stavčnem čelu                                    
+odgovor na
+odločevalno vprašanje  +                          
+odgovor na
+dopolnjevalno vpraš.                             
+spremeni
+resničnost stavka                                
+zanikljiv              ()           ()             
+priredno združljiv                               
+združljiv z drugimi
+nakl. rablj. členki   (+)                         +
+odv. od st. naklona                +              +
+===============================================================
+Legenda: + obeležje drži, - obeležje ne drži, (+) bzw. (-) obeležje omejeno (ne) drži, 
+() merilo ni možno uporabiti
+Položajske lastnosti členka pač povzemam v naslednji preglednici: (a) kaže stavek s slovenskim členitvenim členkom pač in nemškim členitvenim členkom doch, (c) stavek s slovenskim vezniškim prislovom pač in nemškim ustreznikom wohl, (d)-(g) stavke s slovenskim naklonsko rabljenim členkom pač in z nemškimi ustrezniki, naklonskimi členki wohl (d), eben (e) und halt (f)-(g). 
+===========================================================================================================
+Tabelle 2: Stellungseigenschaften der slowenischen Partikel pa~ und einiger deutscher Entsprechungen
+-----------------------------------------------------------------------------------------------------------Vorvorfeld Vorfeld   C0   Klitika   Mittelfeld         V0            Nachfeld                  Nachnachfeld
+(a) Pa~,   to             je        res.
+    Doch,  das       ist            wahr.
+(b) Toda   Janez          je                           bil           zadnji.
+    Aber   Hans      war            der letzte.
+(c)        pa~            pa je     Janez              zahteval      ve~.
+           wohl aber hat            Hans mehr          verlangt.
+(d)        Kdo            je        pa~ ta tujec?
+           Wer       mag            der Fremde wohl    sein?
+(e)        Danes                    Janez pa~ ni       zahteval,     da ...
+           Heute     hat            Hans eben nicht    verlangt,     daß ...
+(f)        Janez          se je     pa~                izgubil,                                 kajne?
+           Hans      hat            sich halt          verirrt,                                 nicht wahr?
+(g)        ...       da   se je     Janez pa~          izgubil.
+           ...       daß            Janez sich halt    verirrt hat.
+===========================================================================================================
+Die gemeinsamen Bedeutungskomponenten der verschiedenen Verwendungsweisen der slowenischen Partikel pa~ sind die der Anaphorizität und der Adversativität. Die Gebundenheit an den assertiven Satzmodus und die Voraussetzung von allgemeinem Wissen über kausale Zusammenhänge sind Bedeutungsmerkmale, die erst bei der Verwendung als AFP hinzukommen. Ich nehme an, daß die Modalisierung slowenischer Partikeln denselben Gesetzmäßigkeiten unterliegt wie die der deutschen Partikeln und daß damit die abtönende Verwendungsweise der Partikel pa~ eine spätere Entwicklung ist als die der Gliederungspartikel oder des Konjunktionaladverbs. Der lexikalische Zusammenhang zwischen den Partikelverwendungen und die chronologische Reihenfolge der Partikelvarianten müßten allerdings noch in einer diachronisch ausgerichteten Untersuchung erhellt werden. 
+Wegen der unterschiedlichen Bedeutungskonstellation hat die Partikel pa~ in verschiedenen Verwendungsweisen verschiedene Entsprechungen im Deutschen: a) als Gliederungspartikel vor allem DOCH, WOHL, b) als Konjunktionaladverb vor allem WOHL (aber), sondern, jedoch und c) als AFP vor allem eben, halt neben doch, schon und wohl. 
+In diesem Zusammenhang wäre wohl die Frage zu klären, welche Rolle der langjährige Sprachkontakt mit dem Deutschen bei der Entstehung von abtönungsfähigen Partikeln im Slowenischen gespielt hat und welche Rolle dabei satztopologische Muster gespielt haben. Ich neige zur Ansicht, daß die Satztopologie als Systemgrundlage der ausschlaggebende Faktor in der Entwicklung von modalisierten Partikelverwendungen im Slowenischen (gewesen) ist (vgl. Abraham 1990, 1991 zur Mittelfeldhypothese im Deutschen). 
+SAJ
+SSKJ 1991-93 razlikuje veznik saj in prislov saj. Slednjega označuje kot zastarel soznačnico za členek vsaj, ki ni pomensko neposredno povezan z veznikom saj. Veznik saj ima po SSKJ 1991-93 šest glavnih pomenskih različic, ki jih je možno izpeljati iz osnovnega pomena: <anaforičnost>, <skladnost> (z lastnimi pričakovanji). Pomen, ki ga SSKJ 1991-93 pripisuje členku saj je treba pripisovati govornemu dejanju ali kakemu drugemu izraznemu sredstvu, ne pa samemu členku. Prevodni ustrezniki so pogosto nemška naklonska členka ja in doch ali veznik denn, seveda pa je tudi možno, da slovenskega členka saj ne prevedemo.
+(1)Poznaš jo, saj je hodila s teboj v šolo.
+Du kennst sie, sie hat doch mit dir die Schulbank gedrückt.
+(2)Ne bom je predstavljal, saj jo tako in tako poznate.
+Ich brauche sie wohl nicht vorzustellen, Sie kennen sie ja sowieso.
+(3)Jej, saj si gotovo zelo lačen.
+Iß nur, du hast doch sicher großen Hunger.
+(4)Nihče te ne bo podil od doma. Saj sem jaz gospodar.
+Niemand wird dich aus dem Hause jagen. Herr im Hause bin (ja) ich.
+(5)Njeni prošnji so ugodili, saj se jim je smilil otrok.
+Sie erhörten ihre Bitte, denn das Kind tat ihnen leid.
+Po glasoslovnih in skladenjskih merilih uvrščamo členek saj med vezniške prislove. Možno ga je poudarjati, rabiti izoliranega kot samostojen odziv na sogovornikovo ali lastno poved, neintegrirano v stavčnem predčelju, v nasprotju z vezniki kot npr. in, ali pa se lahko pojavlja na stavčnem čelu in ne dopušča topikaliziranja kakega drugega stavčnega člena. To je značilno tudi za členke navsezadnje (nem. schließlich) in vsekakor (nem. jedenfalls, auf jeden Fall). V stavčni sredini pa vezniški prislov saj v nasprotju z njima ne more nastopati. Členek saj se lahko pojavlja le v pripovednih stavkih in v asertivnih vprašanjih. 
+()A: Pozabili so na obljube. - B: Saj (nikoli jih ne izpolnijo).
+A: Das waren lauter leere Versprechungen. B: Eben (sie halten sich nie an ihr Versprechen).
+()Prikimal je, češ, saj, saj, kako ne bi razumel.
+Er nickte, als wollte er sagen, eben, eben, wie sollte ich das denn nicht verstehen.
+(5)Njeni prošnji so ugodili, saj se jim je smilil otrok.
+Njeni prošnji so ugodili, *saj ljudem se je smilil otrok.
+Njeni prošnji so ugodili, ljudem se je *saj smilil otrok.
+Kot vezniški prislov sledi kakemu drugemu pripovednemu stavku. V rabi, ki jo SSKJ 1991-93 imenuje prislovna raba, lahko sledi tudi vprašalnim stavkom. Poved s členkom saj lahko izreče govorec sam ali, kar je pogosteje, njegov sogovornik. V tej rabi je najbolj primerljiv z nemškim naklonskim členkom ja (ali včasih tudi z naklonskim členkom doch). Vezniški prislov ne more biti odgovor na odločevalno ali dopolnjevalno vprašanje, čeprav mu lahko sledi. Občutimo ga kot nepopoln odgovor, ki bi mu moralo slediti še pojasnilo. 
+(10)A: Boš ostal pri nas ? - B: Saj ...
+A: Bleibst du bei uns ? - B: Tja/Hm/Eben ...
+(11)A: Kako naj zdaj odidem ? - B: Saj ...
+A: Wie soll ich denn jetzt von hier wegkommen ? - B: Tja/Hm/Eben ...
+()A: Ali se ti naloga ne zdi strašno slaba ? - B: Saj, vendar se je že tako dolgo trudil.
+Ko se členek saj pojavlja izoliran kot samostojen odziv na predhodno poved ali nevgrajen v stavčnem predčelju, morda že lahko govorimo o členitvenem členku. SSKJ 1991-93 imenuje slednjo rabo medmetno rabo. Ločevanje teh dveh funkcij je težko, morda celo nepotrebno. 
+VENDAR
+SSKJ 1991-93 razlikuje prislov vendar (I.) in besedo vendar v vezniški rabi v protivnem priredju (II.). Kot posebno slovarsko enoto navaja prislov vendarle, ki je označen kot razodevalna različica prislova vendar. Členek vendarle bomo obravnavali tudi pri členku le. Na osnovi zgledov s posameznimi pomenskimi različicami členka vendar smo iskali njegov osnovni pomen (pomensko jedro). SSKJ 1991-93 razlikuje tri osnovne pomenske različice prislova vendar (I.), in sicer:
+I.1. izraža nasprotje s prej povedanim, 2. z oslabljenim pomenom izraža nejevoljo, nestrpnost ali veselje, presenečenje in 3. ekspresivno, z oslabljenim pomenom poudarja samoumevnost povedanega ali poudarja povedano nasploh. 
+Kot priredni veznik (II.) nam po mnenju SSKJ 1991-93 nam rabi 1. za izražanje nasprotja s prej povedanim in 2. za omejevanje prej povedanega. Pri razlagi pomenskih različic je očitno, da pripisujejo prislovu vendar določene pomenske odtenke, ki jih sam nim temveč njegovo sobesedilo. To lahko preverimo tako, da členek vendar izpustimo (npr. Odpri vendar ! - Odpri !). Če poved še vedno izraža npr. nejevoljo ali veselje, potem členek vendar ni prispeval teh pomenskih odtenkov k povednemu pomenu (smislu). Konotacije kot npr. nejevolja ali presenečenje odraža že stavčna melodija in poudarek. Členek kot npr. vendar kvečjemu podpira izražanje določenih govornih dejanj (nejevoljo, veselje, presenečenje itd.) in je nekakšen viden in slišen znak (indeks) za določen miselni scenarij. Res pa je, da sama stavčna zgradba s polnopomenskim glagolom in njegovimi dopolnili (npr. Odpri ali Kaj počenjaš) ne zmore izražati pomenskih odtenkov, s pomočjo katerih lahko sogovornik uvrsti izrečeno poved v določen komunikacijski okvir. Stavki kot npr. Svoje kolo bom poznal pa nas napeljujejo na vprašanja kot npr.: zakaj rabi govorec prihodnjik za dogodek v sedanjosti in zakaj je lahko tak stavek v določeni situaciji (ko govorec sogovorniku ugovarja) primerna, če vstavimo še členek vendar. Taka vprašanja si bomo prihranili za sledeča poglavja. 
+Primerjali smo posamezne zglede iz SSKJ 1991-93 med seboj, v katerih nastopa členek vendar, in iz njih izluščili tale skupna pomenska obeležja: a) <anaforičnost> in b) <nasprotnost>. Pomensko obeležje <nasprotnost> ima v različnih rabah različno moč, saj je lahko enkrat bolj, drugič manj v ospredju. Glede na osnovni pomen je členek vendar enak členku pač. Seveda se sprašujemo, zakaj je potemtakem raba členka vendar tako razlikuje od rabe členka pač. Menimo, da je to igra naključja, ki pa je običajno vezana na osnovna pomenska obeležja in razmerja in se lahko od njih popolnoma oddalji šele po razmeroma dolgem času.
+Različne rabe členka vendar lahko uredimo po različnih načelih. Odločili smo se, da jih bomo najprej razvrstili po govornih dejanjih, nato pa še po oblikovnih lastnostih. Glede na to, da se pojavlja členek vendar v zelo različnih govornih dejanjih, bomo najprej ugotavljali njegove glasoslovne in skladenjske lastnosti v različnih rabah. Razlikujemo tele rabe členka vendar: veznik, vezniški prislov, pritrjevalni (ali kontrastivni) prislov in naklonsko rabljen členek.. 
+1.Členek vendar kot veznik ponavadi ni poudarjen in se proklitično naslanja na sledeči stavčni člen. Veznik sicer lahko nastopa osamelo, tj. kot samostojen odziv na predhodno poved oz. kot nadaljevanje nepopolne povedi ali tudi nevgrajeno v stavčnem predčelju, vendar pa je zanj značilna vgrajenost v stavčno predčelje. Sam ali z odnosnico na stavčnem čelu ne nastopa. V tem primeru bomo govorili o vezniškem prislovu. Vezniku vendar lahko sledi topikaliziran stavčni člen (čeprav to ni tako običajno), vezniškemu prislovu pa ne. Veznik ne more biti odgovor na vprašanje. Ni ga mogoče priredno združevati ali kopičiti (kombinirati) z drugimi vezniki. Veznik vendar lahko nastopa v pripovednih, velelnih in vprašalnih stavkih. V želelnih in vzkličnih stavkih ga nismo zasledili, čeprav se nam zdi vsaj v želelnih stavkih možen. 
+()Težave niso velike, vendar obstajajo. 
+Die Schwierigkeiten sind nicht groß, doch sie existieren.
+()Oziral se je, vendar ni bilo za njim nikogar.
+Er schaute sich um, doch hinter ihm war niemand.
+()Ta vidik je resničen, vendar enostranski.
+Dieser Aspekt ist richtig, jedoch einseitig.
+()Sprli so se, vendar pa s tem še ni rečeno, da ...
+Sie haben sich gestritten, doch das bedeutet nicht, daß ...
+()A: Včeraj sem sicer govoril še z ravnateljem ... - B: Vendar ?
+A: Gestern habe ich zwar noch mit dem Direkter gesprochen ... - B: Aber ?
+()Razumljivo je, da potuje ravno pozimi. Vendar: Zakaj v tem mrazu ni oblekla zimskega plašča ?
+Es ist verständlich, daß sie gerade im Winter reist. Aber: Warum hat sie in dieser Kälte den Wintermantel nicht angezogen?
+()Vendar v tej pesmi se ob izgovorjavi samoglasnikov kažejo nemške interference.
+Doch in diesem Gedicht zeigen sich in der Aussprache der Vokale deutsche Interferenzen.
+()A: Ali (ni)si zamudil avtobus ? - B: *Vendar.
+A: Hast du (nicht) den Bus versäumt ? - B: *Doch. 
+()A: Zakaj si ne priskrbiš mesečne vozovnice ? - B: *Vendar.
+A: Warum schaffst du dir keine Monatskarte an ? - B: *Doch.
+()Naj poskusi, *vendar in kljub temu se bojim, da bo prepozno.
+Er kann es ja versuchen, *doch und trotzdem ich fürchte, daß es zu spät sein könnte.
+()Naj poskusi, *vendar in se bojim, da bo prepozno.
+Er kann es ja versuchen, *doch und ich fürchte, daß es zu spät sein könnte.
+()Morda je že prepozno. Vendar(:) če bi le še prišel !
+Vielleicht ist es schon zu spät. Aber(:) wenn sie doch nur käme !
+()?Vendar čaj je pa res vroč !
+Doch der Tee ist vielleicht heiß !
+2.Vezniški prislov vendar ima enako vlogo kot veznik vendar, saj tudi vezniški prislov vsebinsko povezuje dva stavka. Od veznika pa se razlikuje po nekaterih skladenjskih lastnostih. V razliko z veznikom lahko nastopa na stavčnem čelu kot topik, kar pomeni, da se v tem oziru vede kot stavčni člen. To lastnost ima npr. tudi členek navsezadnje. Vezniškem prislovu sledi v slovenščini naslonski niz (če obstaja) oz. glagolska oblika, v nemščini pa osebna glagolska oblika (v skladenjskem položaju VEZL - COMP).
+()Ni bil jezikoslovec, (in) vendar so se v njeni izgovorjavi kazale nemške interference.
+Er war (zwar) kein Sprachwissenschaftler, (und) doch zeigten sich in ihrer Aussprache deutsche Interferenzen.
+()Imel je slabo opremo, in vendar je uspel.
+Er war schlecht ausgerüstet, und doch hat er es geschafft.
+()Raje ga bom poslušal, navsezadnje ima več izkušenj kot jaz.
+Ich will lieber auf ihn hören, schließlich hat er mehr Erfahrungen als ich. 
+Domnevo, da zavzema vezniški prislov položaj stavčnega člena na stavčnem čelu, po našem mnenju podpirajo zgledi, v katerih imamo poleg vezniškega prislova še veznik (npr. in ali pa) in še en topikaliziran stavčni člen (npr. vprašalni zaimek). Veznik vendar, ki ima položaj v stavčnem predčelju, dopušča topikaliziran stavčni člen, medtem ko vezniški prislov, ki nastopa na stavčnem čelu, ne dopušča topikaliziranega stavčnega člena. Dopušča ga kvečjemu, če sledi vezniškemu prislovu kratek premor (ki se v pisavi kaže kot vejica ali dvopičje).
+()Vendar v TEJ pesmi se kažejo v izgovorjavi nemške interference. 
+(veznik; velike črke kontrastni poudarek)
+Doch in diesem Lied zeigen sich in der Aussprache deutsche Interferenzen. (veznik)
+()Vendar v katerem primeru se v izgovorjavi kažejo nemške interference ? (veznik)
+Doch in welchem Fall zeigen sich in der Aussprache deutsche Interference ? (veznik)
+()*In vendar v tej pesmi se kažejo v izgovorjavi nemške interference. 
+(vezniški prislov vendar)
+*Und doch in diesem Lied zeigen sich in der Aussprache deutsche Interferenzen. 
+(vezniški prislov doch)
+()*In vendar v katerem primeru se v izgovorjavi kažejo nemške interference ? 
+(vezniški prislov vendar)
+*Und doch in welchem Fall zeigen sich in der Aussprache deutsche Interferenzen ? (vezniški prislov doch)
+()Raje ga bom poslušal, *navsezadnje izkušnje so dragocenejše od mnogih knjig. 
+(vezniški prislov navsezadnje)
+Ich will lieber zuhören, *schließlich Erfahrungen sind wertvoller als viele Bücher. (vezniški prislov schließlich)
+()Raje ga bom poslušal, navsezadnje: izkušnje so dragocenejše od mnogih knjig. 
+(vezniški prislov navsezadnje)
+Ich will lieber zuhören, schließlich: Erfahrungen sind wertvoller als viele Bücher. (vezniški prislov schließlich)
+()Raje ga bom poslušal, navsezadnje so izkušnje dragocenejše od mnogih knjig. 
+(vezniški prislov navsezadnje)
+Ich will lieber zuhören, schließlich sind Erfahrungen wertvoller als viele Bücher. (vezniški prislov schließlich)
+Ko rabimo členek vendar osamelo, tj. kot samostojen odziv na poved ali nevgrajeno v stavčnem predčelju, je težko ali celo nemogoče razlikovati veznik od vezniškega prislova. Tudi glede drugih lastnosti, ki smo jih navedli pri vezniku vendar ne vidimo značilnih razlik. Izjema je poleg položaja na stavčnem čelu morda poudarjenost. Zdi se nam, da je vezniški prislov pogosteje poudarjen kot veznik. Glede na to, da se vezniški prislov vede kot stavčni člen (možno ga je topikalizirati) in da je lahko kontrastno poudarjen, spominja na rabo členka vendar, ki jo označujemo kot kontrastni prislov.
+3.Kontrastni prislov vendar se prav tako kot vezniški prislov vede kot stavčni člen. V tej rabi je členek vendar kontrastno poudarjen in se ponavadi pojavlja v stavčni sredini. Kontrastni prislov lahko ima tudi obliko vendarle, ki velja po SSKJ 1991-93 kot razodevalna različica tega prislova. Vlogo kontrastnega prislova bi lahko imel tudi členek že v določenih sobesedilih. O tem bomo govorili pri členku že. Členek vendar v tej vlogi je primerljiv z nemškim kontrastnim prislovom doch, ki mu po mnenju Dohertyjeve 1985 daje kontrastni poudarek nekoliko drugačno vsebino kot nepoudarjenemu (naklonsko rabljenemu) členku vendar, ki se prav tako pojavlja v stavčni sredini. 
+()Imel je slabo opremo, in vendar je uspel. (vezniški prislov)
+Er war schlecht ausgerüstet, und doch hat er es geschafft. (vezniški prislov)
+()Imel je slabo opremo, in je VENDAR uspel. (kontrastni prislov)
+Er war schlecht ausgerüstet, und er hat es DOCH geschafft. (kontrastni prislov)
+()A: Pomoč prihaja. - B: VENDAR že !
+A: Hilfe naht. - B: Endlich !
+V razliko z veznikom in vezniškim prislovom se kontrastni prislov ponavadi ne pojavlja na stavčnem čelu ali osamelo. Vselej je kontrastno poudarjen, sodi torej k jedru stavka. Poleg prislova je v stavku lahko poudarjen še kak drug stavčni člen, ki sodi k jedru stavka. Podobno kot členitveni členek pač nam lahko rabi za zavračanje predhodne trditve, ki vsebuje nikalnico. 
+()A: Mislim, da ga nocoj ne bo. - B: Kaj pa, če VENDAR(LE) pride ? 
+(kontrastni prislov VENDAR(LE))
+A: Ich glaube, er kommt heute abend nicht. - B: Und was ist, wenn er DOCH kommt ? (kontrastni prislov DOCH)
+()A: Mislim, da ga nocoj ne bo. - B: Pač, možno je že, toda ... (členitveni členek PAČ)
+A: Ich glaube, er kommt heute abend nicht. - B: DOCH, möglich ist es SCHON, aber ... (členitveni členek DOCH)
+4.Naklonsko rabljen členek vendar nastopa le v stavčni sredini, je nepoudarjen, ne more biti odgovor na vprašanje, ni priredno združljiv z drugimi naklonsko rabljenimi členki. Možno je kopičenje (kombiniranje) naklonsko rabljenega členka vendar z drugimi naklonsko rabljenimi členki, čeprav so te možnosti omejene v primerjavi z nemškim ustreznikom doch. Naklonsko rabljen členek doch je odvisen od stavčnega naklona, kar se kaže po tem, da ne more nastopati v vseh stavčnih naklonih. V odločevalnih vprašanjih se ne more pojavljati, kar lahko utemeljimo z njegovim pomenom. V nasprotju z nemškim naklonskim členkom doch lahko nastopa naklonsko rabljen členek vendar tudi v pravih dopolnjevalnih vprašanjih, čeprav je marsikatero moč razumeti kot retorično vprašanje, torej kot nepravo dopolnjevalno vprašanje. V takih vprašanjih se po pomenu približuje dvojici nemških naklonskih členkov denn bloß. Nemški naklonski členek doch se pojavlja samo v dopolnjevalnih vprašanjih, v katerih govorec sogovornika ne sprašuje po novi informaciji temveč po že posredovani informaciji. Taka vprašanja imajo torej značaj glasnega razmišljanja, spominjanja, ki mu pa seveda lahko sledi sogovornikov ponovni odgovor. 
+()Svoje kolo bom vendar poznal. 
+Mein Rad werde ich doch wohl noch kennen.
+()Fant je vendar zadosti star.
+Der Junge ist doch schon alt genug.
+()Odpri vendar !
+Mach doch auf ! / Mach schon auf !
+()Kaj pa vendar počenjaš ?
+Was machst du denn da bloß ?
+()To je pa vendar že preveč !
+Das ist aber doch schon zuviel des Guten !
+()*Ali si vendar PRIŠLA ? (naklonsko rabljen členek vendar)
+*Bist du doch gekommen ? (naklonski členek doch)
+()*Ali si VENDAR prišla ? (kontrastni prislov vendar)
+*Bist du DOCH gekommen ? (kontrastni prislov doch)
+Po glasoslovnih in skladenjskih lastnostih je torej možno razlikovati različne sobesedilne rabe členka vendar. Mi smo razlikovali štiri različice: veznik, vezniški prislov, kontrastni prislov in naklonsko rabljen členek. Za nas bistvena razlika med veznikom in vezniškim prislovom je različen skladenjski položaj: priredni veznik se pojavlja v stavčnem predčelju in dopušča, da mu sledi topikaliziran stavčni člen, medtem ko vezniški prislov sam zavzema položaj topika na stavčnem čelu. Med kontrastnim prislovom in naklonsko rabljenim členkom sta bistvena razločka v (ne)poudarjenosti in, če bi vključili še širše sobesedilo in sotvarje, tudi različno sobesedilo in sotvarje, kar je razvidno že iz nekaterih gornjih zgledov. Med veznikom in vezniškim prislovom na eni strani in kontrastnim prislovom in naklonsko rabljenim členkom na drugi strani je bistven položajski razloček: vendar kot vezniška beseda se ne more pojavljati v stavčni sredini, vendar kot kontrastni prislov ali naklonsko rabljen členek se (običajno) ne pojavlja na stavčnem čelu ali v predčelju. Različne so seveda tudi besediloslovne lastnosti. Vprašali bi se lahko: npr. V katerih govornih dejanjih se pojavlja členek kot veznik, kot vezniški prislov, kot kontrastni prislov ali kot naklonsko rabljen členek ? Ali se posamezna raba členka uveljavlja v pobudnih (iniciativnih) ali v odzivnih (reaktivnih) govornih dejanjih ? itd.
+ŽE
+SSKJ 1991-93 označuje členek že kot prislov in razlikuje sedemnajst osnovnih pomenskih različic. Opisi pomenskih različic nam kažejo, da se opis pomena v mnogih primerih nanaša na govorno dejanje, v katerem členek nastopa, in ne na sam členek. Iz navedenih pomenskih različic smo izluščili osnovni pomen členka že. Osnovni pomen členka ima tele nespremenljive pomenske sestavine: a) <anaforičnost>, b) <nasprotnost> in c) <zaporednost dogodkov>. To pomeni, a) da se členek že nanaša na nekaj, kar je bilo predhodno izrečeno ali le mišljeno, b) da je izjava govorca v nasprotju s predhodno sogovornikovo ali lastno izjavo oz. s sogovornikovim ali lastnim pričakovanjem in c) da govorec predvideva, da sta dogodka (tj. dejanja, dogajanja, stanja), o katerih je govor, na implicitni lestvici vrednosti ali stopenj člena zaporedja. Iz tega abstraktnega pomena je možno izpeljati posamezne rabe tega členka. Preden se bomo lotili razvrstitve rab po pomenu, bomo primerjali glasoslovne in skladenjske lastnosti členka v različnih sobesedilnih rabah.
+Po glasoslovnih in skladenjskih lastnostih členka že lahko razlikujemo tele sobesedilne rabe: krajevno-časovni prislov, poudarni členek, členitveni členek in naklonsko rabljen členek. 
+1.Krajevno-časovni prislov že nastopa pred glagoli in pridevniki, ki imajo skladenjsko vlogo povedkovega določila ali krajevnimi prislovi. V tej rabi je lahko poudarjen in se lahko pojavlja sam na stavčnem čelu. 
+()Janez je že v šoli.
+Hans ist schon in der Schule (=bereits)
+()Komaj je ura dvanajst, in ŽE je Janez na igrišču.
+Die Uhr hat gerade erst zwölf geschlagen, und SCHON ist Janez auf dem Spielplatz.
+()Mi smo že končali, oni pa so šele začeli.
+Wir sind schon fertig, sie hingegen haben erst angefangen.
+()Tam je že pomlad, tu je še zima.
+Dort ist schon Frühling, hier ist noch Winter.
+()Komaj je odšla, že so se začeli smejati.
+Kaum war sie weggegangen, schon fingen sie an zu lachen.
+()Že je hotel oditi, ko so ga poklicali po zvočniku.
+Er wollte schon gehen, als er über Lautsprecher gerufen wurde.
+()Janez ob tem času že spi. 
+Hans schläft schon um diese Zeit. 
+Členek že v tej rabi lahko nastopa osamel, npr. kot odziv na odločevalno vprašanje. Ponavadi odziv s členkom že spremlja prikimavanje ali ustrezen nejezikoven odziv. Tako je tudi pri prislovih. V nasprotju s pravimi prislovi (npr. takoj, tam) pa ni uporaben kot odgovor na dopolnjevalno vprašanje. Ta lastnost ga približuje poudarnim členkom. V stavčnem predčelju, če je vgrajen v stavčno zgradbo, v tej rabi ne more nastopati, saj je položaj rezerviran za veznike. Nevgrajen v stavek, in sicer v stavčnem predčelju, pa se lahko pojavlja, kar je značilno tudi za člentivene členke. Tako kot pravi prislovi se lahko sam pojavlja na stavčnem čelu, ne pa s kakšnim drugim stavčnim členom, saj lahko ta položaj po topološkem modelu stavka zasede samo en stavčni člen. 
+()A: Ali si govoril s profesorjem ? - B: Že./Da, že. 
+(ponavadi spremlja členek še prikimivanje ali členek da ipd.)
+A: Hast du mit dem Professor gesprochen ? - B: Ja./*Schon. 
+(tukaj členek schon pomensko ne ustreza časovnemu prislovu)
+()A: Kdaj si govoril s profesorjem ? - B: *Že.
+A: Wann hast du mit dem Professor gesprochen ? - B: *Schon.
+()A: Ali si govoril s profesorjem ? - B: Že, saj je bil res skrajni čas.
+A: Hast du mit dem Professor gesprochen ? - B: Ja,/*Schon, es war ja wirklich höchste Zeit.
+()Ni mi ga treba predstaviti, kajti: saj se že poznava/se že poznava.
+Ni mi ga treba predstaviti, kajti že se poznava/poznava se že.
+Ni mi ga treba predstaviti, *saj že se poznava. 
+(vezniški prislov saj in prislov že ne moreta hkrati nastopati na stavčnem čelu)
+Členek že v pravkar navedenih sobesedilih po skladenjskih lastnostih ni pravi prislov. Sploh ga je v zgoraj opisani rabi težko dati v kak jasen skladenjski predalček. 
+2.Najpogosteje nastopa členek že kot poudarni členek. Poudarni členek se običajno ne nanaša na ves stavek temveč na posamezno stavčno prvino, ki ima glavni stavčni poudarek in mu ponavadi neposredno sledi. Ne spremeni resničnosti stavka, vendar pa odnosnico povezuje z vrstno enako prvino, ki je lahko v širšem sobesedilu izražena ali pa tudi ne. Zaradi pomena poudarnega členka že dobiva odnosnica v primerjavi z drugo (v stavku običajno neizraženo) prvino določen položaj na običajno neizraženi vrednostni lestvici. Členek že sodi k vključujočim poudarnim členkom, tj. k tistim poudarnim členkom, ki vključujejo še druge vrednosti. V to podskupino bi lahko uvrstili tudi poudarna členka šele in še. Pogosto se pojavlja poudarni členek že pred prislovnimi določili časa, vendar tudi pred prislovnimi določili kraja in prislovnimi določili, ki izražajo mero ali količino.
+()Že takrat so računali z izjemami.
+Schon damals haben sie mit Ausnahmen gerechnet.
+()Že jutri bo prost.
+Schon morgen wird er frei sein.
+()Prijatelja sta že iz otroških let.
+Sie sind schon als Kinder Freunde gewesen.
+()To bolezen je imel že kot otrok.
+Diese Krankheit hat er schon als Kind gehabt.
+()O tem govori v že citiranem delu.
+Er spricht darüber in der bereits zitierten Arbeit. 
+()Odvzeli so jim že priznane pravice.
+Die ihnen bereits anerkannten Rechte wurden ihnen genommen.
+()Do večera bodo ceste že splužene.
+Bis zum Abend werden die Straßen bereits vom Schnee gesäubert sein.
+()Že dve uri čakajo.
+Sie warten schon (seit) zwei Stunden.
+()Pojedel je že pet krofov, pa še ni sit.
+Er hat schon fünf Berliner gegessen und ist immer noch nicht satt.
+()Danes je že trikrat tefefoniral.
+Heute hat er schon dreimal telefoniert.
+()Imajo že več tisoč članov.
+Sie haben schon mehrere tausend Mitglieder.
+()Pri branju knjige je že na stoti strani.
+Im Buch ist er schon auf Seite hundert.
+()Že ime pove vse.
+Schon der Name sagt alles.
+()Kristali so bili že po obliki nenavadni.
+Die Kristalle waren schon von der Form her ungewöhnlich.
+Poudarni členek že nastopa v vsaj dveh različicah: V prvem primeru govorec (časovno) uvršča dogodek kot dogodek, ki je na vrednostni lestvici nastopil prej, kot je pričakoval (gl. ()-()). V drugem primeru govorec uvršča dogodek kot dogodek, ki je na vrednostni lestvici nastopil kasneje, kot je pričakoval (gl. ()-()).
+Poudarni členek že v nasprotju s prislovom že ne more nastopati sam na stavčnem čelu temveč le z odnosnico. Ustrezno velja tudi za nemški poudarni členek (Gradpartikel) schon. V nekaterih primerih je stavek sicer kljub topikalizaciji členka slovniško pravilen, vendar pa dobi členek nekoliko drugačen pomen. Zato so zgledi kljub temu označeni z zvezdo.
+()*Že so takrat računali z izjemami.
+*Schon haben sie damals mit Ausnahmen gerechnet.
+()*Že bo jutri prost.
+*Schon wird er morgen frei sein.
+()*Že sta prijatelja iz otroških let.
+*Schon sind sie als Kinder Freunde gewesen.
+()*Že je imel to bolezen kot otrok.
+*Schon hat er diese Krankheit als Kind gehabt.
+()*Že o tem govori v citiranem delu.
+*Schon spricht darüber in der zitierten Arbeit. 
+()*Že so jim odvzeli priznane pravice.
+*Schon wurden die ihnen anerkannten Rechte genommen.
+()*Že bodo ceste do večera splužene.
+*Schon werden die Straßen bis zum Abend vom Schnee gesäubert sein.
+()*Že čakajo dve uri.
+*Schon warten sie (seit) zwei Stunden.
+()*Že je pojedel pet krofov, pa še ni sit.
+*Schon hat er fünf Berliner gegessen und ist immer noch nicht satt.
+()*Že je danes trikrat tefefoniral.
+*Schon hat er heute dreimal telefoniert.
+()*Že imajo več tisoč članov.
+*Schon haben sie mehrere tausend Mitglieder.
+()*Že je pri branju knjige na stoti strani.
+*Schon ist er im Buch auf Seite hundert.
+()Že pove ime vse.
+*Schon sagt der Name alles.
+()*Že so bili kristali po obliki nenavadni.
+*Schon waren die Kristalle von der Form her ungewöhnlich.
+Poudarnega členka že ne moremo rabiti osamelega, tj. ne kot samostojen odziv na vprašanje in ne nevgrajenega v stavčnem predčelju. S poudarnim členkom ni mogoče odgovarjati na vprašanja. V zgledih, kjer nastopa členek že osamelo, je časovni prislov, vendar pa jasno razločevanje najbrž ni mogoče. Pri nemškem ustrezniku schon so razlike med poudarnim členkom in npr. naklonskim členkom izrazitejše, jasnejše. 
+()A: Ali so takrat računali z izjemami ? - B: *Že 
+(časovni prislov, ki ga spremlja prikimavanje, pa je možen)
+B: Hat man damals mit Ausnahmen gerechnet ? - B: *Schon./*Bereits./Ja. 
+(Členek schon tu že izraža odnos govorca do irečenega)
+()A: Ali je to bolezen že imel ? - B: *Že 
+(časovni prislov, ki ga spremlja prikimavanje, je možen)
+A: Hat er diese Krankheit schon gehabt ? - B: *Schon./*Bereits./Ja. 
+(Členek schon tu že izraža odnos govorca do irečenega)
+()A: Koliko časa že čakajo ? - B: *Že./Že dve uri.
+A: Wie lange warten sie schon ? - B: *Schon./Seit zwei Stunden.
+()*Že, ime pove vse.
+*Schon, der Name sagt alles.
+Poudarnega členka že ne morejo priredno združevati z drugimi poudarnimi členki in ne kopičiti z drugimi poudarnimi členki. Poudarni členki tudi niso odvisni od stavčnega naklona, tako da lahko nastopajo v pripovednih stavkih, vprašalnih stavkih, velelnih stavkih, želelnih stavkih in vzkličnih stavkih.
+3.Členitveni členek (oz. odzivni členek) že se od naklonsko rabljenega členka že razlikuje predvsem po skladenjskih lastnostih, da nastopa a) (redko kdaj) kot samostojen odziv na predhodno vprašanje, b) običajno pa nevgrajen v stavčnem predčelju, c) da je lahko odgovor na odločevalno vprašanje in č) da zaradi možnega položaja v stavčnem predčelju ni odvisen od stavčnega naklona. Po pomenu pa je členitveni členek že težko ločiti od naklonsko rabljenega členka že. Od naklonsko rabljenega členka se razlikuje tudi po tem, da ga rabimo v govornem dejanju ugovor z delnim strinjanjem, medtem ko nastopa naklonsko rabljen členek v drugih govornih dejanjih (domneva, sprijaznjenje, izražanje prepričanosti, utemeljevanje). Nemški naklonski členek schon se od istoimenskega členitvenega členka razlikuje tudi še po nepoudarjenosti. V povedi, v kateri rabimo členitveni členek že, je značilno nadaljevanje s protivnim veznikom (toda, vendar).
+()A: Mislijo, da obvladujejo položaj.  - B: Že, toda ne bodo ga dolgo.
+A: Sie glauben, Herr der Lage zu sein. - B: Schon, aber sie werden es nicht mehr lange sein.
+()Organizirali bodo svetovno prvenstvo. - B: Že že, a kdo bo vse to plačal ?
+Sie werden die Weltmeisterschaft organisieren. - B: Schon, aber wer soll das alles bezahlen ?
+()A: Ali ne bodo pri nas organizirali svetovno prvenstvo ? – 
+B: Že, vendar za nas ne vidim nobene koristi v tem.
+A: Wird bei uns nicht die Weltmeisterschaft organisiert ? – 
+B: Schon, aber für uns sehe ich keinen Nutzen darin.
+()A: Ali bodo že letos pri nas priredili svetovno prvenstvo ? - B: Že. 
+(Je lahko časovni prislov ali členitveni členek, vendar pa je interpretacijo členka kot časovnega prislova verjetnejša.)
+A: Wird die Weltmeisterschaft schon in diesem Jahr bei uns organisiert ? - B: Schon. 
+(V nemščini te dvoumnosti ni, saj bi Nemec členek razumel kot naklonski členek in ne kot časovni prislov.)
+()A: Kdaj pa bodo pri nas organizirali svetovno prvenstvo ? - B: *Že, toda ...
+A: Wann wird denn bei uns die Weltmeisterschaft organisiert ? - *Schon, aber ... 
+4.Naklonsko rabljen členek že je pogosto (kontrastno) poudarjen (v nasprotju z nemškim ustreznikom schon, ko je rabljen kot naklonski členek), vgrajen v stavčno zgradbo, nastopa pogosto v stavčni sredini, ponavadi ne nastopa na stavčnem čelu in tudi ne v stavčnem predčelju (prim. členitveni členek že). Ne more biti odgovor na vprašanje, ne moremo ga priredno združevati z drugimi naklonsko rabljenimi členki, z nekaterimi naklonsko rabljenimi členki pa je možno kopičenje (kombinacija). Naklonsko rabljen členek je odvisen od stavčnega naklona. Zato se pojavlja le v pripovednih stavkih, v asertivnem tipu dopolnjevalnih vprašanj, v velelnih stavkih in v želelnih stavkih. V naklonsko rabljenem členku že še pogosto čutimo časovni pomenski odtenek, saj je naklonska raba najbrž izpeljana iz časovne.
+()To ste ŽE naredili, ker so vam pomagali. (naklonsko rabljen členek)
+Sie werden das wohl/schon/*bereits gemacht haben, weil: man hat ihnen geholfen.
+()To ste že NAREDILI, ker ste imeli dovolj časa. (časovni prislov)
+Sie haben das schon/bereits gemacht, weil sie genügend Zeit hatten.
+()Takrat si mu ŽE posodil, zdaj mu pa ne bi več.
+Damals haben sie ihm Geld schon geliehen, aber jetzt würden sie es wohl nicht mehr.
+()To ti bom pa že (še) dal.
+Das werde ich dir (doch wohl) schon (noch) geben.
+()Nič ne de, bom ŽE počakal.
+Das macht nichts, ich warte schon (auf dich)./ich werde schon auf dich warten.
+()Šiva ŽE še, težjega dela pa se ne loti več.
+Nähen tut sie schon noch, aber schwerere Arbeiten läßt sie nun liegen.
+()Drugega ne bo mogel delati, za vrt bo že (še) skrbel.
+Etwas anderes kann er nicht arbeiten, aber für den Garten wird er schon (noch) sorgen.
+()Ne čudite se preveč, je ŽE tako, da se nesporazumu ne da izogniti. 
+Wundern Sie sich nicht zu sehr, es ist schon so, daß ein Mißverständnis nicht mehr aus dem Weg geräumt werden kann.
+()Daj mi že (enkrat) mir !
+Laß mich schon (endlich) in Ruhe ! / Laß mich doch in Ruhe !
+()Govori že vendar !
+Sprich doch schon (endlich) !
+()Ko bi vendar že dobili stanovanje !
+Wenn wir doch schon eine Wohnung bekämen !
+()Razložil nam je ŽE, a razumel ga ni nihče.
+Erklärt hat er es uns schon, aber verstanden hat ihn niemand.
+()A: Kdo gre z njim ? - B: Jaz že ne.
+A: Wer geht mit ihm ? - B: Ich schon nicht.
+()Tako neumen pa že ni.
+So dumm ist er wohl nicht.
+()Kje je že to ! (spominja na poudarni členek: že + tam/kje)
+Wie lange das doch schon her ist !
+()Kje že bom jutri ob tem času ! (spominja na poudarni členek: že + tam/kje)
+Wie weit entfernt ich doch morgen um diese Zeit schon sein werde !
+()Naj bo kakršna že, rad jo imam.
+Wie auch immer sie nun mal ist, ich habe sie gern.
+()Čigav je že bil tisti avtomobil ?
+Wessen Auto war das doch noch ?
+()Naj gredo, če že hočejo.
+Sollen sie doch gehen, wenn sie schon wollen.
+PRIVATE 
+KAZALO
+ TOC \o "1-5" NEMŠKI NAKLONSKI ČLENKI IN NJIHOVI SLOVENSKI USTREZNIKI PAGEREF _Toc444248057 \h 1
+1SPLOŠNO O SREDSTVIH ZA IZRAŽANJE NAKLONSKOSTI PAGEREF _Toc444248058 \h 1
+1.1Uvod PAGEREF _Toc444248059 \h 1
+1.2O naklonskosti nemških naklonskih členkov PAGEREF _Toc444248060 \h 1
+2POMEN in VLOGE  NEMŠKIH NAKLONSKIH ČLENKOV PAGEREF _Toc444248061 \h 2
+2.1Pomenoslovni in pragmatični pristop pri opisu pomena naklonskih členkov PAGEREF _Toc444248062 \h 2
+2.1.1Pomenoslovni pristop PAGEREF _Toc444248063 \h 3
+2.1.2Pragmatični pristop PAGEREF _Toc444248064 \h 6
+2.2Funkcijske različice ali skupno pomensko jedro PAGEREF _Toc444248065 \h 10
+3PROTISTAVNA PRIMERJAVA NEMŠKIH IN SLOVENSKIH ČLENKOV PAGEREF _Toc444248066 \h 15
+3.1Obravnava členkov v slovenskem jezikoslovju PAGEREF _Toc444248067 \h 15
+3.1.1Prve slovenske slovnice PAGEREF _Toc444248068 \h 15
+3.1.1Starejša slovnična dela PAGEREF _Toc444248069 \h 15
+3.1.2Toporišič PAGEREF _Toc444248070 \h 15
+3.1.3Raba izraza členek v predavanju PAGEREF _Toc444248071 \h 16
+3.1.4Drugo pojmovanje členkov PAGEREF _Toc444248072 \h 17
+3.2Delitev besedne vrste 'členek' na funkcijske vrste PAGEREF _Toc444248073 \h 18
+3.3Slovenski ustrezniki nemških naklonskih členkov PAGEREF _Toc444248074 \h 20
+3.3.1Pregled slovenskih ustreznikov PAGEREF _Toc444248075 \h 20
+3.3.2Oblikovna in pomenska obeležja prototipičnih nemških naklonskih členkov v primerjavi s slovenskimi ustrezniki PAGEREF _Toc444248076 \h 21
+3.3.2.1Nepregibnost členkov PAGEREF _Toc444248077 \h 23
+3.3.2.2Poudarjenost ali nepoudarjenost členkov PAGEREF _Toc444248078 \h 23
+3.3.2.3Vgrajenost členkov v stavek PAGEREF _Toc444248079 \h 26
+3.3.2.4Položaj členkov v stavku PAGEREF _Toc444248080 \h 27
+3.3.2.5Položaj naklonski členkov pred stavčno nikalnico PAGEREF _Toc444248081 \h 31
+3.3.2.6Občutljivost členkov glede členitve po aktualnosti PAGEREF _Toc444248082 \h 32
+3.3.2.7Členek kot odgovor na vprašanje PAGEREF _Toc444248083 \h 32
+3.3.2.8Priredno združevanje členkov PAGEREF _Toc444248084 \h 32
+3.3.2.9Kopičenje členkov (kombinacije) PAGEREF _Toc444248085 \h 32
+3.3.2.10Porazdelitev členkov po stavčnih naklonih PAGEREF _Toc444248086 \h 33
+3.3.2.11Porazdelitev členkov po odvisnih stavkih PAGEREF _Toc444248087 \h 33
+3.3.2.12Polifunkcionalnost členkov PAGEREF _Toc444248088 \h 35
+3.3.2.13Povzetek glasoslovnih in skladenjskih lastnosti členkov PAGEREF _Toc444248089 \h 36
+3.3.3Osnovni pomen in pomenske različice izbranih slovenskih členkov PAGEREF _Toc444248090 \h 38
+3.3.3.1KAR PAGEREF _Toc444248091 \h 39
+3.3.3.2LE PAGEREF _Toc444248092 \h 43
+3.3.3.3PAČ PAGEREF _Toc444248093 \h 44
+3.3.3.4SAJ PAGEREF _Toc444248094 \h 50
+3.3.3.5VENDAR PAGEREF _Toc444248095 \h 51
+3.3.3.6ŽE PAGEREF _Toc444248096 \h 55

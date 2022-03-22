@@ -270,7 +270,7 @@ uporablja pojme, kot so 'pritrditev' ('Bekräftigung') in 'prepričevanje'
 ### Pragmatični pristop
 
 Prvo delo, ki je bilo na
-pragmatičnem področju nekakšen kažipot, je bila pogosto navajana **Weydtova disertacija (1969)**.
+pragmatičnem področju nekakšen kažipot, je bila pogosto navajana **Weydtova disertacija** [@weydt1969abtonungspartikel].
 Izraz te
 raziskovalne paradigme je npr.
 tudi to, da so naklonske členke označevali kot
@@ -408,7 +408,7 @@ Ausdrücke').
 
 
 1.
- Weydt (1969:68) vidi pomen oz.
+ [@weydt1969abtonungspartikel: 68] vidi pomen oz.
 funkcijo naklonskih
 členkov v tem, da izražajo **naravnanost
 ali odnos govorca do izrečenega** ('die Stellung des Sprechers zum
@@ -421,7 +421,7 @@ strinjajo s tem, da naklonski členki ničesar ne prispevajo k vsebini propozici
 temveč da so povezani z naravnanostjo govorca.
 Sodijo torej predvsem na
 intencijsko ravnino ali ravnino odnosov ('Intentionsebene') in ne na opisno
-ravnino ('Darstellungsebene'), če se izrazimo z Weydtom (1969:61).
+ravnino ('Darstellungsebene'), če se izrazimo z Weydtom [@weydt1969abtonungspartikel: 61].
 V tem smislu
 je Dohertyjeva (1985) nekatere naklonske členke razumela kot slovarska izrazna
 sredstva za različne načine naravnanosti in jih je zato imenovala kar **naravnanostni členki**

@@ -635,17 +635,17 @@ Slovenski ustrezniki nemških naklonskih členkov se večidel pojavljajo prav ta
 A: Ali ne boš šel na šolsko zabavo ?
 B: [Pač]{.underline}.
 
-(25) A: Ali se boš udeležil simpozija ? B: [Ja]{.underline}. / Da.
+(446) A: Ali se boš udeležil simpozija ? B: [Ja]{.underline}. / Da.
 
 A: Nimmst du am Symposion teil ?
 B: [Ja]{.underline}.
 
-(26) A: Ali ti je bila igra všeč ? B: [Kar]{.underline}. / Še kar.
+(447) A: Ali ti je bila igra všeč ? B: [Kar]{.underline}. / Še kar.
 
 A: Hat dir das Theaterstück gefallen ?
 B: [So ziemlich]{.underline}.
 
-(27) A: Ne bi ga smeli pustiti.
+(448) A: Ne bi ga smeli pustiti.
 
 B: [Saj]{.underline}, a takrat se nam je mudilo.
 
@@ -653,7 +653,7 @@ A: Ihr hättet ihn nicht dort lassen dürfen.
 
 B: [Schon]{.underline}/[Eben]{.underline}, aber zu der Zeit hatten wir es eilig.
 
-(28) A: Ali imaš potrdilo ? B: Da. A: In osebno ? B: [Tudi]{.underline}.
+(449) A: Ali imaš potrdilo ? B: Da. A: In osebno ? B: [Tudi]{.underline}.
 
 A: Hast du die Bescheinigung ?
 B: Ja.
@@ -661,7 +661,7 @@ B: Ja.
 A: Und den Personalausweis ?
 B: [Auch]{.underline}.
 
-(29) [No]{.underline}, sedaj smo pa mi na vrsti.
+(450) [No]{.underline}, sedaj smo pa mi na vrsti.
 
 [Nun]{.underline}, jetzt sind wir aber an der Reihe.
 
@@ -676,7 +676,7 @@ Precej več je pomenskih sorodnosti med tipično naklonskimi različicami členk
 
 Zato bi bilo primernejše, če bi nevgrajeno rabo členka uvrstili v zunanji krog naklonskih členkov.
 
-(30) A: Šel bom sam domov. B: Kar pojdi !
+(451) A: Šel bom sam domov. B: Kar pojdi !
 
 A: Res bom šel sam domov.
 B: [Le]{.underline}, [le]{.underline} !
@@ -688,7 +688,7 @@ A: Ich gehe wirklich allein nach Haus.
 
 B: Mach das [doch]{.underline} / [nur]{.underline} / [ruhig]{.underline} !
 
-(31) A: Soll ich dir mal meine Urlaubsbilder zeigen ?
+(452) A: Soll ich dir mal meine Urlaubsbilder zeigen ?
 
 B: [JA]{.underline} nicht / [BLOSS]{.underline} nicht !
 
@@ -697,7 +697,7 @@ A: Ali naj ti malo pokažem slike z dopusta ?
 B: [NIKAR]{.underline} !
 / [Samo]{.underline} TO ne !
 
-(32) A: Organizirali bodo svetovno prvenstvo.
+(453) A: Organizirali bodo svetovno prvenstvo.
 
 B: [Že že]{.underline}, toda kdo bo vse plačal ?
 
@@ -705,17 +705,17 @@ A: Sie werden die Weltmeisterschaft organisieren.
 
 B: [Schon]{.underline}, aber wer zahlt das alles ?
 
-(33) Wieviel [denn]{.underline} ?
+(454) Wieviel [denn]{.underline} ?
      Koliko [PA]{.underline} ?
 
-(34) Warum [bloß]{.underline} ?
+(455) Warum [bloß]{.underline} ?
      [Le]{.underline} zakaj ?
      / Zakaj [le]{.underline} ?
 
-(35) Na, wer [wohl]{.underline} ?
+(456) Na, wer [wohl]{.underline} ?
      No, kdo [le]{.underline} / [neki]{.underline} / [najbrž]{.underline} ?
 
-(36) Ne bom plačal, le zakaj [neki]{.underline} ?
+(457) Ne bom plačal, le zakaj [neki]{.underline} ?
 
 Ich werde nicht zahlen.
 Warum sollte ich ?
@@ -723,7 +723,7 @@ Warum sollte ich ?
 Ti zgledi nam tudi kažejo, da se kontrastno poudarjeni nemški naklonski členki [ja]{.underline} in [bloß]{.underline} skupaj z nikalnico vsekakor lahko pojavljajo v zgradbah brez glagola.
 Zgradbe imajo značaj poziva.
 V pogovorih nastopajo prototipični nemški naklonski členki kot [denn]{.underline}, [bloß]{.underline}, [eigentlich]{.underline} ali periferni naklonski členek [wohl]{.underline} tudi v dopolnjevalnih vprašanjih, ki jim manjka glagolska oblika (prim. Thurmairjevo 1989:35-36).
-Položaj nemškega naklonskega členka za vprašalnim zaimkom (prim. (33)-(35)) je - z različno sprejemljivostjo glede na posamezni členek - možen tudi v dopolnjevalnih vprašanjih, ki vsebujejo glagolsko obliko (Thurmair 1989:26,36).
+Položaj nemškega naklonskega členka za vprašalnim zaimkom (prim. (454)-(456)) je - z različno sprejemljivostjo glede na posamezni členek - možen tudi v dopolnjevalnih vprašanjih, ki vsebujejo glagolsko obliko (Thurmair 1989:26,36).
 
 Redkeje najdemo zglede z nevgrajenim naklonsko rabljenim slovenskim členkom [pač]{.underline}, saj je zanj značilnejše, da se pojavlja v sredini stavka.
 Osamela raba je v pisni obliki razpoznavna iz stave vejic.
@@ -731,11 +731,11 @@ V govoru se pojavlja izoliran členek [pač]{.underline} med dvema kratkima prem
 
 Členek v takih primerih ima kontrastni poudarek (o izolirani rabi nemškega naklonskega členka [halt]{.underline} prim. Thurmairjevo 1989:35-36).
 
-(37) To pomeni: domneval sem, [pač]{.underline}, da obstaja mehanizem, da so te stvari urejene, ... (Delo, Vikend magazin, 6.11.1992)
+(458) To pomeni: domneval sem, [pač]{.underline}, da obstaja mehanizem, da so te stvari urejene, ... (Delo, Vikend magazin, 6.11.1992)
 
 Das bedeutet: ich habe angenommen, [doch/wohl/halt]{.underline}, daß ein Mechanismus existiert, daß diese Dinge in Ordnung gebracht worden sind, ...
 
-(38) Aktivnost sto mili Curijev pa naj bi bila tista, ki naj bi bila skrajna meja, še dopustna, da, [pač]{.underline}, lahko nekdo to pravzaprav tudi vsadi oziroma dela s temi viri sevanja. (TV Slovenija, 5.10.1993)
+(459) Aktivnost sto mili Curijev pa naj bi bila tista, ki naj bi bila skrajna meja, še dopustna, da, [pač]{.underline}, lahko nekdo to pravzaprav tudi vsadi oziroma dela s temi viri sevanja. (TV Slovenija, 5.10.1993)
 
 Eine Aktivität von 100 mC hingegen wird als jene angesehen, die die äußerste Grenze sein soll, noch zulässiger Grenzwert, daß [halt]{.underline} jemand dies eigentlich auch einsetzen bzw.
 mit diesen Strahlungsquellen arbeiten kann.
@@ -750,7 +750,7 @@ Naklonsko rabljeni členek [pač]{.underline} se pojavlja v stavčni sredini, mo
 
 \
 
-(40) Položaj slovenskega naklonsko rabljenega členka [pač]{.underline} v pripovednih in odvisnih stavkih
+(460) Položaj slovenskega naklonsko rabljenega členka [pač]{.underline} v pripovednih in odvisnih stavkih
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -849,31 +849,31 @@ Naklonsko rabljena členka [neki]{.underline} in [pravzaprav]{.underline} sledit
 Nekateri členke tretje skupine lahko nastopajo tudi stavčni sredini.
 To so členki [mar]{.underline} in [pravzaprav]{.underline}, redkeje tudi [kaj]{.underline} in [pa]{.underline}.
 
-(41) [Le]{.underline} zakaj nas ni poslušal ?
+(461) [Le]{.underline} zakaj nas ni poslušal ?
 
 Warum hat er [bloß]{.underline} nicht auf uns gehört ?
 
-(42) Kako sem [le]{.underline} lahko pomislil na kaj takega ?
+(462) Kako sem [le]{.underline} lahko pomislil na kaj takega ?
 
 (Moj Mikro, September 1993)
 
 Wie konnte ich [nur]{.underline} auf diesen Gedanken kommen ?
 
-(43) Warum [bloß]{.underline} liebt sie diesen Schwachkopf ?
+(463) Warum [bloß]{.underline} liebt sie diesen Schwachkopf ?
 
 [Le]{.underline} zakaj ljubi tega bedaka ?
 
-(44) Kaj [pa]{.underline} delaš ?
+(464) Kaj [pa]{.underline} delaš ?
 
 Was machst du [denn]{.underline} ?
 
-(44) A: Janez je včeraj odpotoval. B: [Pa]{.underline} si vedel za to ?
+(465) A: Janez je včeraj odpotoval. B: [Pa]{.underline} si vedel za to ?
 
 A: Janez ist gestern verreist.
 B: Aber bist-du gewußt für dieses ?
 B': Hast du [denn]{.underline} davon gewußt ?
 
-(45) A: Prt si popacal. B: [Pa]{.underline} kaj ! V pralni stroj ga daj !
+(466) A: Prt si popacal. B: [Pa]{.underline} kaj ! V pralni stroj ga daj !
 
 A: Du hast das Tischtuch bekleckert.
 
@@ -881,7 +881,7 @@ B: Na und wenn [schon]{.underline} !
 
 Wirf es doch in die Waschmaschine !
 
-(46) Zwei Bekannte treffen sich nach längerer unerwartet auf dem Bahnhof in Hannover.
+(467) Zwei Bekannte treffen sich nach längerer unerwartet auf dem Bahnhof in Hannover.
 
 A: Das gibt's [doch]{.underline} gar nicht !
 
@@ -906,7 +906,7 @@ Stavek z veznikom *saj* se lahko pojavlja samostojno.
 To bi bil argument za to, da je *saj* priredni veznik.
 Toda potemtakem bi lahko tudi trdili, da je veznik *da* priredni veznik, saj obstajajo samostojni stavki z veznikom *da*:
 
-() Da mi takoj zgineš !
+(468) Da mi takoj zgineš !
 
 So pa samostojni stavki z veznikom *saj* pogostejši.
 (Sicer pa so glavni stavki kot npr. *Obljubil je* tudi le v določenem sobesedilu samostojne povedi.)
@@ -926,23 +926,23 @@ Podrednemu vezniku najprej sledi naslonski niz, šele nato kak tematični stavč
 V članku trdim, da to velja tudi za *saj* (in *vendar*).
 Menil sem namreč, da moramo stavke kot npr.
 
-() To ni res, saj ljudje so ga spoštovali
+(469) To ni res, saj ljudje so ga spoštovali
 
 razumeti kot
 
-() To ni res, saj: ljudje so ga spoštovali.
+(470) To ni res, saj: ljudje so ga spoštovali.
 
 Podoben primer najdemo tudi v nemščini.
 To so stavki z veznikom *weil*:
 
-() Das stimmt nicht, weil: die Leute haben ihn respektiert.
+(471) Das stimmt nicht, weil: die Leute haben ihn respektiert.
 
 Gre za odvisnik, ki je blizu priredju.
 Odvisnik z veznikom *weil* in osebno glagolsko obliko na koncu pa je primer za drugačno vrsto vzročnosti !
 - Ali se tudi v slovenščini razlikuje besedni vrstni red v stavkih z veznikom *saj* ali *ker* glede na vrsto vzročnosti ?
 - Poglejmo še zgleda z veznikom *ker*:
 
-() A: Miha je imel zelo uspešen govor.
+(472) A: Miha je imel zelo uspešen govor.
 
 B: To ni res, ker: ljudje so se mu smejali.
 
@@ -955,7 +955,7 @@ Tako stavki z veznikom *saj* kot stavki z veznikom *ker* imata samostojno ilukot
 *pač*.
 Vezniku *da* ne more slediti topikaliziran stavčni člen:
 
-() To je res, ^\*^da ljudje so se mu smejali.
+(473) To je res, ^\*^da ljudje so se mu smejali.
 
 Odvisnik na *da* običajno ni poseben intonacijski segment.
 Stavek z veznikom *da* se redkeje pojavlja kot samostojna poved.
@@ -982,20 +982,20 @@ To je bil zame glavni argument, da sem veznik *vendar* izenačil z drugimi podre
 Toda gornja trditev ne drži.
 Primerjajte:
 
-() Vendar se v tej pesmi kažejo pri ženici nemške interference.
+(474) Vendar se v tej pesmi kažejo pri ženici nemške interference.
 
-() Vendar v tej pesmi se kažejo pri ženici nemške interference.
+(475) Vendar v tej pesmi se kažejo pri ženici nemške interference.
 
 Vezniku *vendar* lahko sledi topikaliziran stavčni člen (*v tej pesmi*).
 Če pa je stavčni člen obsežnejši, ga najbrž teže topikaliziramo:
 
-() ^?^Vendar v tej pesmi, ob izgovorjavi ozkih samoglasnikov, se kažejo pri ženici nemške interference.
+(476) ^?^Vendar v tej pesmi, ob izgovorjavi ozkih samoglasnikov, se kažejo pri ženici nemške interference.
 
 Še primerjava z veznikom *toda*:
 
-() Toda v tej pesmi se kažejo pri ženici nemške interference.
+(477) Toda v tej pesmi se kažejo pri ženici nemške interference.
 
-() ^\*^Toda se v tej pesmi kažejo pri ženici nemške interference.
+(478) ^\*^Toda se v tej pesmi kažejo pri ženici nemške interference.
 
 Ko zdaj te argumente zopet tehtam, se mi zdi bolj upravičeno trditi, da je *vendar* priredni veznik (kljub četrtemu kriteriju).
 In vendar se razlikuje veznik *vendar* od istovrstnega (protivnega) veznika *toda* (gl. četrto točko).
@@ -1003,13 +1003,13 @@ Nemara ne bi bilo narobe razlikovati "prave" priredne veznike (*toda*) od "nepra
 
 "Pravi" vezniki naj bi imeli skladenjski položaj pred topikaliziranim stavčnim členom:
 
-() Vendar v tej pesmi se kažejo pri ženici nemške interference.
+(479) Vendar v tej pesmi se kažejo pri ženici nemške interference.
 
-() Toda v tej pesmi se kažejo pri ženici nemške interference.
+(480) Toda v tej pesmi se kažejo pri ženici nemške interference.
 
 "Nepravi" vezniki pa bi lahko bili sami na mestu topika (pred COMP in naslonskim nizom):
 
-() Vendar se v tej pesmi kažejo pri ženici nemške interference.
+(481) Vendar se v tej pesmi kažejo pri ženici nemške interference.
 
 Vezniška beseda *vendar* bi potemtakem imela dvojno vlogo: enkrat bi nastopala kot "pravi" priredni veznik, drugič pa kot "nepravi" priredni veznik.
 Če drži, da lahko *vendar* kot vezniška beseda samostojno nastopa na mestu topika, potem se v tej rabi približuje prislovu *vendar*, ki ga lahko prav tako topikaliziramo (gl. gornji stavek: *In VENDAR se razlikuje veznik ...*).
@@ -1034,7 +1034,7 @@ utemeljitev nečesa.
 Zato povedi z naklonskim členkom [einfach]{.underline} pogosto sledijo kot odziv na vprašanja po vzroku.
 Pravkar navedeni opis (Thurmair 1989:129) velja tudi za slovenski naklonsko rabljeni členek [kar]{.underline}.
 
-(47) A: Zakaj si pa tako slabe volje ?
+(482) A: Zakaj si pa tako slabe volje ?
 
 B: Ah, denarnico sem izgubil.
 
@@ -1053,7 +1053,7 @@ A: War denn viel Geld darin ?
 B: Eigentlich nicht, aber trotzdem.
 Ich kann das [einfach]{.underline} nicht vergessen.
 
-(48) A: Zakaj se pa ves dan tako držiš ? Saj nisem tako mislil.
+(483) A: Zakaj se pa ves dan tako držiš ? Saj nisem tako mislil.
 
 B: Tega ne morem [kar]{.underline} (tako) pozabiti.
 
@@ -1062,14 +1062,14 @@ Ich hab das doch nicht so gemeint.
 
 B: Ich kann das nicht [einfach]{.underline} (so) vergessen.
 
-V zgledu (48) lahko členka [kar]{.underline} oz.
+V zgledu (483) lahko členka [kar]{.underline} oz.
 [einfach]{.underline} nadomestimo s soznačnimi izrazi kot npr.
 slov.
 [na enostaven način]{.underline} in [na hitro]{.underline} oz.
 nem.
 [kurzerhand]{.underline}.
 
-V zgledu (47) takšne zamenjave s soznačnimi izrazi niso sprejemljive.
+V zgledu (482) takšne zamenjave s soznačnimi izrazi niso sprejemljive.
 
 Nekateri slovenski naklonsko rabljeni členki, ki so značilni v dopolnjevalnih vprašalnih stavkih, nastopajo v vozlu CP (SpecCP, COMP, naslonski niz) in zato prav tako pred stavčno nikalnico.
 Toda ti členki se ne premikajo s stavčno nikalnico vred, so torej neobčutljivi na stavčno nikalnico.
@@ -1129,7 +1129,7 @@ V govornih dejanjih, v katerih govorec izraža domnevo, lahko pomen členka [pa�
 V govornih dejanjih, v katerih govorec naslovniku nekaj očita, se pomen členka [vendar]{.underline} lahko s pomočjo implikatur približuje pomenu členka [le]{.underline} (nem. [nur]{.underline}, [bloß]{.underline}, [doch]{.underline}).
 Členek [kar]{.underline}, ki se lahko pojavlja v odločevalnih in dopolnjevalnih vprašalnih stavkih, pa ne uvrščamo med ustreznike nemških naklonskih členkov temveč ga imamo za naklonski prislov (gl. zgoraj).
 
-(49) What on earth ist the matter, Teddy ?
+(484) What on earth ist the matter, Teddy ?
 
 (Britanska razvedrilna oddaja 'You rang, Mylord ?')
 
@@ -1164,17 +1164,17 @@ Glede večine povedi so bila mnenja o njihovi jezikovni sprejemljivosti deljena.
 Samo v treh primerih so vprašanci sodili enako: V osebkovem, časovnem in krajevnem odvisniku je členek [pač]{.underline} neobičajen, čuden, nesprejemljiv.
 Če je členek [pač]{.underline} v teh povedih nastopal v glavnem stavku, so se preskusnim osebam zdele povedi sprejemljive.
 
-(50) Daß er ^\*^[ja]{.underline}/^\*^[doch]{.underline} solche üblen Geschichten über mich erzählt, ärgert mich. (Subjektsatz)
+(485) Daß er ^\*^[ja]{.underline}/^\*^[doch]{.underline} solche üblen Geschichten über mich erzählt, ärgert mich. (Subjektsatz)
 
 Da ^\*^[pač]{.underline}/^\*^[vendar]{.underline} tako grdo opravlja, me jezi.
 (osebkov odvisnik)
 
-(51) Während ich ^\*^[eben]{.underline} in Berlin studierte, verging die Zeit sehr schnell. (Temporalsatz)
+(486) Während ich ^\*^[eben]{.underline} in Berlin studierte, verging die Zeit sehr schnell. (Temporalsatz)
 
 Medtem ko sem ^\*^[pač]{.underline} študiral v Berlinu, je čas zelo hitro mineval.
 (časovni odvisnik)
 
-(52) Wo ich ^\*^[eben]{.underline}/^\*^[doch]{.underline}/^\*^[ja]{.underline} aufgewachsen bin, gibt es solche Bräuche nicht. (Lokalsatz)
+(487) Wo ich ^\*^[eben]{.underline}/^\*^[doch]{.underline}/^\*^[ja]{.underline} aufgewachsen bin, gibt es solche Bräuche nicht. (Lokalsatz)
 
 Kjer sem jaz ^\*^[pač]{.underline}/^\*^[vendar]{.underline} odrastel, takih običajev ni.
 (krajevni odvisnik)
@@ -1194,7 +1194,7 @@ Pri razlikovanju pomaga stavčna intonacija.
 
 Ustrezne dvoumne zglede najdemo tudi pri Thurmairjevi 1989:80 (gl. tudi opombo pod črto 104).
 
-(53) Prav gotovo se namreč že tudi belgijskim carinikom zdi ignorantsko z naše strani, če morajo tako "zapirati" ljudi, ker pomanjkljivo opremljeni prihajajo v državo, ki na našo smolo [pač]{.underline} priznava klasični rdeči jugoslovanski potni list.
+(488) Prav gotovo se namreč že tudi belgijskim carinikom zdi ignorantsko z naše strani, če morajo tako "zapirati" ljudi, ker pomanjkljivo opremljeni prihajajo v državo, ki na našo smolo [pač]{.underline} priznava klasični rdeči jugoslovanski potni list.
 
 (Delo, 15.6.1992)
 
@@ -1203,7 +1203,7 @@ Sicher empfinden auch die belgischen Zollbeamten dies als Ignoranz von unserer S
 Medtem ko Thurmairjeva 1989 očitno ni našla zgleda z nemškim naklonskim členkom v časovnem odvisniku, smo našli slovenski časovni odvisnik z naklonsko rabljenim členkom [pač]{.underline}, kar izid zgoraj naveden ankete seveda relativira.
 Zgled je zopet iz časopisnega komentarja.
 
-(54) Zgodovina se je odpeljala naprej - mimo Nostradamusa v leto 1992, ko je Srbe obiskal njihov kralj, ko sredi Beograda nekateri na vidovdanski način [pač]{.underline} do zariplosti vztrajajo pri zahtevi, da se umakne Mefisto v Miloševićevi podobi. (Delo 29.6.1992)
+(489) Zgodovina se je odpeljala naprej - mimo Nostradamusa v leto 1992, ko je Srbe obiskal njihov kralj, ko sredi Beograda nekateri na vidovdanski način [pač]{.underline} do zariplosti vztrajajo pri zahtevi, da se umakne Mefisto v Miloševićevi podobi. (Delo 29.6.1992)
 
 Die Geschichte ist weitergezogen - vorbei an Nostradamus in das Jahr 1992, als die Serben von ihrem König besucht wurden, als einige nationalistisch überdreht inmitten von Belgrad [halt]{.underline} bis zur Erschöpfung auf der Forderung beharren, daß sich Mephisto, in der Gestalt von Milošević, zurückziehen solle.
 
@@ -1227,7 +1227,7 @@ V sledečem seznamu so te različne vloge nakazane z izrazi, ki sicer v slovensk
 Izkazati se še mora, ali so taka imena za funkcijske skupine slovenskih členkov sploh upravičena.
 Okrajšava NRČ pomeni 'naklonsko rabljen členek'.
 
-(55) [enostavno]{.underline} - pridevnik, naklonski prislov, NRČ
+(490) [enostavno]{.underline} - pridevnik, naklonski prislov, NRČ
 
 [itak]{.underline} - veznik (zastarel), NRČ
 
@@ -1390,20 +1390,20 @@ Izpeljane pomenske različice smo razdelili na pet skupin:
 
 1.  **Krajevna pomenska različica** členka [kar]{.underline} lahko nastane, ko je prislovno določilo kraja v (pomenskem) vplivnem območju členka. Vsi stavčni členi, ki členku sledijo, so v njegovem vplivnem območju. Prislovno določilo je odnosnica členka (njegov atraktor). V slovenščini odnosnica poudarnemu členku (fokusnemu členku) ponavadi sledi. Stavek s členkom [kar]{.underline} mora poleg prislovnega določila kraja vsebovati še glagol premikanja. Slovenske soznačnice členka [kar]{.underline} v tej rabi so lahko: npr. [naravnost]{.underline}, [brez ovinkov]{.underline}, [le malo oddaljen]{.underline}. Nemški ustrezniki izpeljane pomenske različice so lahko: [geradewegs]{.underline}, [schnurstracks]{.underline}, [ohne Umwege]{.underline} ipd.
 
-() Ponavadi je šel [kar]{.underline} *domov*.
+(491) Ponavadi je šel [kar]{.underline} *domov*.
 
 Gewöhnlich ging er geradewegs nach Hause.
 
 Krajevno konotacijo lahko ima členek [kar]{.underline} tudi v nekaterih drugih zvezah, npr.
 z glagolom [stati]{.underline} in prislovnim določilom kraja:
 
-() Stal je [kar]{.underline} pred menoj.
+(492) Stal je [kar]{.underline} pred menoj.
 
 Er stand gleich vor mir.
 
 2.  **Časovna pomenska različica** členka [kar]{.underline} lahko nastane, ko je prislovno določilo kraja v vplivnem območju členka. Časovni pomen je izpeljan iz krajevnega. Odnosnica ponavadi sledi členku. Stavek s členkom [kar]{.underline} mora poleg prislovnega določila kraja vsebovati še glagol premikanja. Slovenske soznačnice členka [kar]{.underline} v tej rabi so lahko: npr. [takoj]{.underline}, [brez odlašanja]{.underline} ipd. Nemški ustrezniki izpeljane pomenske različice so lahko: [sofort]{.underline}, [gleich]{.underline}, [in kürzester Zeit]{.underline}, [ohne Zeitverlust]{.underline}, [auf der Stelle]{.underline} ipd.
 
-() Da boš potem šla [kar]{.underline} *domov* !
+(493) Da boš potem šla [kar]{.underline} *domov* !
 Slišiš ?
 
 Daß du mir später sofort nach Hause gehst !
@@ -1413,7 +1413,7 @@ Hörst du ?
 z glagolom [pozabiti]{.underline}.
 Najbrž bi se izplačalo raziskovati vlogo glagolskega vida pri nastajanju časovnih pomenskih različic.
 
-() To lahko [kar]{.underline} pozabiš.
+(494) To lahko [kar]{.underline} pozabiš.
 
 Das kannst du gleich vergessen.
 
@@ -1422,9 +1422,9 @@ izpust ustreznih krajevnih oz.
 časovnih odnosnic.
 Primerjaj:
 
-() Stal je kar tik pred menoj.
+(495) Stal je kar tik pred menoj.
 
-() To lahko kar takoj pozabiš.
+(496) To lahko kar takoj pozabiš.
 
 3.  **Besedilno kazalna pomenska različica** členka [kar]{.underline} lahko nastane v zelo različnih sobesedilih, npr. ko je osebek, povedkovo določilo, tožilniški predmet ali kak drug predmet v vplivnem območju členka. Odnosnica členku ponavadi sledi.
 
@@ -1432,63 +1432,63 @@ Slovenske soznačnice ali slovenski izrazi, ki bolj ali manj ustrezajo členku [
 [celo]{.underline}, [dokaj]{.underline}, [resnično]{.underline}, [le]{.underline}, ([nenadoma]{.underline}) ipd.
 Nemški ustrezniki izpeljane pomenske različice so lahko: [gleich]{.underline}, [gar]{.underline}, [möglichst]{.underline}, [recht]{.underline}, [ziemlich]{.underline}, [wirklich]{.underline}, [echt]{.underline}, [ganz(e)]{.underline}, [nur]{.underline}, [bloß]{.underline}.
 
-() Pojedel je [kar]{.underline} deset kuhanih jajc naenkrat.
+(497) Pojedel je [kar]{.underline} deset kuhanih jajc naenkrat.
 
 Er hat gleich zehn gekochte Eier auf einmal gegessen.
 
-() Zakaj si [kar]{.underline} (naenkrat) obmolknil ?
+(498) Zakaj si [kar]{.underline} (naenkrat) obmolknil ?
 
 Warum bist du gar so still geworden ?
 
-() V rokopisu naj bo [kar]{.underline} najmanj napak.
+(499) V rokopisu naj bo [kar]{.underline} najmanj napak.
 
 Im Manuskript sollen möglichst wenige Fehler vorhanden sein.
 
-() Dekle je [kar]{.underline} prikupno.
+(500) Dekle je [kar]{.underline} prikupno.
 
 Das Mädchen ist recht attraktiv.
 
-() [Kar]{.underline} pogosto sem moral v najhujšem mrazu čakati na šolski avtobus.
+(501) [Kar]{.underline} pogosto sem moral v najhujšem mrazu čakati na šolski avtobus.
 
 Ziemlich oft mußte ich in der ärgsten Kälte auf den Schulbus warten.
 
-() [Kar]{.underline} vsega mu pa tudi ne smeš verjeti.
+(502) [Kar]{.underline} vsega mu pa tudi ne smeš verjeti.
 
 Wirklich alles darfst du ihm aber auch nicht glauben.
 
-() To je [kar]{.underline} problem.
+(503) To je [kar]{.underline} problem.
 
 Das ist echt ein Problem.
 
-() Čakati je moral [kar]{.underline} pet ur.
+(504) Čakati je moral [kar]{.underline} pet ur.
 
 Er mußte gleich/ganze fünf Stunden warten.
 
-() [Kar]{.underline} naenkrat je stal pred menoj.
+(505) [Kar]{.underline} naenkrat je stal pred menoj.
 
 Ganz auf einmal stand er vor mir.
 
-() Kako pa kaj oče ?
+(506) Kako pa kaj oče ?
 - [Kar]{.underline} (dobro).
 
 Wie geht's denn deinem Vater (so) ?
 - So einigermaßen.
 
-() Najraje je bila [kar]{.underline} doma.
+(507) Najraje je bila [kar]{.underline} doma.
 
 Am liebsten war sie (nur) zu Hause.
 
-() [Kar]{.underline} čakajo, da planejo nanj.
+(508) [Kar]{.underline} čakajo, da planejo nanj.
 
 Sie warten nur darauf, sich auf ihn zu stürzen.
 
 4.  **Naklonska pomenska različica** členka [kar]{.underline} lahko nastane, ko je glagol in-ali prislovno določilo načina v vplivnem območju členka. Odnosnica členku ponavadi sledi. Slovenski izrazi, ki so bolj ali manj soznačni s pomenom členka [kar]{.underline} v tej rabi, so lahko: npr. [enostavno]{.underline}, [preprosto]{.underline}, [po kratkem postopku]{.underline}, [na enostaven način]{.underline} ipd. Nemški ustrezniki te pomenske različicie so lahko: [kurzerhand]{.underline}, [schlichtweg]{.underline}, [einfach (so)]{.underline}, [auf einfache Weise]{.underline} ipd.
 
-() [Kar]{.underline} tako so ga vrgli iz službe.
+(509) [Kar]{.underline} tako so ga vrgli iz službe.
 
 Seine Arbeitsgeber haben ihm einfach so den Laufpaß gegeben.
 
-() Rekel si, da sem lažnivec.
+(510) Rekel si, da sem lažnivec.
 Tega ne morem [kar]{.underline} tako pozabiti.
 
 Du hast mich einen Lügner genannt.
@@ -1496,36 +1496,36 @@ Das kann ich nicht einfach so vergessen.
 
 5.  **Naklonska (ilokutivna) pomenska različica** členka [kar]{.underline} lahko nastane, ko je glagol in-ali prislovno določilo načina v vplivnem območju členka. Odnosnica členku ponavadi sledi. V velelnih stavkih ima naklonsko rabljen členek [le]{.underline} (ali [enostavno]{.underline} in [preprosto]{.underline}) podoben pomen kot naklonsko rabljen členek [kar]{.underline}. V pripovednih stavkih njegovemu pomenu bolj ustreza [enostavno]{.underline} in [preprosto]{.underline} ali celo [že]{.underline}. Nemški ustrezniki te pomenske različice so lahko: [nur]{.underline}, [bloß]{.underline}, [einfach]{.underline}, [schon]{.underline}.
 
-() [Kar]{.underline} vstopite !
+(511) [Kar]{.underline} vstopite !
 
 Treten Sie nur ein !
 
-() [Kar]{.underline} domov pojdi !
+(512) [Kar]{.underline} domov pojdi !
 (glagol + prislovno določilo v vplivnem območju členka)
 
 Geh nur nach Hause !
 
-() [Kar]{.underline} na dan z besedo !
+(513) [Kar]{.underline} na dan z besedo !
 (= Kar povej !)
 
 Nur heraus mit der Sprache !
 
-() [Kar]{.underline} po njem !
+(514) [Kar]{.underline} po njem !
 (= Kar naredi z njim, kar si nameraval !)
 
 Nur zu !
 
-() Pravi, da bo tožil.
+(515) Pravi, da bo tožil.
 - [Kar]{.underline} (naj) !
 
 Er sagt, er wird vor Gericht klagen.
 - (Das) soll er [nur]{.underline} machen.
 
-() [Kar]{.underline} misli si, da tem bom zastonj redil !
+(516) [Kar]{.underline} misli si, da tem bom zastonj redil !
 
 Denk [bloß]{.underline} nicht, daß ich dich umsonst füttere !
 
-() Novinar: Ste strog oče ?
+(517) Novinar: Ste strog oče ?
 
 Spielberg: [Kar]{.underline} ne morem se zvečer ločiti od otrok.
 Žena Kate si jih prizadeva spraviti v posteljo, ker morajo zjutraj v šolo.
@@ -1541,38 +1541,38 @@ Meine Frau Kate versucht sie ins Bett zu bringen, weil sie am Morgen in die Schu
 Mein ältester Sohn und ich toben herum, daß es nur so eine Freude ist.
 Ich weiß: Kinder brauchen Disziplin, und wenn es dir gelingt, daß sie auf dich hören, dann lieben sie dich noch mehr.
 
-() [Kar]{.underline} pozabi, da sem to rekel !
+(518) [Kar]{.underline} pozabi, da sem to rekel !
 
 Vergiß einfach, daß ich das gesagt habe !
 
-() To bo [kar]{.underline} držalo.
+(519) To bo [kar]{.underline} držalo.
 
 Das wird schon stimmen.
 
 Členku [kar]{.underline} lahko v opisanih rabah pripisujemo različne vloge.
 V gornjih zgledih sicer lahko ima podoben pomen kot krajevni ali časovni prislov, vendar v razliko s prislovi ne more nastopati brez odnosnice na stavčnem čelu.
 
-() [Takoj]{.underline} je šel ponavadi domov.
+(520) [Takoj]{.underline} je šel ponavadi domov.
 
-() ^\*^[Kar]{.underline} je šel ponavadi domov.
+(521) ^\*^[Kar]{.underline} je šel ponavadi domov.
 
-() [Kar]{.underline} domov je šel ponavadi.
+(522) [Kar]{.underline} domov je šel ponavadi.
 
 S prislovom, kot je npr.
 [takoj]{.underline}, lahko odgovorimo na dopolnjevalno vprašanje, ne pa na odločevalno vprašanje.
 Na odločevalno vprašanje lahko odgovorimo s prislovom, če ga spremlja znamenje pritrjevanja (npr. členek [da]{.underline} ali prikimavanje).
 Členek [kar]{.underline} se v tem oziru vede kot prislov.
 
-() Kdaj si šel domov ?
+(523) Kdaj si šel domov ?
 - [Takoj]{.underline}.
 
-() Ali si šel domov ?
+(524) Ali si šel domov ?
 - ^\*^[Takoj]{.underline}.
 
-() Kdaj si šel domov ?
+(525) Kdaj si šel domov ?
 - [Kar]{.underline}.
 
-() Ali si šel domov ?
+(526) Ali si šel domov ?
 - ^\*^[Kar]{.underline}.
 
 Prislov kot npr.
@@ -1580,17 +1580,17 @@ Prislov kot npr.
 Poleg tega da ga lahko topikaliziramo, ga lahko postavimo tudi na stavčni rep kot jedro stavka.
 Členek [kar]{.underline} svoji odnosnici ponavadi ne more slediti in ne more biti sam jedro stavka.
 
-() Domov je šel ponavadi [takoj]{.underline}.
+(527) Domov je šel ponavadi [takoj]{.underline}.
 
-() Domov je šel ponavadi ^\*^[kar]{.underline}.
+(528) Domov je šel ponavadi ^\*^[kar]{.underline}.
 
 Prislov kot npr.
 [takoj]{.underline} lahko priredno združujemo z drugimi prislovi.
 S členkom [kar]{.underline} to ni mogoče.
 
-() Šel je [takoj]{.underline} in [tiho]{.underline} domov.
+(529) Šel je [takoj]{.underline} in [tiho]{.underline} domov.
 
-() ^\*^Šel je [kar]{.underline} in [tiho]{.underline} domov.
+(530) ^\*^Šel je [kar]{.underline} in [tiho]{.underline} domov.
 
 Glede na skladenjske lastnosti členka [kar]{.underline} potemtakem ne moremo prištevati k pravim prislovom.
 To nam pove tudi že osnovni pomen, ki smo ga izluščili iz različnih sobesedilnih rab tega členka.
@@ -1616,27 +1616,27 @@ Od stopnjevalnega členka [kar]{.underline} (v krajevni, časovni in besedilno k
 Stopnjevalni členek [kar]{.underline} se lahko pojavlja v vseh stavčnih naklonih, medtem ko je naklonsko rabljen členek [kar]{.underline} omejen na velelni stavek in na pripovedni stavek, možen pa je tudi v vprašalnih stavkih.
 V želelnih in vzkličnih stavkih na naklonsko rabljen členek [kar]{.underline} nismo naleteli.
 
-() [Kar]{.underline} vstopite !
+(531) [Kar]{.underline} vstopite !
 
 Treten Sie [nur]{.underline} herein !
 
-() Zakaj si [kar]{.underline} vstopil v sobo ?
+(532) Zakaj si [kar]{.underline} vstopil v sobo ?
 
 Warum bist du einfach (=ohne zu fragen) ins Zimmer getreten ?
 
-() Zakaj se zvečer [kar]{.underline} ne moreš ločiti od otrok ?
+(533) Zakaj se zvečer [kar]{.underline} ne moreš ločiti od otrok ?
 
 Warum kannst du dich abends einfach nicht von den Kindern trennen ?
 
-() Ali se zvečer [kar]{.underline} ne moreš ločiti od otrok ?
+(534) Ali se zvečer [kar]{.underline} ne moreš ločiti od otrok ?
 
 Kannst du dich abends einfach nicht von den Kindern trennen ?
 
-() Če bi [kar]{.underline} vedel, kaj me čaka, ... (stopnjevalni členek)
+(535) Če bi [kar]{.underline} vedel, kaj me čaka, ... (stopnjevalni členek)
 
 Wenn ich von vorneherein/gleich gewußt hätte, was mich erwartet, ...
 
-() O, čaj je pa res [kar]{.underline} vroč !
+(536) O, čaj je pa res [kar]{.underline} vroč !
 
 Oh, der Tee ist aber recht heiß !
 
@@ -1646,13 +1646,13 @@ Poreklo naklonsko rabljenega členka iz stopnjevalnega členka je še vidna v po
 Naklonsko rabljen členek [kar]{.underline} pa ne more biti odgovor na dopoljnevalno vprašanje.
 Členek [kar]{.underline} ima v takih odgovorih predvsem časovni pomen (gl. tudi zgoraj).
 
-() Ali naj začnemo z delom ?
+(537) Ali naj začnemo z delom ?
 - [Kar]{.underline}, [Kar]{.underline}, [Kar]{.underline} !
 
 Sollen wir mit der Arbeit beginnen ?
 - Nur zu !
 
-() Kdaj naj začnemo z delom ?
+(538) Kdaj naj začnemo z delom ?
 - [Kar]{.underline} !
 (Kar takoj !)
 
@@ -1663,11 +1663,11 @@ Stopnjevalni členek [kar]{.underline} lahko nastopa z odnosnico na stavčnem č
 Tudi naklonsko rabljen členek [kar]{.underline} še dopušča to možnost v velelnih stavkih, v pripovednih stavkih pa to ni tipično.
 Jasne razlike med stopnjevalnim in naklonsko rabljenim členkom najbrž ni.
 
-() [Kar]{.underline} pojdi se igrat !
+(539) [Kar]{.underline} pojdi se igrat !
 
-() To bo [kar]{.underline} držalo.
+(540) To bo [kar]{.underline} držalo.
 
-() [Kar]{.underline} ne morem se zvečer ločiti od otrok.
+(541) [Kar]{.underline} ne morem se zvečer ločiti od otrok.
 
 Členek [kar]{.underline} so potemtakem pojavlja v vlogah stopnjevalnega členka (s krajevno, časovno in besedilno kazalnostjo) in naklonsko rabljenega členka.
 Naklonska raba (ilokutivna raba) členka se od stopnjevalnega členka razlikuje zlasti po odvisnosti od stavčnega naklona in nezmožnosti, da bi bil odgovor na dopolnjevalno vprašanje.
@@ -1727,28 +1727,28 @@ V tem govornem dejanju sta pomenski sestavini osnovnega pomena izraziti.
 Nemški ustrezniki te pomenske različice so lahko členitveni členki (odzivni členki), pritrjevalni prislovi in drugi izrazi: npr.
 [DOCH]{.underline}, [WOHL]{.underline}, [SCHON]{.underline}, [HALT]{.underline}, [JA SICHER]{.underline} ipd.
 
-() Ni priden delavec.
+(542) Ni priden delavec.
 - [PAČ]{.underline}, priden je, samo neroden.
 
 Dieser Arbeiter ist nicht fleißig.
 
 -   DOCH, fleißig ist er schon, nur ist er ziemlich ungeschickt.
 
-() To bi bilo vse.
+(543) To bi bilo vse.
 [PAČ]{.underline}, še nekaj: Pridite jutri uro prej !
 
 Das wäre alles.
 HALT/STOP/DOCH, noch etwas: Kommen Sie morgen eine Stunde früher !
 
-() Nas nisi pričakoval, kajne ?
+(544) Nas nisi pričakoval, kajne ?
 - [PAČ]{.underline}, [PAČ]{.underline}, zato sem še pokonci.
 
 Du hast uns wohl nicht erwartet, was ?
 - DOCH, DOCH, darum bin ich ja noch auf.
 
-() Kaj pa on ? - [PAČ]{.underline}, njega ne smemo pozabiti. ## Und was ist mit ihm ? - NATÜRLICH/KLAR/STIMMT JA/JA SICHER, ihn dürfen wir nicht vergessen.
+(545) Kaj pa on ? - [PAČ]{.underline}, njega ne smemo pozabiti. ## Und was ist mit ihm ? - NATÜRLICH/KLAR/STIMMT JA/JA SICHER, ihn dürfen wir nicht vergessen.
 
-() Kar sem storil, ti ni bilo v škodo. Ali [PAČ]{.underline} ?
+(546) Kar sem storil, ti ni bilo v škodo. Ali [PAČ]{.underline} ?
 
 Was ich getan habe, hat dir nicht geschadet.
 Oder DOCH ?
@@ -1762,33 +1762,33 @@ Slovenske soznačnice členka [pač]{.underline} v navezavi s členkom [pa]{.und
 Nemški ustrezniki te pomenske različice so lahko vezniki in vezniški prislovi: npr.
 [doch]{.underline}, [aber]{.underline}, [jedoch]{.underline}, [sondern]{.underline} in zveza členkov [wohl aber]{.underline}.
 
-() Ni znanstvenik, [pač pa]{.underline} dober učitelj.
+(547) Ni znanstvenik, [pač pa]{.underline} dober učitelj.
 
 Er ist (zwar) kein Wissenschaftler, jedoch / wohl aber ein guter Lehrer.
 
-() Tega ne trdi naravnost, [pač pa]{.underline} po ovinkih.
+(548) Tega ne trdi naravnost, [pač pa]{.underline} po ovinkih.
 
 Das behauptet er nicht direkt, aber/sondern indirekt.
 
-() Dekle (sicer) ni bogato, [pač pa]{.underline} pridno.
+(549) Dekle (sicer) ni bogato, [pač pa]{.underline} pridno.
 
 Das Mädchen ist (zwar) nicht reich, aber/jedoch fleißig.
 
-() Podočniki so majhni, [pač pa]{.underline} so kočniki izdatno večji.
+(550) Podočniki so majhni, [pač pa]{.underline} so kočniki izdatno večji.
 
 Die Eckzähne sind klein, jedoch/aber die Backenzähne sind dafür viel größer.
 
 3.  Členek [pač]{.underline} se lahko pojavlja v govornem dejanju **dopuščanje** (priznavanje, delno pritrjevanje). Govorec v tem govornem dejanju dopušča veljavnost trditve in ji pripisuje veliko verjetnost, vendar pa v sledečem delu povedi izpostavlja trditev, ki je v nasprotju s prvo in ki prvi trditvi po prepričanju govorca zmanjša pomembnost. To govorno dejanje je torej podobno govornemu dejanju omejevanje. Razlika je v tem, da je členek [pač]{.underline} tokrat v prvem stavku in ne v drugem. Slovenske soznačniče členka [pač]{.underline} v tej rabi so lahko npr. [sicer]{.underline} in [že]{.underline}. Nemški ustrezniki členka [pač]{.underline} v tej rabi so lahko npr. [zwar]{.underline}, [schon]{.underline} ali [wohl]{.underline}.
 
-() Videl sem ga [pač]{.underline}, a ogovoril ga nisem.
+(551) Videl sem ga [pač]{.underline}, a ogovoril ga nisem.
 
 Gesehen habe ich ihn schon / wohl, aber angesprochen habe ich ihn nicht.
 
-() Rad ga srkne, to [pač]{.underline}, vendar ne čez mero.
+(552) Rad ga srkne, to [pač]{.underline}, vendar ne čez mero.
 
 Er trinkt gerne, das schon, aber in Maßen.
 
-() Vino bo [pač]{.underline} kislo, bo pa le.
+(553) Vino bo [pač]{.underline} kislo, bo pa le.
 
 Sauer wird der Wein zwar/schon/wohl werden, aber dennoch ...
 
@@ -1800,21 +1800,21 @@ Pogosta implikatura, povezana z rabo členka [pač]{.underline} v govornih dejan
 V tej rabi členek [pač]{.underline} nima ustreznih soznačnic.
 Nemški ustrezniki naklonsko rabljenega členka [pač]{.underline} so lahko naklonski členki [eben]{.underline}, [halt]{.underline} in [nun mal]{.underline}.
 
-() Dela, kakor je [pač]{.underline} vajen.
+(554) Dela, kakor je [pač]{.underline} vajen.
 
 Er arbeitet so, wie er es halt gewohnt ist.
 
-() Takšno je [pač]{.underline} življenje.
+(555) Takšno je [pač]{.underline} življenje.
 
 So ist nun mal das Leben.
 
-() Kaj se hoče, smo [pač]{.underline} reveži.
+(556) Kaj se hoče, smo [pač]{.underline} reveži.
 
 Was soll man machen, wir sind eben / nun mal arme Schlucker.
 
 Ta pomenska različica členka [pač]{.underline} prehaja v različico, pri kateri je izražena verjetnost, da je stavek resničen, manjša kot sto odstotkov.
 
-() Otrok je bil kaznovan, je [pač]{.underline} nagajal.
+(557) Otrok je bil kaznovan, je [pač]{.underline} nagajal.
 
 Das Kind ist bestraft worden.
 Es war halt / wohl / schon nicht brav.
@@ -1826,51 +1826,51 @@ Slovenske soznačnice členka [pač]{.underline} v tej rabi so lahko npr.
 Nemški ustrezniki za členek [pač]{.underline} v tej rabi sta lahko zlasti naklonska členka [wohl]{.underline} und [schon]{.underline} in stavčna prislova kot npr.
 [wohl]{.underline} in [vermutlich]{.underline}.
 
-() Kozarček bi se zdajle [pač]{.underline} prilegel.
+(558) Kozarček bi se zdajle [pač]{.underline} prilegel.
 
 Ein Gläschen würde jetzt schon gut tun.
 
-() Najbolj pametno bi [pač]{.underline} bilo vrniti se.
+(559) Najbolj pametno bi [pač]{.underline} bilo vrniti se.
 
 Am vernünftigsten wäre es wohl zurückzukehren.
 
-() Njegov prvi in [pač]{.underline} tudi zadnji poskus je spodletel.
+(560) Njegov prvi in [pač]{.underline} tudi zadnji poskus je spodletel.
 
 Sein erster und wohl auch letzter Versuch ist fehlgeschlagen.
 
-() Potrt je, [pač]{.underline} zato, ker nima službe.
+(561) Potrt je, [pač]{.underline} zato, ker nima službe.
 
 Er ist niedergeschlagen, wohl / eben deshalb, weil er keine Arbeit hat.
 
-() Tega [pač]{.underline} sam ne verjameš.
+(562) Tega [pač]{.underline} sam ne verjameš.
 
 Das glaubst du doch wohl selber nicht.
 
-() Kriv je, to se [pač]{.underline} ne da tajiti.
+(563) Kriv je, to se [pač]{.underline} ne da tajiti.
 
 Er ist schuldig, das kann man wohl / halt nicht leugnen.
 
-() Ljudstvo je [pač]{.underline} vredno boljše usode.
+(564) Ljudstvo je [pač]{.underline} vredno boljše usode.
 
 Das Volk hat schon / nun mal ein besseres Schicksal verdient.
 
-() [Pač]{.underline} bi bil nespameten, če bi ga poslušal.
+(565) [Pač]{.underline} bi bil nespameten, če bi ga poslušal.
 
 Ich wäre ja wohl / halt dumm, wenn ich auf ihn hören würde.
 
-() Sovražen nam ni, to [pač]{.underline} ne.
+(566) Sovražen nam ni, to [pač]{.underline} ne.
 
 Feindlich ist er uns nicht gesinnt, das wohl / schon nicht.
 
-() Kaj bo [pač]{.underline} ta to odgovoril ?
+(567) Kaj bo [pač]{.underline} ta to odgovoril ?
 
 Was wird er wohl darauf antworten ?
 
-() Kdo je [pač]{.underline} ta tujec ?
+(568) Kdo je [pač]{.underline} ta tujec ?
 
 Wer wohl dieser Fremde sein mag ?
 
-() Koliko let je [pač]{.underline}, kar se nisva videla ?
+(569) Koliko let je [pač]{.underline}, kar se nisva videla ?
 
 Wie lange ist es wohl (schon) her, seitdem wir uns gesehen haben ?
 
@@ -1880,7 +1880,7 @@ Wie lange ist es wohl (schon) her, seitdem wir uns gesehen haben ?
 Členitveni členki so tisti členki, ki osamelo nastopajo kot odziv govorca.
 Najpomembnejša skupna značilnost členitvenih členkov je njihova vloga, da krmilijo potek pogovora (prim. Thurmairjevo 1989:18, Willkopovo 1988).
 
-() A: Ali ne boš šel z nami ?
+(570) A: Ali ne boš šel z nami ?
 
 B: [Pač]{.underline} !
 Vsekakor !
@@ -1900,7 +1900,7 @@ In zehn Minuten legen wir ab.
 Skladenjsko se od drugih členkovnih rab razlikujejo po položaju, saj jih ni mogoče vgraditi v stavčno zgradbo.
 To jih razlikuje od stavčnih prislovov (npr. [najbrž]{.underline}, [zagotovo]{.underline}), ki lahko prav tako nastopajo nevgrajeni (izolirani kot odziv in neintegrirani na stavčnem predčelju) v stavčno zgradbo.
 
-() A: Učitelji so z ocenjevalno konferenco [najbrž]{.underline} že začeli.
+(571) A: Učitelji so z ocenjevalno konferenco [najbrž]{.underline} že začeli.
 
 B: [Najbrž]{.underline}, saj je že skrajni čas.
 Nihče ne bo hotel zamuditi prenosa smučarskih tekov.
@@ -1940,35 +1940,35 @@ izolirano ali na stavčnem predčelju.
 To ga razlikuje od drugih stavčnih prislovov.
 Kot stavčni prislov se členek [pač]{.underline} pojavlja na stavčnem čelu, v stavčni sredini in na stavčnem repu.
 
-() [Takoj]{.underline} je šel s kolegom po plačo.
+(572) [Takoj]{.underline} je šel s kolegom po plačo.
 
 Sofort ist er mit einem Kollegen zur Lohnauszahlung gegangen.
 
-() [Najbrž]{.underline} je šel s kolegom po plačo.
+(573) [Najbrž]{.underline} je šel s kolegom po plačo.
 
 Wahrscheinlich ist er mit einem Kollegen zur Lohnauszahlung gegangen.
 
-() [Pač]{.underline} je šel s kolegom po plačo.
+(574) [Pač]{.underline} je šel s kolegom po plačo.
 
 Wahrscheinlich ist er mit einem Kollegen zur Lohnauszahlung gegangen.
 
-() S kolegom je šel [takoj]{.underline} po plačo.
+(575) S kolegom je šel [takoj]{.underline} po plačo.
 
 Mit einem Kollegen ist er sofort zur Lohnauszahlung gegangen.
 
-() S kolegom je šel [najbrž]{.underline} po plačo.
+(576) S kolegom je šel [najbrž]{.underline} po plačo.
 
 Mit einem Kollegen ist er wahrscheinlich zur Lohnauszahlung gegangen.
 
-() S kolegom je šel [pač]{.underline} po plačo.
+(577) S kolegom je šel [pač]{.underline} po plačo.
 
 Mit einem Kollegen ist er wohl zur Lohnauszahlung gegangen.
 
-() S kolegom je [takoj]{.underline} šel po plačo.
+(578) S kolegom je [takoj]{.underline} šel po plačo.
 
-() S kolegom je [najbrž]{.underline} šel po plačo.
+(579) S kolegom je [najbrž]{.underline} šel po plačo.
 
-() S kolegom je [pač]{.underline} šel po plačo.
+(580) S kolegom je [pač]{.underline} šel po plačo.
 
 Stavčna prislova [najbrž]{.underline} in [pač]{.underline} se ne moreta pojavljati kot jedro stavka.
 
@@ -1976,23 +1976,23 @@ Prislovi kot npr.
 [takoj]{.underline} pa so lahko jedro stavka.
 Kontrastivna raba členkov [pač]{.underline} in [najbrž]{.underline} pa je videti možna.
 
-() S kolegom je šel po plačo [takoj]{.underline}.
+(581) S kolegom je šel po plačo [takoj]{.underline}.
 
-() ^?^S kolegom je šel po plačo [najbrž]{.underline}.
+(582) ^?^S kolegom je šel po plačo [najbrž]{.underline}.
 
-() ^\*^S kolegom je šel po plačo [pač]{.underline}.
+(583) ^\*^S kolegom je šel po plačo [pač]{.underline}.
 
 Stavčni prislov vselej nastopa pred stavčno nikalnico, prislov pa lako nastopa tudi za njo.
 
-() S kolegom ni šel [takoj]{.underline} po plačo.
+(584) S kolegom ni šel [takoj]{.underline} po plačo.
 
 Er ist mit seinem Kollegen nicht sofort zur Lohnauszahlung gegangen.
 
-() ^\*^S kolegom ni šel [najbrž]{.underline} po plačo.
+(585) ^\*^S kolegom ni šel [najbrž]{.underline} po plačo.
 
 ^\*^Er ist mit seinem Kollegen nicht wahrscheinlich zur Lohnauszahlung gegangen.
 
-() ^\*^S kolegom ni šel [pač]{.underline} po plačo.
+(586) ^\*^S kolegom ni šel [pač]{.underline} po plačo.
 
 ^\*^Er ist mit seinem Kollegen nicht wohl zur Lohnauszahlung gegangen.
 
@@ -2002,33 +2002,33 @@ Na odločevalno vprašanje lahko odgovorimo s prislovom, če ga spremlja znamenj
 Stavčna prislova [najbrž]{.underline} je lahko odgovor na odločevalno vprašanje, ne pa na dopolnjevalno vprašanje.
 Členek [pač]{.underline}, ki pomensko ustreza stavčnemu prislovu [najbrž]{.underline}, ne more biti odgovor odločevalno vprašanje, ne da bi spremenil pomena (gl. zgoraj).
 
-() Kdaj si šel domov ?
+(587) Kdaj si šel domov ?
 - [Takoj]{.underline}.
 
 Wann bist du nach Hause gegangen ?
 - Sofort.
 
-() Ali si šel domov ?
+(588) Ali si šel domov ?
 - ^\*^[Takoj]{.underline}.
 
 Bist du nach Hause gegangen ?
 - ^\*^Sofort.
 
-() Kdaj si šel domov ?
+(589) Kdaj si šel domov ?
 - ^\*^[Najbrž]{.underline}.
 
 Wann bist du nach Hause gegangen ?
 - ^\*^Wahrscheinlich.
 
-() Ali te je videl ? - [Najbrž]{.underline}. ## Hat er dich gesehen ? - Wahrscheinlich.
+(590) Ali te je videl ? - [Najbrž]{.underline}. ## Hat er dich gesehen ? - Wahrscheinlich.
 
-() Zakaj nisi šel domov ?
+(591) Zakaj nisi šel domov ?
 - ^\*^[Pač]{.underline}.
 
 Warum bist du nicht nach Hause gegangen ?
 - ^\*^Wohl./^\*^Doch.
 
-() Ali nisi šel domov ?
+(592) Ali nisi šel domov ?
 - [Pač]{.underline}.
 
 (pomensko ne ustreza členku [najbrž]{.underline})
@@ -2040,15 +2040,15 @@ Prislov kot npr.
 [takoj]{.underline} lahko priredno združujemo z drugimi prislovi.
 S členkoma [najbrž]{.underline} in [pač]{.underline} v vlogi stavčnih prislovov to ni mogoče.
 
-() Šel je [takoj]{.underline} in [tiho]{.underline} domov.
+(593) Šel je [takoj]{.underline} in [tiho]{.underline} domov.
 
 Er ist sofort und leise nach Hause gegangen.
 
-() ^\*^Šel je [najbrž]{.underline} in [tiho]{.underline} domov.
+(594) ^\*^Šel je [najbrž]{.underline} in [tiho]{.underline} domov.
 
 ^\*^Er ist wahrscheinlich und leider nach Hause gegangen.
 
-() ^\*^Šel je [pač]{.underline} in [tiho]{.underline} domov.
+(595) ^\*^Šel je [pač]{.underline} in [tiho]{.underline} domov.
 
 ^\*^Er ist wohl und leider nach Hause gegangen.
 
@@ -2056,17 +2056,17 @@ Prislov kot npr.
 [takoj]{.underline} ni odvisen od stavčnega naklona, saj lahko nastopa v različnih stavčnih tipih.
 Členka [najbrž]{.underline} in [pač]{.underline} pa se pojavljata le v določenih stavčnih naklonih.
 
-() Pisma je [takoj]{.underline}/[najbrž]{.underline}/[pač]{.underline} odposlala.
+(596) Pisma je [takoj]{.underline}/[najbrž]{.underline}/[pač]{.underline} odposlala.
 
 Sie hat die Briefe sofort/wahrscheinlich/wohl geschickt.
 
-() Ali je pisma [takoj]{.underline}/^\*^[najbrž]{.underline}/^\*^[pač]{.underline} odposlala ?
+(597) Ali je pisma [takoj]{.underline}/^\*^[najbrž]{.underline}/^\*^[pač]{.underline} odposlala ?
 
 Hat sie die Briefe sofort/^\*^wahrscheinlich/wohl geschickt.
 
 ([wohl]{.underline} ni stavčni prislov, je naklonski členek)
 
-() Zakaj je pisma [takoj]{.underline}/^\*^[najbrž]{.underline}/[pač]{.underline} odposlala ?
+(598) Zakaj je pisma [takoj]{.underline}/^\*^[najbrž]{.underline}/[pač]{.underline} odposlala ?
 
 (pomen členka [pač]{.underline} ne ustreza pomenu členka [najbrž]{.underline})
 
@@ -2074,19 +2074,19 @@ Warum hat sie die Briefe sofort/^\*^wahrscheinlich/wohl geschickt ?
 
 ([wohl]{.underline} ni stavčni prilsov, pač pa je naklonski členek)
 
-() [Takoj]{.underline}/^\*^[Najbrž]{.underline}/^\*^[Pač]{.underline} pošlji pisma !
+(599) [Takoj]{.underline}/^\*^[Najbrž]{.underline}/^\*^[Pač]{.underline} pošlji pisma !
 
-() Sende sofort/^\*^wahrscheinlich/^\*^wohl die Briefe !
+(600) Sende sofort/^\*^wahrscheinlich/^\*^wohl die Briefe !
 
-() Če bi pisma le [takoj]{.underline}/^\*^[najbrž]{.underline}/^\*^[pač]{.underline} odposlala !
+(601) Če bi pisma le [takoj]{.underline}/^\*^[najbrž]{.underline}/^\*^[pač]{.underline} odposlala !
 
 Wenn sie die Briefe doch nur sofort/^\*^wahrscheinlich/^\*^wohl geschickt hätte !
 
-() Pa je res [takoj]{.underline}/^\*^[najbrž]{.underline}/^\*^[pač]{.underline} odposlala pisma !
+(602) Pa je res [takoj]{.underline}/^\*^[najbrž]{.underline}/^\*^[pač]{.underline} odposlala pisma !
 
 Hat sie doch sofort/^\*^wahrscheinlich/^\*^wohl die Briefe geschickt !
 
-() Kako je [takoj]{.underline}/^\*^[najbrž]{.underline}/^\*^[pač]{.underline} odposlala pisma !
+(603) Kako je [takoj]{.underline}/^\*^[najbrž]{.underline}/^\*^[pač]{.underline} odposlala pisma !
 
 Wie schnell sie doch die Briefe gesendet hat !
 
@@ -2227,24 +2227,24 @@ Veznik [saj]{.underline} ima po SSKJ 1991-93 šest glavnih pomenskih različic, 
 Pomen, ki ga SSKJ 1991-93 pripisuje členku [saj]{.underline} je treba pripisovati govornemu dejanju ali kakemu drugemu izraznemu sredstvu, ne pa samemu členku.
 Prevodni ustrezniki so pogosto nemška naklonska členka [ja]{.underline} in [doch]{.underline} ali veznik [denn]{.underline}, seveda pa je tudi možno, da slovenskega členka [saj]{.underline} ne prevedemo.
 
-(1) Poznaš jo, [saj]{.underline} je hodila s teboj v šolo.
+(604) Poznaš jo, [saj]{.underline} je hodila s teboj v šolo.
 
 Du kennst sie, sie hat doch mit dir die Schulbank gedrückt.
 
-(2) Ne bom je predstavljal, [saj]{.underline} jo tako in tako poznate.
+(605) Ne bom je predstavljal, [saj]{.underline} jo tako in tako poznate.
 
 Ich brauche sie wohl nicht vorzustellen, Sie kennen sie ja sowieso.
 
-(3) Jej, [saj]{.underline} si gotovo zelo lačen.
+(606) Jej, [saj]{.underline} si gotovo zelo lačen.
 
 Iß nur, du hast doch sicher großen Hunger.
 
-(4) Nihče te ne bo podil od doma. [Saj]{.underline} sem jaz gospodar.
+(607) Nihče te ne bo podil od doma. [Saj]{.underline} sem jaz gospodar.
 
 Niemand wird dich aus dem Hause jagen.
 Herr im Hause bin (ja) ich.
 
-(5) Njeni prošnji so ugodili, [saj]{.underline} se jim je smilil otrok.
+(608) Njeni prošnji so ugodili, [saj]{.underline} se jim je smilil otrok.
 
 Sie erhörten ihre Bitte, denn das Kind tat ihnen leid.
 
@@ -2255,17 +2255,17 @@ To je značilno tudi za členke [navsezadnje]{.underline} (nem. [schließlich]{.
 V stavčni sredini pa vezniški prislov [saj]{.underline} v nasprotju z njima ne more nastopati.
 Členek [saj]{.underline} se lahko pojavlja le v pripovednih stavkih in v asertivnih vprašanjih.
 
-() A: Pozabili so na obljube.
+(609) A: Pozabili so na obljube.
 - B: [Saj]{.underline} (nikoli jih ne izpolnijo).
 
 A: Das waren lauter leere Versprechungen.
 B: Eben (sie halten sich nie an ihr Versprechen).
 
-() Prikimal je, češ, [saj]{.underline}, [saj]{.underline}, kako ne bi razumel.
+(610) Prikimal je, češ, [saj]{.underline}, [saj]{.underline}, kako ne bi razumel.
 
 Er nickte, als wollte er sagen, eben, eben, wie sollte ich das denn nicht verstehen.
 
-(5) Njeni prošnji so ugodili, [saj]{.underline} se jim je smilil otrok.
+(611) Njeni prošnji so ugodili, [saj]{.underline} se jim je smilil otrok.
 
 Njeni prošnji so ugodili, ^\*^[saj]{.underline} ljudem se je smilil otrok.
 
@@ -2279,21 +2279,21 @@ Vezniški prislov ne more biti odgovor na odločevalno ali dopolnjevalno vpraša
 
 Občutimo ga kot nepopoln odgovor, ki bi mu moralo slediti še pojasnilo.
 
-(10) A: Boš ostal pri nas ?
+(612) A: Boš ostal pri nas ?
 
 -   B: [Saj]{.underline} ...
 
 A: Bleibst du bei uns ?
 - B: Tja/Hm/Eben ...
 
-(11) A: Kako naj zdaj odidem ?
+(613) A: Kako naj zdaj odidem ?
 
 -   B: [Saj]{.underline} ...
 
 A: Wie soll ich denn jetzt von hier wegkommen ?
 - B: Tja/Hm/Eben ...
 
-() A: Ali se ti naloga ne zdi strašno slaba ?
+(614) A: Ali se ti naloga ne zdi strašno slaba ?
 - B: Saj, vendar se je že tako dolgo trudil.
 
 Ko se členek [saj]{.underline} pojavlja izoliran kot samostojen odziv na predhodno poved ali nevgrajen v stavčnem predčelju, morda že lahko govorimo o členitvenem členku.
@@ -2345,64 +2345,64 @@ Razlikujemo tele rabe členka [vendar]{.underline}: veznik, vezniški prislov, p
 
 1.  Členek [vendar]{.underline} kot **veznik** ponavadi ni poudarjen in se proklitično naslanja na sledeči stavčni člen. Veznik sicer lahko nastopa osamelo, tj. kot samostojen odziv na predhodno poved oz. kot nadaljevanje nepopolne povedi ali tudi nevgrajeno v stavčnem predčelju, vendar pa je zanj značilna vgrajenost v stavčno predčelje. Sam ali z odnosnico na stavčnem čelu ne nastopa. V tem primeru bomo govorili o vezniškem prislovu. Vezniku [vendar]{.underline} lahko sledi topikaliziran stavčni člen (čeprav to ni tako običajno), vezniškemu prislovu pa ne. Veznik ne more biti odgovor na vprašanje. Ni ga mogoče priredno združevati ali kopičiti (kombinirati) z drugimi vezniki. Veznik [vendar]{.underline} lahko nastopa v pripovednih, velelnih in vprašalnih stavkih. V želelnih in vzkličnih stavkih ga nismo zasledili, čeprav se nam zdi vsaj v želelnih stavkih možen.
 
-() Težave niso velike, [vendar]{.underline} obstajajo.
+(615) Težave niso velike, [vendar]{.underline} obstajajo.
 
 Die Schwierigkeiten sind nicht groß, doch sie existieren.
 
-() Oziral se je, [vendar]{.underline} ni bilo za njim nikogar.
+(616) Oziral se je, [vendar]{.underline} ni bilo za njim nikogar.
 
 Er schaute sich um, doch hinter ihm war niemand.
 
-() Ta vidik je resničen, [vendar]{.underline} enostranski.
+(617) Ta vidik je resničen, [vendar]{.underline} enostranski.
 
 Dieser Aspekt ist richtig, jedoch einseitig.
 
-() Sprli so se, [vendar]{.underline} pa s tem še ni rečeno, da ...
+(618) Sprli so se, [vendar]{.underline} pa s tem še ni rečeno, da ...
 
 Sie haben sich gestritten, doch das bedeutet nicht, daß ...
 
-() A: Včeraj sem sicer govoril še z ravnateljem ... - B: [Vendar]{.underline} ?
+(619) A: Včeraj sem sicer govoril še z ravnateljem ... - B: [Vendar]{.underline} ?
 
 A: Gestern habe ich zwar noch mit dem Direkter gesprochen ... - B: Aber ?
 
-() Razumljivo je, da potuje ravno pozimi.
+(620) Razumljivo je, da potuje ravno pozimi.
 [Vendar]{.underline}: Zakaj v tem mrazu ni oblekla zimskega plašča ?
 
 Es ist verständlich, daß sie gerade im Winter reist.
 Aber: Warum hat sie in dieser Kälte den Wintermantel nicht angezogen?
 
-() [Vendar]{.underline} v tej pesmi se ob izgovorjavi samoglasnikov kažejo nemške interference.
+(621) [Vendar]{.underline} v tej pesmi se ob izgovorjavi samoglasnikov kažejo nemške interference.
 
 Doch in diesem Gedicht zeigen sich in der Aussprache der Vokale deutsche Interferenzen.
 
-() A: Ali (ni)si zamudil avtobus ?
+(622) A: Ali (ni)si zamudil avtobus ?
 - B: ^\*^[Vendar]{.underline}.
 
 A: Hast du (nicht) den Bus versäumt ?
 - B: ^\*^[Doch]{.underline}.
 
-() A: Zakaj si ne priskrbiš mesečne vozovnice ?
+(623) A: Zakaj si ne priskrbiš mesečne vozovnice ?
 - B: ^\*^[Vendar]{.underline}.
 
 A: Warum schaffst du dir keine Monatskarte an ?
 - B: ^\*^[Doch]{.underline}.
 
-() Naj poskusi, ^\*^[vendar in kljub temu]{.underline} se bojim, da bo prepozno.
+(624) Naj poskusi, ^\*^[vendar in kljub temu]{.underline} se bojim, da bo prepozno.
 
 Er kann es ja versuchen, ^\*^[doch und trotzdem]{.underline} ich fürchte, daß es zu spät sein könnte.
 
-() Naj poskusi, ^\*^[vendar in]{.underline} se bojim, da bo prepozno.
+(625) Naj poskusi, ^\*^[vendar in]{.underline} se bojim, da bo prepozno.
 
 Er kann es ja versuchen, ^\*^[doch und]{.underline} ich fürchte, daß es zu spät sein könnte.
 
-() Morda je že prepozno.
+(626) Morda je že prepozno.
 [Vendar]{.underline}(:) če bi le še prišel !
 
 Vielleicht ist es schon zu spät.
 
 Aber(:) wenn sie doch nur käme !
 
-() ^?^[Vendar]{.underline} čaj je pa res vroč !
+(627) ^?^[Vendar]{.underline} čaj je pa res vroč !
 
 Doch der Tee ist vielleicht heiß !
 
@@ -2413,15 +2413,15 @@ tudi členek [navsezadnje]{.underline}.
 Vezniškem prislovu sledi v slovenščini naslonski niz (če obstaja) oz.
 glagolska oblika, v nemščini pa osebna glagolska oblika (v skladenjskem položaju VEZL - COMP).
 
-() Ni bil jezikoslovec, (in) [vendar]{.underline} so se v njeni izgovorjavi kazale nemške interference.
+(628) Ni bil jezikoslovec, (in) [vendar]{.underline} so se v njeni izgovorjavi kazale nemške interference.
 
 Er war (zwar) kein Sprachwissenschaftler, (und) doch zeigten sich in ihrer Aussprache deutsche Interferenzen.
 
-() Imel je slabo opremo, in [vendar]{.underline} je uspel.
+(629) Imel je slabo opremo, in [vendar]{.underline} je uspel.
 
 Er war schlecht ausgerüstet, und doch hat er es geschafft.
 
-() Raje ga bom poslušal, [navsezadnje]{.underline} ima več izkušenj kot jaz.
+(630) Raje ga bom poslušal, [navsezadnje]{.underline} ima več izkušenj kot jaz.
 
 Ich will lieber auf ihn hören, schließlich hat er mehr Erfahrungen als ich.
 
@@ -2429,20 +2429,20 @@ Domnevo, da zavzema vezniški prislov položaj stavčnega člena na stavčnem č
 Veznik [vendar]{.underline}, ki ima položaj v stavčnem predčelju, dopušča topikaliziran stavčni člen, medtem ko vezniški prislov, ki nastopa na stavčnem čelu, ne dopušča topikaliziranega stavčnega člena.
 Dopušča ga kvečjemu, če sledi vezniškemu prislovu kratek premor (ki se v pisavi kaže kot vejica ali dvopičje).
 
-() [Vendar]{.underline} v TEJ pesmi se kažejo v izgovorjavi nemške interference.
+(631) [Vendar]{.underline} v TEJ pesmi se kažejo v izgovorjavi nemške interference.
 
 (veznik; velike črke kontrastni poudarek)
 
 Doch in diesem Lied zeigen sich in der Aussprache deutsche Interferenzen.
 (veznik)
 
-() [Vendar]{.underline} v katerem primeru se v izgovorjavi kažejo nemške interference ?
+(632) [Vendar]{.underline} v katerem primeru se v izgovorjavi kažejo nemške interference ?
 (veznik)
 
 Doch in welchem Fall zeigen sich in der Aussprache deutsche Interference ?
 (veznik)
 
-() ^\*^In [vendar]{.underline} v tej pesmi se kažejo v izgovorjavi nemške interference.
+(633) ^\*^In [vendar]{.underline} v tej pesmi se kažejo v izgovorjavi nemške interference.
 
 (vezniški prislov [vendar]{.underline})
 
@@ -2450,21 +2450,21 @@ Doch in welchem Fall zeigen sich in der Aussprache deutsche Interference ?
 
 (vezniški prislov [doch]{.underline})
 
-() ^\*^In [vendar]{.underline} v katerem primeru se v izgovorjavi kažejo nemške interference ?
+(634) ^\*^In [vendar]{.underline} v katerem primeru se v izgovorjavi kažejo nemške interference ?
 
 (vezniški prislov [vendar]{.underline})
 
 ^\*^Und doch in welchem Fall zeigen sich in der Aussprache deutsche Interferenzen ?
 (vezniški prislov [doch]{.underline})
 
-() Raje ga bom poslušal, ^\*^[navsezadnje]{.underline} izkušnje so dragocenejše od mnogih knjig.
+(635) Raje ga bom poslušal, ^\*^[navsezadnje]{.underline} izkušnje so dragocenejše od mnogih knjig.
 
 (vezniški prislov [navsezadnje]{.underline})
 
 Ich will lieber zuhören, ^\*^schließlich Erfahrungen sind wertvoller als viele Bücher.
 (vezniški prislov [schließlich]{.underline})
 
-() Raje ga bom poslušal, [navsezadnje]{.underline}: izkušnje so dragocenejše od mnogih knjig.
+(636) Raje ga bom poslušal, [navsezadnje]{.underline}: izkušnje so dragocenejše od mnogih knjig.
 
 (vezniški prislov [navsezadnje]{.underline})
 
@@ -2472,7 +2472,7 @@ Ich will lieber zuhören, schließlich: Erfahrungen sind wertvoller als viele B�
 
 (vezniški prislov [schließlich]{.underline})
 
-() Raje ga bom poslušal, [navsezadnje]{.underline} so izkušnje dragocenejše od mnogih knjig.
+(637) Raje ga bom poslušal, [navsezadnje]{.underline} so izkušnje dragocenejše od mnogih knjig.
 
 (vezniški prislov [navsezadnje]{.underline})
 
@@ -2488,19 +2488,19 @@ Glede na to, da se vezniški prislov vede kot stavčni člen (možno ga je topik
 
 3.  **Kontrastni prislov** [vendar]{.underline} se prav tako kot vezniški prislov vede kot stavčni člen. V tej rabi je členek [vendar]{.underline} kontrastno poudarjen in se ponavadi pojavlja v stavčni sredini. Kontrastni prislov lahko ima tudi obliko [vendarle]{.underline}, ki velja po SSKJ 1991-93 kot razodevalna različica tega prislova. Vlogo kontrastnega prislova bi lahko imel tudi členek [že]{.underline} v določenih sobesedilih. O tem bomo govorili pri členku [že]{.underline}. Členek [vendar]{.underline} v tej vlogi je primerljiv z nemškim kontrastnim prislovom [doch]{.underline}, ki mu po mnenju Dohertyjeve 1985 daje kontrastni poudarek nekoliko drugačno vsebino kot nepoudarjenemu (naklonsko rabljenemu) členku [vendar]{.underline}, ki se prav tako pojavlja v stavčni sredini.
 
-() Imel je slabo opremo, in [vendar]{.underline} je uspel.
+(638) Imel je slabo opremo, in [vendar]{.underline} je uspel.
 (vezniški prislov)
 
 Er war schlecht ausgerüstet, und doch hat er es geschafft.
 (vezniški prislov)
 
-() Imel je slabo opremo, in je [VENDAR]{.underline} uspel.
+(639) Imel je slabo opremo, in je [VENDAR]{.underline} uspel.
 (kontrastni prislov)
 
 Er war schlecht ausgerüstet, und er hat es DOCH geschafft.
 (kontrastni prislov)
 
-() A: Pomoč prihaja.
+(640) A: Pomoč prihaja.
 - B: [VENDAR]{.underline} že !
 
 A: Hilfe naht.
@@ -2511,7 +2511,7 @@ Vselej je kontrastno poudarjen, sodi torej k jedru stavka.
 Poleg prislova je v stavku lahko poudarjen še kak drug stavčni člen, ki sodi k jedru stavka.
 Podobno kot členitveni členek [pač]{.underline} nam lahko rabi za zavračanje predhodne trditve, ki vsebuje nikalnico.
 
-() A: Mislim, da ga nocoj ne bo.
+(641) A: Mislim, da ga nocoj ne bo.
 - B: Kaj pa, če [VENDAR(LE)]{.underline} pride ?
 
 (kontrastni prislov [VENDAR(LE)]{.underline})
@@ -2521,7 +2521,7 @@ A: Ich glaube, er kommt heute abend nicht.
 
 (kontrastni prislov [DOCH]{.underline})
 
-() A: Mislim, da ga nocoj ne bo.
+(642) A: Mislim, da ga nocoj ne bo.
 - B: [Pač]{.underline}, možno je [že]{.underline}, toda ... (členitveni členek [PAČ]{.underline})
 
 A: Ich glaube, er kommt heute abend nicht.
@@ -2529,34 +2529,34 @@ A: Ich glaube, er kommt heute abend nicht.
 
 4.  **Naklonsko rabljen členek** [vendar]{.underline} nastopa le v stavčni sredini, je nepoudarjen, ne more biti odgovor na vprašanje, ni priredno združljiv z drugimi naklonsko rabljenimi členki. Možno je kopičenje (kombiniranje) naklonsko rabljenega členka [vendar]{.underline} z drugimi naklonsko rabljenimi členki, čeprav so te možnosti omejene v primerjavi z nemškim ustreznikom [doch]{.underline}. Naklonsko rabljen členek [doch]{.underline} je odvisen od stavčnega naklona, kar se kaže po tem, da ne more nastopati v vseh stavčnih naklonih. V odločevalnih vprašanjih se ne more pojavljati, kar lahko utemeljimo z njegovim pomenom. V nasprotju z nemškim naklonskim členkom [doch]{.underline} lahko nastopa naklonsko rabljen členek [vendar]{.underline} tudi v pravih dopolnjevalnih vprašanjih, čeprav je marsikatero moč razumeti kot retorično vprašanje, torej kot nepravo dopolnjevalno vprašanje. V takih vprašanjih se po pomenu približuje dvojici nemških naklonskih členkov [denn bloß]{.underline}. Nemški naklonski členek [doch]{.underline} se pojavlja samo v dopolnjevalnih vprašanjih, v katerih govorec sogovornika ne sprašuje po novi informaciji temveč po že posredovani informaciji. Taka vprašanja imajo torej značaj glasnega razmišljanja, spominjanja, ki mu pa seveda lahko sledi sogovornikov ponovni odgovor.
 
-() Svoje kolo bom [vendar]{.underline} poznal.
+(643) Svoje kolo bom [vendar]{.underline} poznal.
 
 Mein Rad werde ich doch wohl noch kennen.
 
-() Fant je [vendar]{.underline} zadosti star.
+(644) Fant je [vendar]{.underline} zadosti star.
 
 Der Junge ist doch schon alt genug.
 
-() Odpri [vendar]{.underline} !
+(645) Odpri [vendar]{.underline} !
 
 Mach doch auf !
 / Mach schon auf !
 
-() Kaj pa [vendar]{.underline} počenjaš ?
+(646) Kaj pa [vendar]{.underline} počenjaš ?
 
 Was machst du denn da bloß ?
 
-() To je pa [vendar]{.underline} že preveč !
+(647) To je pa [vendar]{.underline} že preveč !
 
 Das ist aber doch schon zuviel des Guten !
 
-() ^\*^Ali si [vendar]{.underline} PRIŠLA ?
+(648) ^\*^Ali si [vendar]{.underline} PRIŠLA ?
 (naklonsko rabljen členek [vendar]{.underline})
 
 ^\*^Bist du doch gekommen ?
 (naklonski členek [doch]{.underline})
 
-() ^\*^Ali si [VENDAR]{.underline} prišla ?
+(649) ^\*^Ali si [VENDAR]{.underline} prišla ?
 (kontrastni prislov [vendar]{.underline})
 
 ^\*^Bist du DOCH gekommen ?
@@ -2589,31 +2589,31 @@ Po glasoslovnih in skladenjskih lastnostih členka [že]{.underline} lahko razli
 
 1.  **Krajevno-časovni prislov** [že]{.underline} nastopa pred glagoli in pridevniki, ki imajo skladenjsko vlogo povedkovega določila ali krajevnimi prislovi. V tej rabi je lahko poudarjen in se lahko pojavlja sam na stavčnem čelu.
 
-() Janez je [že]{.underline} v šoli.
+(651) Janez je [že]{.underline} v šoli.
 
 Hans ist schon in der Schule (=bereits)
 
-() Komaj je ura dvanajst, in [ŽE]{.underline} je Janez na igrišču.
+(652) Komaj je ura dvanajst, in [ŽE]{.underline} je Janez na igrišču.
 
 Die Uhr hat gerade erst zwölf geschlagen, und SCHON ist Janez auf dem Spielplatz.
 
-() Mi smo [že]{.underline} končali, oni pa so šele začeli.
+(653) Mi smo [že]{.underline} končali, oni pa so šele začeli.
 
 Wir sind schon fertig, sie hingegen haben erst angefangen.
 
-() Tam je [že]{.underline} pomlad, tu je še zima.
+(654) Tam je [že]{.underline} pomlad, tu je še zima.
 
 Dort ist schon Frühling, hier ist noch Winter.
 
-() Komaj je odšla, [že]{.underline} so se začeli smejati.
+(655) Komaj je odšla, [že]{.underline} so se začeli smejati.
 
 Kaum war sie weggegangen, schon fingen sie an zu lachen.
 
-() [Že]{.underline} je hotel oditi, ko so ga poklicali po zvočniku.
+(656) [Že]{.underline} je hotel oditi, ko so ga poklicali po zvočniku.
 
 Er wollte schon gehen, als er über Lautsprecher gerufen wurde.
 
-() Janez ob tem času [že]{.underline} spi.
+(657) Janez ob tem času [že]{.underline} spi.
 
 Hans schläft schon um diese Zeit.
 
@@ -2627,7 +2627,7 @@ V stavčnem predčelju, če je vgrajen v stavčno zgradbo, v tej rabi ne more na
 Nevgrajen v stavek, in sicer v stavčnem predčelju, pa se lahko pojavlja, kar je značilno tudi za člentivene členke.
 Tako kot pravi prislovi se lahko sam pojavlja na stavčnem čelu, ne pa s kakšnim drugim stavčnim členom, saj lahko ta položaj po topološkem modelu stavka zasede samo en stavčni člen.
 
-() A: Ali si govoril s profesorjem ? ## - B: [Že]{.underline}./Da, [že]{.underline}. 
+(658) A: Ali si govoril s profesorjem ? ## - B: [Že]{.underline}./Da, [že]{.underline}. 
 
 (ponavadi spremlja členek še prikimivanje ali členek [da]{.underline} ipd.)
 
@@ -2636,17 +2636,17 @@ A: Hast du mit dem Professor gesprochen ?
 
 (tukaj členek [schon]{.underline} pomensko ne ustreza časovnemu prislovu)
 
-() A: Kdaj si govoril s profesorjem ? ## - B: ^\*^[Že]{.underline}.
+(659) A: Kdaj si govoril s profesorjem ? ## - B: ^\*^[Že]{.underline}.
 
 A: Wann hast du mit dem Professor gesprochen ?
 - B: ^\*^Schon.
 
-() A: Ali si govoril s profesorjem ? ## - B: [Že]{.underline}, saj je bil res skrajni čas.
+(660) A: Ali si govoril s profesorjem ? ## - B: [Že]{.underline}, saj je bil res skrajni čas.
 
 A: Hast du mit dem Professor gesprochen ?
 - B: Ja,/^\*^Schon, es war ja wirklich höchste Zeit.
 
-() Ni mi ga treba predstaviti, kajti: saj se [že]{.underline} poznava/se [že]{.underline} poznava.
+(661) Ni mi ga treba predstaviti, kajti: saj se [že]{.underline} poznava/se [že]{.underline} poznava.
 
 Ni mi ga treba predstaviti, kajti [že]{.underline} se poznava/poznava se [že]{.underline}.
 
@@ -2664,59 +2664,59 @@ k tistim poudarnim členkom, ki vključujejo še druge vrednosti.
 V to podskupino bi lahko uvrstili tudi poudarna členka [šele]{.underline} in [še]{.underline}.
 Pogosto se pojavlja poudarni členek [že]{.underline} pred prislovnimi določili časa, vendar tudi pred prislovnimi določili kraja in prislovnimi določili, ki izražajo mero ali količino.
 
-() [Že]{.underline} takrat so računali z izjemami.
+(662) [Že]{.underline} takrat so računali z izjemami.
 
 Schon damals haben sie mit Ausnahmen gerechnet.
 
-() [Že]{.underline} jutri bo prost.
+(663) [Že]{.underline} jutri bo prost.
 
 Schon morgen wird er frei sein.
 
-() Prijatelja sta [že]{.underline} iz otroških let.
+(664) Prijatelja sta [že]{.underline} iz otroških let.
 
 Sie sind schon als Kinder Freunde gewesen.
 
-() To bolezen je imel [že]{.underline} kot otrok.
+(665) To bolezen je imel [že]{.underline} kot otrok.
 
 Diese Krankheit hat er schon als Kind gehabt.
 
-() O tem govori v [že]{.underline} citiranem delu.
+(666) O tem govori v [že]{.underline} citiranem delu.
 
 Er spricht darüber in der bereits zitierten Arbeit.
 
-() Odvzeli so jim [že]{.underline} priznane pravice.
+(667) Odvzeli so jim [že]{.underline} priznane pravice.
 
 Die ihnen bereits anerkannten Rechte wurden ihnen genommen.
 
-() Do večera bodo ceste [že]{.underline} splužene.
+(668) Do večera bodo ceste [že]{.underline} splužene.
 
 Bis zum Abend werden die Straßen bereits vom Schnee gesäubert sein.
 
-() [Že]{.underline} dve uri čakajo.
+(669) [Že]{.underline} dve uri čakajo.
 
 Sie warten schon (seit) zwei Stunden.
 
-() Pojedel je [že]{.underline} pet krofov, pa še ni sit.
+(670) Pojedel je [že]{.underline} pet krofov, pa še ni sit.
 
 Er hat schon fünf Berliner gegessen und ist immer noch nicht satt.
 
-() Danes je [že]{.underline} trikrat tefefoniral.
+(671) Danes je [že]{.underline} trikrat tefefoniral.
 
 Heute hat er schon dreimal telefoniert.
 
-() Imajo [že]{.underline} več tisoč članov.
+(672) Imajo [že]{.underline} več tisoč članov.
 
 Sie haben schon mehrere tausend Mitglieder.
 
-() Pri branju knjige je [že]{.underline} na stoti strani.
+(673) Pri branju knjige je [že]{.underline} na stoti strani.
 
 Im Buch ist er schon auf Seite hundert.
 
-() [Že]{.underline} ime pove vse.
+(674) [Že]{.underline} ime pove vse.
 
 Schon der Name sagt alles.
 
-() Kristali so bili [že]{.underline} po obliki nenavadni.
+(675) Kristali so bili [že]{.underline} po obliki nenavadni.
 
 Die Kristalle waren schon von der Form her ungewöhnlich.
 
@@ -2728,59 +2728,59 @@ Ustrezno velja tudi za nemški poudarni členek (Gradpartikel) [schon]{.underlin
 V nekaterih primerih je stavek sicer kljub topikalizaciji členka slovniško pravilen, vendar pa dobi členek nekoliko drugačen pomen.
 Zato so zgledi kljub temu označeni z zvezdo.
 
-() ^\*^[Že]{.underline} so takrat računali z izjemami.
+(676) ^\*^[Že]{.underline} so takrat računali z izjemami.
 
 ^\*^Schon haben sie damals mit Ausnahmen gerechnet.
 
-() ^\*^[Že]{.underline} bo jutri prost.
+(677) ^\*^[Že]{.underline} bo jutri prost.
 
 ^\*^Schon wird er morgen frei sein.
 
-() ^\*^[Že]{.underline} sta prijatelja iz otroških let.
+(678) ^\*^[Že]{.underline} sta prijatelja iz otroških let.
 
 ^\*^Schon sind sie als Kinder Freunde gewesen.
 
-() ^\*^[Že]{.underline} je imel to bolezen kot otrok.
+(679) ^\*^[Že]{.underline} je imel to bolezen kot otrok.
 
 ^\*^Schon hat er diese Krankheit als Kind gehabt.
 
-() ^\*^[Že]{.underline} o tem govori v citiranem delu.
+(680) ^\*^[Že]{.underline} o tem govori v citiranem delu.
 
 ^\*^Schon spricht darüber in der zitierten Arbeit.
 
-() ^\*^[Že]{.underline} so jim odvzeli priznane pravice.
+(681) ^\*^[Že]{.underline} so jim odvzeli priznane pravice.
 
 ^\*^Schon wurden die ihnen anerkannten Rechte genommen.
 
-() ^\*^[Že]{.underline} bodo ceste do večera splužene.
+(682) ^\*^[Že]{.underline} bodo ceste do večera splužene.
 
 ^\*^Schon werden die Straßen bis zum Abend vom Schnee gesäubert sein.
 
-() ^\*^[Že]{.underline} čakajo dve uri.
+(684) ^\*^[Že]{.underline} čakajo dve uri.
 
 ^\*^Schon warten sie (seit) zwei Stunden.
 
-() ^\*^[Že]{.underline} je pojedel pet krofov, pa še ni sit.
+(685) ^\*^[Že]{.underline} je pojedel pet krofov, pa še ni sit.
 
 ^\*^Schon hat er fünf Berliner gegessen und ist immer noch nicht satt.
 
-() ^\*^[Že]{.underline} je danes trikrat tefefoniral.
+(686) ^\*^[Že]{.underline} je danes trikrat tefefoniral.
 
 ^\*^Schon hat er heute dreimal telefoniert.
 
-() ^\*^[Že]{.underline} imajo več tisoč članov.
+(687) ^\*^[Že]{.underline} imajo več tisoč članov.
 
 ^\*^Schon haben sie mehrere tausend Mitglieder.
 
-() ^\*^[Že]{.underline} je pri branju knjige na stoti strani.
+(688) ^\*^[Že]{.underline} je pri branju knjige na stoti strani.
 
 ^\*^Schon ist er im Buch auf Seite hundert.
 
-() [Že]{.underline} pove ime vse.
+(689) [Že]{.underline} pove ime vse.
 
 ^\*^Schon sagt der Name alles.
 
-() ^\*^[Že]{.underline} so bili kristali po obliki nenavadni.
+(690) ^\*^[Že]{.underline} so bili kristali po obliki nenavadni.
 
 ^\*^Schon waren die Kristalle von der Form her ungewöhnlich.
 
@@ -2792,7 +2792,7 @@ Pri nemškem ustrezniku [schon]{.underline} so razlike med poudarnim členkom in
 
 naklonskim členkom izrazitejše, jasnejše.
 
-() A: Ali so takrat računali z izjemami ?
+(691) A: Ali so takrat računali z izjemami ?
 - B: ^\*^[Že]{.underline}
 
 (časovni prislov, ki ga spremlja prikimavanje, pa je možen)
@@ -2802,7 +2802,7 @@ B: Hat man damals mit Ausnahmen gerechnet ?
 
 (Členek [schon]{.underline} tu že izraža odnos govorca do irečenega)
 
-() A: Ali je to bolezen že imel ?
+(692) A: Ali je to bolezen že imel ?
 - B: ^\*^[Že]{.underline}
 
 (časovni prislov, ki ga spremlja prikimavanje, je možen)
@@ -2812,12 +2812,12 @@ A: Hat er diese Krankheit schon gehabt ?
 
 (Členek [schon]{.underline} tu že izraža odnos govorca do irečenega)
 
-() A: Koliko časa že čakajo ?
+(693) A: Koliko časa že čakajo ?
 - B: ^\*^[Že]{.underline}./[Že]{.underline} dve uri.
 
 A: Wie lange warten sie schon ? ## - B: ^\*^Schon./Seit zwei Stunden.
 
-() ^\*^[Že]{.underline}, ime pove vse.
+(694) ^\*^[Že]{.underline}, ime pove vse.
 
 ^\*^Schon, der Name sagt alles.
 
@@ -2829,21 +2829,21 @@ Poudarni členki tudi niso odvisni od stavčnega naklona, tako da lahko nastopaj
 Nemški naklonski členek [schon]{.underline} se od istoimenskega členitvenega členka razlikuje tudi še po nepoudarjenosti.
 V povedi, v kateri rabimo členitveni členek [že]{.underline}, je značilno nadaljevanje s protivnim veznikom ([toda]{.underline}, [vendar]{.underline}).
 
-() A: Mislijo, da obvladujejo položaj.
+(695) A: Mislijo, da obvladujejo položaj.
 - B: [Že]{.underline}, toda ne bodo ga dolgo.
 
 A: Sie glauben, Herr der Lage zu sein.
 - B: Schon, aber sie werden es nicht mehr lange sein.
 
-() Organizirali bodo svetovno prvenstvo.
+(696) Organizirali bodo svetovno prvenstvo.
 - B: [Že že]{.underline}, a kdo bo vse to plačal ?
 
 Sie werden die Weltmeisterschaft organisieren.
 - B: Schon, aber wer soll das alles bezahlen ?
 
-() A: Ali ne bodo pri nas organizirali svetovno prvenstvo ? -- B: [Že]{.underline}, vendar za nas ne vidim nobene koristi v tem. ## A: Wird bei uns nicht die Weltmeisterschaft organisiert ? -- B: Schon, aber für uns sehe ich keinen Nutzen darin.
+(697) A: Ali ne bodo pri nas organizirali svetovno prvenstvo ? -- B: [Že]{.underline}, vendar za nas ne vidim nobene koristi v tem. ## A: Wird bei uns nicht die Weltmeisterschaft organisiert ? -- B: Schon, aber für uns sehe ich keinen Nutzen darin.
 
-() A: Ali bodo že letos pri nas priredili svetovno prvenstvo ?
+(698) A: Ali bodo že letos pri nas priredili svetovno prvenstvo ?
 - B: [Že]{.underline}.
 
 (Je lahko časovni prislov ali členitveni členek, vendar pa je interpretacijo členka kot časovnega prislova verjetnejša.)
@@ -2853,7 +2853,7 @@ A: Wird die Weltmeisterschaft schon in diesem Jahr bei uns organisiert ?
 
 (V nemščini te dvoumnosti ni, saj bi Nemec členek razumel kot naklonski členek in ne kot časovni prislov.)
 
-() A: Kdaj pa bodo pri nas organizirali svetovno prvenstvo ?
+(699) A: Kdaj pa bodo pri nas organizirali svetovno prvenstvo ?
 - B: ^\*^[Že]{.underline}, toda ...
 
 A: Wann wird denn bei uns die Weltmeisterschaft organisiert ?
@@ -2866,94 +2866,94 @@ Naklonsko rabljen členek je odvisen od stavčnega naklona.
 Zato se pojavlja le v pripovednih stavkih, v asertivnem tipu dopolnjevalnih vprašanj, v velelnih stavkih in v želelnih stavkih.
 V naklonsko rabljenem členku [že]{.underline} še pogosto čutimo časovni pomenski odtenek, saj je naklonska raba najbrž izpeljana iz časovne.
 
-() To ste [ŽE]{.underline} naredili, ker so vam pomagali.
+(700) To ste [ŽE]{.underline} naredili, ker so vam pomagali.
 (naklonsko rabljen členek)
 
 Sie werden das wohl/schon/^\*^bereits gemacht haben, weil: man hat ihnen geholfen.
 
-() To ste [že]{.underline} NAREDILI, ker ste imeli dovolj časa.
+(701) To ste [že]{.underline} NAREDILI, ker ste imeli dovolj časa.
 (časovni prislov)
 
 Sie haben das schon/bereits gemacht, weil sie genügend Zeit hatten.
 
-() Takrat si mu [ŽE]{.underline} posodil, zdaj mu pa ne bi več.
+(702) Takrat si mu [ŽE]{.underline} posodil, zdaj mu pa ne bi več.
 
 Damals haben sie ihm Geld schon geliehen, aber jetzt würden sie es wohl nicht mehr.
 
-() To ti bom pa [že]{.underline} (še) dal.
+(703) To ti bom pa [že]{.underline} (še) dal.
 
 Das werde ich dir (doch wohl) schon (noch) geben.
 
-() Nič ne de, bom [ŽE]{.underline} počakal.
+(704) Nič ne de, bom [ŽE]{.underline} počakal.
 
 Das macht nichts, ich warte schon (auf dich)./ich werde schon auf dich warten.
 
-() Šiva [ŽE]{.underline} še, težjega dela pa se ne loti več.
+(705) Šiva [ŽE]{.underline} še, težjega dela pa se ne loti več.
 
 Nähen tut sie schon noch, aber schwerere Arbeiten läßt sie nun liegen.
 
-() Drugega ne bo mogel delati, za vrt bo [že]{.underline} (še) skrbel.
+(706) Drugega ne bo mogel delati, za vrt bo [že]{.underline} (še) skrbel.
 
 Etwas anderes kann er nicht arbeiten, aber für den Garten wird er schon (noch) sorgen.
 
-() Ne čudite se preveč, je [ŽE]{.underline} tako, da se nesporazumu ne da izogniti.
+(707) Ne čudite se preveč, je [ŽE]{.underline} tako, da se nesporazumu ne da izogniti.
 
 Wundern Sie sich nicht zu sehr, es ist schon so, daß ein Mißverständnis nicht mehr aus dem Weg geräumt werden kann.
 
-() Daj mi [že]{.underline} (enkrat) mir !
+(708) Daj mi [že]{.underline} (enkrat) mir !
 
 Laß mich schon (endlich) in Ruhe !
 / Laß mich doch in Ruhe !
 
-() Govori [že]{.underline} vendar !
+(709) Govori [že]{.underline} vendar !
 
 Sprich doch schon (endlich) !
 
-() Ko bi vendar [že]{.underline} dobili stanovanje !
+(710) Ko bi vendar [že]{.underline} dobili stanovanje !
 
 Wenn wir doch schon eine Wohnung bekämen !
 
-() Razložil nam je [ŽE]{.underline}, a razumel ga ni nihče.
+(711) Razložil nam je [ŽE]{.underline}, a razumel ga ni nihče.
 
 Erklärt hat er es uns schon, aber verstanden hat ihn niemand.
 
-() A: Kdo gre z njim ?
+(712) A: Kdo gre z njim ?
 - B: Jaz [že]{.underline} ne.
 
 A: Wer geht mit ihm ?
 - B: Ich schon nicht.
 
-() Tako neumen pa [že]{.underline} ni.
+(713) Tako neumen pa [že]{.underline} ni.
 
 So dumm ist er wohl nicht.
 
-() Kje je [že]{.underline} to !
+(714) Kje je [že]{.underline} to !
 (spominja na poudarni členek: že + tam/kje)
 
 Wie lange das doch schon her ist !
 
-() Kje [že]{.underline} bom jutri ob tem času !
+(715) Kje [že]{.underline} bom jutri ob tem času !
 (spominja na poudarni členek: že + tam/kje)
 
 Wie weit entfernt ich doch morgen um diese Zeit schon sein werde !
 
-() Naj bo kakršna [že]{.underline}, rad jo imam.
+(716) Naj bo kakršna [že]{.underline}, rad jo imam.
 
 Wie auch immer sie nun mal ist, ich habe sie gern.
 
-() Čigav je [že]{.underline} bil tisti avtomobil ?
+(717) Čigav je [že]{.underline} bil tisti avtomobil ?
 
 Wessen Auto war das doch noch ?
 
-() Naj gredo, če [že]{.underline} hočejo.
+(718) Naj gredo, če [že]{.underline} hočejo.
 
 Sollen sie doch gehen, wenn sie schon wollen.
 
 ------------------------------------------------------------------------
 
-[1] Tudi v \~lanku Petri\~ 1994(PL) je tako.
+[1] Tudi v članku Petrič 1994(PL) je tako.
 
 [2] prim.
 Helbig 1988:??,
 Thurmairjevo 1989:??
-in poglavje XXX v tej disertaciji.
+in poglavje v disertaciji Petrič (1995).

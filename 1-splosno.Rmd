@@ -3,7 +3,7 @@
 ## Uvod
 
 Nemščina sodi med tiste jezike, ki za izražanje nepropozicijskega
-pomena, tj. odnosa govorca do izrečenega (prim. Weydta 1969),
+pomena, tj. odnosa govorca do izrečenega (prim. [@weydt1969abtonungspartikel]),
 epistemičnosti (prim. Dohertyjevo 1985, 1987), emotivne naklonskosti
 (prim. Bublitza 1978), razjasnitev govornih dejanj (prim. Helbiga 1977)
 uporablja poleg univerzalnega sredstva intonacije tudi členke. Za nemški
@@ -82,7 +82,7 @@ naklonski členki.
      You know, [don't you]{.underline}, how to cook.
 
 (rus. nakl. členek [ñe]{.underline}=[schon]{.underline}; Schooneveld
-1989:100 v Weydt 1989)
+1989:100 v [@weydt1969abtonungspartikel])
 
 (14) Wo habe ich [nur]{.underline} meine Schlüssel liegengelassen ?
 
